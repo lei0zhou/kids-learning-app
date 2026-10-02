@@ -1566,5 +1566,669 @@
 "es/ellos_bailan_y_cantan.mp3": [
 "es",
 "Ellos bailan y cantan."
+],
+"es/mexico_acc.mp3": [
+"es",
+"México"
+],
+"es/espana_acc.mp3": [
+"es",
+"España"
+],
+"es/colombia.mp3": [
+"es",
+"Colombia"
+],
+"es/argentina.mp3": [
+"es",
+"Argentina"
+],
+"es/peru_acc.mp3": [
+"es",
+"Perú"
+],
+"es/chile.mp3": [
+"es",
+"Chile"
+],
+"es/cuba.mp3": [
+"es",
+"Cuba"
+],
+"es/guatemala.mp3": [
+"es",
+"Guatemala"
+],
+"es/costa_rica.mp3": [
+"es",
+"Costa Rica"
+],
+"es/venezuela.mp3": [
+"es",
+"Venezuela"
+],
+"zh/7f8e-56fd.mp3": [
+"zh",
+"美国"
+],
+"es/estados_unidos.mp3": [
+"es",
+"Estados Unidos"
+],
+"zh/52a0-62ff-5927.mp3": [
+"zh",
+"加拿大"
+],
+"es/canada_acc.mp3": [
+"es",
+"Canadá"
+],
+"zh/58a8-897f-54e5.mp3": [
+"zh",
+"墨西哥"
+],
+"zh/5df4-897f.mp3": [
+"zh",
+"巴西"
+],
+"es/brasil.mp3": [
+"es",
+"Brasil"
+],
+"zh/963f-6839-5ef7.mp3": [
+"zh",
+"阿根廷"
+],
+"zh/79d8-9c81.mp3": [
+"zh",
+"秘鲁"
+],
+"zh/82f1-56fd.mp3": [
+"zh",
+"英国"
+],
+"es/reino_unido.mp3": [
+"es",
+"Reino Unido"
+],
+"zh/6cd5-56fd.mp3": [
+"zh",
+"法国"
+],
+"es/francia.mp3": [
+"es",
+"Francia"
+],
+"zh/4fc4-7f57-65af.mp3": [
+"zh",
+"俄罗斯"
+],
+"es/rusia.mp3": [
+"es",
+"Rusia"
+],
+"zh/4e2d-56fd.mp3": [
+"zh",
+"中国"
+],
+"es/china.mp3": [
+"es",
+"China"
+],
+"zh/5370-5ea6.mp3": [
+"zh",
+"印度"
+],
+"es/india.mp3": [
+"es",
+"India"
+],
+"zh/65e5-672c.mp3": [
+"zh",
+"日本"
+],
+"es/japon_acc.mp3": [
+"es",
+"Japón"
+],
+"zh/6fb3-5927-5229-4e9a.mp3": [
+"zh",
+"澳大利亚"
+],
+"es/australia.mp3": [
+"es",
+"Australia"
+],
+"zh/57c3-53ca.mp3": [
+"zh",
+"埃及"
+],
+"es/egipto.mp3": [
+"es",
+"Egipto"
+],
+"zh/5357-975e.mp3": [
+"zh",
+"南非"
+],
+"es/sudafrica_acc.mp3": [
+"es",
+"Sudáfrica"
+],
+"zh/667a-5229.mp3": [
+"zh",
+"智利"
+],
+"zh/54e5-4f26-6bd4-4e9a.mp3": [
+"zh",
+"哥伦比亚"
+],
+"zh/59d4-5185-745e-62c9.mp3": [
+"zh",
+"委内瑞拉"
+],
+"zh/5384-74dc-591a-5c14.mp3": [
+"zh",
+"厄瓜多尔"
+],
+"es/ecuador.mp3": [
+"es",
+"Ecuador"
+],
+"zh/73bb-5229-7ef4-4e9a.mp3": [
+"zh",
+"玻利维亚"
+],
+"es/bolivia.mp3": [
+"es",
+"Bolivia"
+],
+"zh/5df4-62c9-572d.mp3": [
+"zh",
+"巴拉圭"
+],
+"es/paraguay.mp3": [
+"es",
+"Paraguay"
+],
+"zh/4e4c-62c9-572d.mp3": [
+"zh",
+"乌拉圭"
+],
+"es/uruguay.mp3": [
+"es",
+"Uruguay"
+],
+"zh/53e4-5df4.mp3": [
+"zh",
+"古巴"
+],
+"zh/5371-5730-9a6c-62c9.mp3": [
+"zh",
+"危地马拉"
+],
+"zh/54e5-65af-8fbe-9ece-52a0.mp3": [
+"zh",
+"哥斯达黎加"
+],
+"zh/5df4-62ff-9a6c.mp3": [
+"zh",
+"巴拿马"
+],
+"es/panama_acc.mp3": [
+"es",
+"Panamá"
+],
+"zh/897f-73ed-7259.mp3": [
+"zh",
+"西班牙"
+],
+"zh/8461-8404-7259.mp3": [
+"zh",
+"葡萄牙"
+],
+"es/portugal.mp3": [
+"es",
+"Portugal"
+],
+"zh/5fb7-56fd.mp3": [
+"zh",
+"德国"
+],
+"es/alemania.mp3": [
+"es",
+"Alemania"
+],
+"zh/610f-5927-5229.mp3": [
+"zh",
+"意大利"
+],
+"es/italia.mp3": [
+"es",
+"Italia"
+],
+"zh/8377-5170.mp3": [
+"zh",
+"荷兰"
+],
+"es/paises_bajos_acc.mp3": [
+"es",
+"Países Bajos"
+],
+"zh/6bd4-5229-65f6.mp3": [
+"zh",
+"比利时"
+],
+"es/belgica_acc.mp3": [
+"es",
+"Bélgica"
+],
+"zh/745e-58eb.mp3": [
+"zh",
+"瑞士"
+],
+"es/suiza.mp3": [
+"es",
+"Suiza"
+],
+"zh/5965-5730-5229.mp3": [
+"zh",
+"奥地利"
+],
+"es/austria.mp3": [
+"es",
+"Austria"
+],
+"zh/6ce2-5170.mp3": [
+"zh",
+"波兰"
+],
+"es/polonia.mp3": [
+"es",
+"Polonia"
+],
+"zh/745e-5178.mp3": [
+"zh",
+"瑞典"
+],
+"es/suecia.mp3": [
+"es",
+"Suecia"
+],
+"zh/632a-5a01.mp3": [
+"zh",
+"挪威"
+],
+"es/noruega.mp3": [
+"es",
+"Noruega"
+],
+"zh/82ac-5170.mp3": [
+"zh",
+"芬兰"
+],
+"es/finlandia.mp3": [
+"es",
+"Finlandia"
+],
+"zh/4e39-9ea6.mp3": [
+"zh",
+"丹麦"
+],
+"es/dinamarca.mp3": [
+"es",
+"Dinamarca"
+],
+"zh/7231-5c14-5170.mp3": [
+"zh",
+"爱尔兰"
+],
+"es/irlanda.mp3": [
+"es",
+"Irlanda"
+],
+"zh/5e0c-814a.mp3": [
+"zh",
+"希腊"
+],
+"es/grecia.mp3": [
+"es",
+"Grecia"
+],
+"zh/4e4c-514b-5170.mp3": [
+"zh",
+"乌克兰"
+],
+"es/ucrania.mp3": [
+"es",
+"Ucrania"
+],
+"zh/571f-8033-5176.mp3": [
+"zh",
+"土耳其"
+],
+"es/turquia_acc.mp3": [
+"es",
+"Turquía"
+],
+"zh/51b0-5c9b.mp3": [
+"zh",
+"冰岛"
+],
+"es/islandia.mp3": [
+"es",
+"Islandia"
+],
+"zh/6377-514b.mp3": [
+"zh",
+"捷克"
+],
+"es/chequia.mp3": [
+"es",
+"Chequia"
+],
+"zh/5308-7259-5229.mp3": [
+"zh",
+"匈牙利"
+],
+"es/hungria_acc.mp3": [
+"es",
+"Hungría"
+],
+"zh/7f57-9a6c-5c3c-4e9a.mp3": [
+"zh",
+"罗马尼亚"
+],
+"es/rumania.mp3": [
+"es",
+"Rumania"
+],
+"zh/6c99-7279-963f-62c9-4f2f.mp3": [
+"zh",
+"沙特阿拉伯"
+],
+"es/arabia_saudi_acc.mp3": [
+"es",
+"Arabia Saudí"
+],
+"zh/4f0a-6717.mp3": [
+"zh",
+"伊朗"
+],
+"es/iran_acc.mp3": [
+"es",
+"Irán"
+],
+"zh/4f0a-62c9-514b.mp3": [
+"zh",
+"伊拉克"
+],
+"es/irak.mp3": [
+"es",
+"Irak"
+],
+"zh/4ee5-8272-5217.mp3": [
+"zh",
+"以色列"
+],
+"es/israel.mp3": [
+"es",
+"Israel"
+],
+"zh/5df4-57fa-65af-5766.mp3": [
+"zh",
+"巴基斯坦"
+],
+"es/pakistan_acc.mp3": [
+"es",
+"Pakistán"
+],
+"zh/963f-5bcc-6c57.mp3": [
+"zh",
+"阿富汗"
+],
+"es/afganistan_acc.mp3": [
+"es",
+"Afganistán"
+],
+"zh/54c8-8428-514b-65af-5766.mp3": [
+"zh",
+"哈萨克斯坦"
+],
+"es/kazajistan_acc.mp3": [
+"es",
+"Kazajistán"
+],
+"zh/8499-53e4.mp3": [
+"zh",
+"蒙古"
+],
+"es/mongolia.mp3": [
+"es",
+"Mongolia"
+],
+"zh/97e9-56fd.mp3": [
+"zh",
+"韩国"
+],
+"es/corea_del_sur.mp3": [
+"es",
+"Corea del Sur"
+],
+"zh/671d-9c9c.mp3": [
+"zh",
+"朝鲜"
+],
+"es/corea_del_norte.mp3": [
+"es",
+"Corea del Norte"
+],
+"zh/8d8a-5357.mp3": [
+"zh",
+"越南"
+],
+"es/vietnam.mp3": [
+"es",
+"Vietnam"
+],
+"zh/6cf0-56fd.mp3": [
+"zh",
+"泰国"
+],
+"es/tailandia.mp3": [
+"es",
+"Tailandia"
+],
+"zh/5370-5ea6-5c3c-897f-4e9a.mp3": [
+"zh",
+"印度尼西亚"
+],
+"es/indonesia.mp3": [
+"es",
+"Indonesia"
+],
+"zh/83f2-5f8b-5bbe.mp3": [
+"zh",
+"菲律宾"
+],
+"es/filipinas.mp3": [
+"es",
+"Filipinas"
+],
+"zh/9a6c-6765-897f-4e9a.mp3": [
+"zh",
+"马来西亚"
+],
+"es/malasia.mp3": [
+"es",
+"Malasia"
+],
+"zh/5c3c-6cca-5c14.mp3": [
+"zh",
+"尼泊尔"
+],
+"es/nepal.mp3": [
+"es",
+"Nepal"
+],
+"zh/5b5f-52a0-62c9-56fd.mp3": [
+"zh",
+"孟加拉国"
+],
+"es/bangladesh.mp3": [
+"es",
+"Bangladesh"
+],
+"zh/65b0-897f-5170.mp3": [
+"zh",
+"新西兰"
+],
+"es/nueva_zelanda.mp3": [
+"es",
+"Nueva Zelanda"
+],
+"zh/5df4-5e03-4e9a-65b0-51e0-5185-4e9a.mp3": [
+"zh",
+"巴布亚新几内亚"
+],
+"es/papua_nueva_guinea_acc.mp3": [
+"es",
+"Papúa Nueva Guinea"
+],
+"zh/5c3c-65e5-5229-4e9a.mp3": [
+"zh",
+"尼日利亚"
+],
+"es/nigeria.mp3": [
+"es",
+"Nigeria"
+],
+"zh/80af-5c3c-4e9a.mp3": [
+"zh",
+"肯尼亚"
+],
+"es/kenia.mp3": [
+"es",
+"Kenia"
+],
+"zh/57c3-585e-4fc4-6bd4-4e9a.mp3": [
+"zh",
+"埃塞俄比亚"
+],
+"es/etiopia_acc.mp3": [
+"es",
+"Etiopía"
+],
+"zh/6469-6d1b-54e5.mp3": [
+"zh",
+"摩洛哥"
+],
+"es/marruecos.mp3": [
+"es",
+"Marruecos"
+],
+"zh/963f-5c14-53ca-5229-4e9a.mp3": [
+"zh",
+"阿尔及利亚"
+],
+"es/argelia.mp3": [
+"es",
+"Argelia"
+],
+"zh/52a0-7eb3.mp3": [
+"zh",
+"加纳"
+],
+"es/ghana.mp3": [
+"es",
+"Ghana"
+],
+"zh/5766-6851-5c3c-4e9a.mp3": [
+"zh",
+"坦桑尼亚"
+],
+"es/tanzania.mp3": [
+"es",
+"Tanzania"
+],
+"zh/9a6c-8fbe-52a0-65af-52a0.mp3": [
+"zh",
+"马达加斯加"
+],
+"es/madagascar.mp3": [
+"es",
+"Madagascar"
+],
+"zh/521a-679c-6c11-4e3b-5171-548c-56fd.mp3": [
+"zh",
+"刚果民主共和国"
+],
+"es/republica_democratica_del_congo_acc.mp3": [
+"es",
+"República Democrática del Congo"
+],
+"zh/5b89-54e5-62c9.mp3": [
+"zh",
+"安哥拉"
+],
+"es/angola.mp3": [
+"es",
+"Angola"
+],
+"zh/82cf-4e39.mp3": [
+"zh",
+"苏丹"
+],
+"es/sudan_acc.mp3": [
+"es",
+"Sudán"
+],
+"zh/5229-6bd4-4e9a.mp3": [
+"zh",
+"利比亚"
+],
+"es/libia.mp3": [
+"es",
+"Libia"
+],
+"en/world_china.mp3": [
+"en",
+"Mei lives in a busy city where bicycles and scooters zoom past tall buildings. On weekends her family visits a huge wall that winds over the mountains like a stone dragon. At the zoo, she always waves to the black-and-white bears munching bamboo. Find Mei's country!"
+],
+"en/world_egypt.mp3": [
+"en",
+"Omar rides a camel across golden sand. In the distance, three giant triangles of stone point at the sky. They were built thousands of years ago for kings called pharaohs. A long river flows nearby and turns the desert green. Where is Omar?"
+],
+"en/world_brazil.mp3": [
+"en",
+"Lucas paddles a canoe along a wide brown river. Monkeys chatter in the trees, and bright parrots flash red and blue. This rainforest is the largest in the world. Lucas speaks Portuguese. Find his country!"
+],
+"en/world_australia.mp3": [
+"en",
+"Ruby wakes up to a bird that sounds like it is laughing. Outside, a mother animal hops by with a baby peeking out of her pouch. Ruby's country is so big that it is also a whole continent. Where does Ruby live?"
+],
+"en/world_canada.mp3": [
+"en",
+"Noah ties on his skates and glides across a frozen lake. Maple trees surround the lake, and a red maple leaf is on his country's flag. Moose sometimes wander right into town! Find Noah's country."
+],
+"en/world_japan.mp3": [
+"en",
+"Hana eats breakfast with chopsticks: rice, soup and fish. From her window she can see a tall, snow-capped volcano. Her country is made of many islands, and its trains are super fast. Where is Hana?"
+],
+"en/world_india.mp3": [
+"en",
+"Priya's family celebrates a festival of lights with little lamps and fireworks. They visit a white marble palace with a beautiful dome. Elephants and tigers live in her country's forests. Find Priya's country!"
+],
+"en/world_mexico.mp3": [
+"en",
+"Sofía helps her grandma make tortillas from corn. Tonight there is a party with music and a colorful piñata. People here speak Spanish, and long ago they were among the first to grow chocolate. Where is Sofía?"
+],
+"en/world_kenya.mp3": [
+"en",
+"Baraka watches a herd of zebras race across the grassland. A giraffe stretches its neck to nibble a tree, and a lion naps in the shade. His country is in East Africa, right on the equator. Find Baraka's country!"
+],
+"en/world_italy.mp3": [
+"en",
+"Giulia and her brother share a pizza in a sunny square. Their country is shaped like a tall boot kicking a ball. In the capital, they visit a giant old stadium where gladiators once fought. Where are they?"
 ]
 }

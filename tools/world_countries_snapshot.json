@@ -1,0 +1,2486 @@
+{
+"533": {
+"cca2": "AW",
+"capital": [
+"Oranjestad"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "阿鲁巴",
+"es": "Aruba"
+},
+"004": {
+"cca2": "AF",
+"capital": [
+"Kabul"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "阿富汗",
+"es": "Afganistán"
+},
+"024": {
+"cca2": "AO",
+"capital": [
+"Luanda"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "安哥拉",
+"es": "Angola"
+},
+"660": {
+"cca2": "AI",
+"capital": [
+"The Valley"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "安圭拉",
+"es": "Anguilla"
+},
+"248": {
+"cca2": "AX",
+"capital": [
+"Mariehamn"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "奥兰群岛",
+"es": "Alandia"
+},
+"008": {
+"cca2": "AL",
+"capital": [
+"Tirana"
+],
+"region": "Europe",
+"subregion": "Southeast Europe",
+"zh": "阿尔巴尼亚",
+"es": "Albania"
+},
+"020": {
+"cca2": "AD",
+"capital": [
+"Andorra la Vella"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "安道尔",
+"es": "Andorra"
+},
+"784": {
+"cca2": "AE",
+"capital": [
+"Abu Dhabi"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "阿拉伯联合酋长国",
+"es": "Emiratos Árabes Unidos"
+},
+"032": {
+"cca2": "AR",
+"capital": [
+"Buenos Aires"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "阿根廷",
+"es": "Argentina"
+},
+"051": {
+"cca2": "AM",
+"capital": [
+"Yerevan"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "亚美尼亚",
+"es": "Armenia"
+},
+"016": {
+"cca2": "AS",
+"capital": [
+"Pago Pago"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "美属萨摩亚",
+"es": "Samoa Americana"
+},
+"010": {
+"cca2": "AQ",
+"capital": [],
+"region": "Antarctic",
+"subregion": "",
+"zh": "南极洲",
+"es": "Antártida"
+},
+"260": {
+"cca2": "TF",
+"capital": [
+"Port-aux-Français"
+],
+"region": "Antarctic",
+"subregion": "",
+"zh": "法国南部和南极土地",
+"es": "Tierras Australes y Antárticas Francesas"
+},
+"028": {
+"cca2": "AG",
+"capital": [
+"Saint John's"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "安提瓜和巴布达",
+"es": "Antigua y Barbuda"
+},
+"036": {
+"cca2": "AU",
+"capital": [
+"Canberra"
+],
+"region": "Oceania",
+"subregion": "Australia and New Zealand",
+"zh": "澳大利亚",
+"es": "Australia"
+},
+"040": {
+"cca2": "AT",
+"capital": [
+"Vienna"
+],
+"region": "Europe",
+"subregion": "Central Europe",
+"zh": "奥地利",
+"es": "Austria"
+},
+"031": {
+"cca2": "AZ",
+"capital": [
+"Baku"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "阿塞拜疆",
+"es": "Azerbaiyán"
+},
+"108": {
+"cca2": "BI",
+"capital": [
+"Gitega"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "布隆迪",
+"es": "Burundi"
+},
+"056": {
+"cca2": "BE",
+"capital": [
+"Brussels"
+],
+"region": "Europe",
+"subregion": "Western Europe",
+"zh": "比利时",
+"es": "Bélgica"
+},
+"204": {
+"cca2": "BJ",
+"capital": [
+"Porto-Novo"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "贝宁",
+"es": "Benín"
+},
+"854": {
+"cca2": "BF",
+"capital": [
+"Ouagadougou"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "布基纳法索",
+"es": "Burkina Faso"
+},
+"050": {
+"cca2": "BD",
+"capital": [
+"Dhaka"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "孟加拉国",
+"es": "Bangladesh"
+},
+"100": {
+"cca2": "BG",
+"capital": [
+"Sofia"
+],
+"region": "Europe",
+"subregion": "Southeast Europe",
+"zh": "保加利亚",
+"es": "Bulgaria"
+},
+"048": {
+"cca2": "BH",
+"capital": [
+"Manama"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "巴林",
+"es": "Bahrein"
+},
+"044": {
+"cca2": "BS",
+"capital": [
+"Nassau"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "巴哈马",
+"es": "Bahamas"
+},
+"070": {
+"cca2": "BA",
+"capital": [
+"Sarajevo"
+],
+"region": "Europe",
+"subregion": "Southeast Europe",
+"zh": "波斯尼亚和黑塞哥维那",
+"es": "Bosnia y Herzegovina"
+},
+"652": {
+"cca2": "BL",
+"capital": [
+"Gustavia"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "圣巴泰勒米",
+"es": "San Bartolomé"
+},
+"654": {
+"cca2": "SH",
+"capital": [
+"Jamestown"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+"es": "Santa Elena, Ascensión y Tristán de Acuña"
+},
+"112": {
+"cca2": "BY",
+"capital": [
+"Minsk"
+],
+"region": "Europe",
+"subregion": "Eastern Europe",
+"zh": "白俄罗斯",
+"es": "Bielorrusia"
+},
+"084": {
+"cca2": "BZ",
+"capital": [
+"Belmopan"
+],
+"region": "Americas",
+"subregion": "Central America",
+"zh": "伯利兹",
+"es": "Belice"
+},
+"060": {
+"cca2": "BM",
+"capital": [
+"Hamilton"
+],
+"region": "Americas",
+"subregion": "North America",
+"zh": "百慕大",
+"es": "Bermudas"
+},
+"068": {
+"cca2": "BO",
+"capital": [
+"Sucre"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "玻利维亚",
+"es": "Bolivia"
+},
+"535": {
+"cca2": "BQ",
+"capital": [
+"Kralendijk",
+"Oranjestad",
+"The Bottom"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "荷蘭加勒比區",
+"es": "Caribe Neerlandés"
+},
+"076": {
+"cca2": "BR",
+"capital": [
+"Brasília"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "巴西",
+"es": "Brasil"
+},
+"052": {
+"cca2": "BB",
+"capital": [
+"Bridgetown"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "巴巴多斯",
+"es": "Barbados"
+},
+"096": {
+"cca2": "BN",
+"capital": [
+"Bandar Seri Begawan"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "文莱",
+"es": "Brunei"
+},
+"064": {
+"cca2": "BT",
+"capital": [
+"Thimphu"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "不丹",
+"es": "Bután"
+},
+"074": {
+"cca2": "BV",
+"capital": [],
+"region": "Antarctic",
+"subregion": "",
+"zh": "布维岛",
+"es": "Isla Bouvet"
+},
+"072": {
+"cca2": "BW",
+"capital": [
+"Gaborone"
+],
+"region": "Africa",
+"subregion": "Southern Africa",
+"zh": "博茨瓦纳",
+"es": "Botswana"
+},
+"140": {
+"cca2": "CF",
+"capital": [
+"Bangui"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "中非共和国",
+"es": "República Centroafricana"
+},
+"124": {
+"cca2": "CA",
+"capital": [
+"Ottawa"
+],
+"region": "Americas",
+"subregion": "North America",
+"zh": "加拿大",
+"es": "Canadá"
+},
+"166": {
+"cca2": "CC",
+"capital": [
+"West Island"
+],
+"region": "Oceania",
+"subregion": "Australia and New Zealand",
+"zh": "科科斯",
+"es": "Islas Cocos o Islas Keeling"
+},
+"756": {
+"cca2": "CH",
+"capital": [
+"Bern"
+],
+"region": "Europe",
+"subregion": "Western Europe",
+"zh": "瑞士",
+"es": "Suiza"
+},
+"152": {
+"cca2": "CL",
+"capital": [
+"Santiago"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "智利",
+"es": "Chile"
+},
+"156": {
+"cca2": "CN",
+"capital": [
+"Beijing"
+],
+"region": "Asia",
+"subregion": "Eastern Asia",
+"zh": "中国",
+"es": "China"
+},
+"384": {
+"cca2": "CI",
+"capital": [
+"Yamoussoukro"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "科特迪瓦",
+"es": "Costa de Marfil"
+},
+"120": {
+"cca2": "CM",
+"capital": [
+"Yaoundé"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "喀麦隆",
+"es": "Camerún"
+},
+"180": {
+"cca2": "CD",
+"capital": [
+"Kinshasa"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "民主刚果",
+"es": "Congo (Rep. Dem.)"
+},
+"178": {
+"cca2": "CG",
+"capital": [
+"Brazzaville"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "刚果",
+"es": "Congo"
+},
+"184": {
+"cca2": "CK",
+"capital": [
+"Avarua"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "库克群岛",
+"es": "Islas Cook"
+},
+"170": {
+"cca2": "CO",
+"capital": [
+"Bogotá"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "哥伦比亚",
+"es": "Colombia"
+},
+"174": {
+"cca2": "KM",
+"capital": [
+"Moroni"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "科摩罗",
+"es": "Comoras"
+},
+"132": {
+"cca2": "CV",
+"capital": [
+"Praia"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "佛得角",
+"es": "Cabo Verde"
+},
+"188": {
+"cca2": "CR",
+"capital": [
+"San José"
+],
+"region": "Americas",
+"subregion": "Central America",
+"zh": "哥斯达黎加",
+"es": "Costa Rica"
+},
+"192": {
+"cca2": "CU",
+"capital": [
+"Havana"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "古巴",
+"es": "Cuba"
+},
+"531": {
+"cca2": "CW",
+"capital": [
+"Willemstad"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "库拉索",
+"es": "Curazao"
+},
+"162": {
+"cca2": "CX",
+"capital": [
+"Flying Fish Cove"
+],
+"region": "Oceania",
+"subregion": "Australia and New Zealand",
+"zh": "圣诞岛",
+"es": "Isla de Navidad"
+},
+"136": {
+"cca2": "KY",
+"capital": [
+"George Town"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "开曼群岛",
+"es": "Islas Caimán"
+},
+"196": {
+"cca2": "CY",
+"capital": [
+"Nicosia"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "塞浦路斯",
+"es": "Chipre"
+},
+"203": {
+"cca2": "CZ",
+"capital": [
+"Prague"
+],
+"region": "Europe",
+"subregion": "Central Europe",
+"zh": "捷克",
+"es": "Chequia"
+},
+"276": {
+"cca2": "DE",
+"capital": [
+"Berlin"
+],
+"region": "Europe",
+"subregion": "Western Europe",
+"zh": "德国",
+"es": "Alemania"
+},
+"262": {
+"cca2": "DJ",
+"capital": [
+"Djibouti"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "吉布提",
+"es": "Djibouti"
+},
+"212": {
+"cca2": "DM",
+"capital": [
+"Roseau"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "多米尼加",
+"es": "Dominica"
+},
+"208": {
+"cca2": "DK",
+"capital": [
+"Copenhagen"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "丹麦",
+"es": "Dinamarca"
+},
+"214": {
+"cca2": "DO",
+"capital": [
+"Santo Domingo"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "多明尼加",
+"es": "República Dominicana"
+},
+"012": {
+"cca2": "DZ",
+"capital": [
+"Algiers"
+],
+"region": "Africa",
+"subregion": "Northern Africa",
+"zh": "阿尔及利亚",
+"es": "Argelia"
+},
+"218": {
+"cca2": "EC",
+"capital": [
+"Quito"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "厄瓜多尔",
+"es": "Ecuador"
+},
+"818": {
+"cca2": "EG",
+"capital": [
+"Cairo"
+],
+"region": "Africa",
+"subregion": "Northern Africa",
+"zh": "埃及",
+"es": "Egipto"
+},
+"232": {
+"cca2": "ER",
+"capital": [
+"Asmara"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "厄立特里亚",
+"es": "Eritrea"
+},
+"732": {
+"cca2": "EH",
+"capital": [
+"El Aaiún"
+],
+"region": "Africa",
+"subregion": "Northern Africa",
+"zh": "西撒哈拉",
+"es": "Sahara Occidental"
+},
+"724": {
+"cca2": "ES",
+"capital": [
+"Madrid"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "西班牙",
+"es": "España"
+},
+"233": {
+"cca2": "EE",
+"capital": [
+"Tallinn"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "爱沙尼亚",
+"es": "Estonia"
+},
+"231": {
+"cca2": "ET",
+"capital": [
+"Addis Ababa"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "埃塞俄比亚",
+"es": "Etiopía"
+},
+"246": {
+"cca2": "FI",
+"capital": [
+"Helsinki"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "芬兰",
+"es": "Finlandia"
+},
+"242": {
+"cca2": "FJ",
+"capital": [
+"Suva"
+],
+"region": "Oceania",
+"subregion": "Melanesia",
+"zh": "斐济",
+"es": "Fiyi"
+},
+"238": {
+"cca2": "FK",
+"capital": [
+"Stanley"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "福克兰群岛",
+"es": "Islas Malvinas"
+},
+"250": {
+"cca2": "FR",
+"capital": [
+"Paris"
+],
+"region": "Europe",
+"subregion": "Western Europe",
+"zh": "法国",
+"es": "Francia"
+},
+"234": {
+"cca2": "FO",
+"capital": [
+"Tórshavn"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "法罗群岛",
+"es": "Islas Faroe"
+},
+"583": {
+"cca2": "FM",
+"capital": [
+"Palikir"
+],
+"region": "Oceania",
+"subregion": "Micronesia",
+"zh": "密克罗尼西亚",
+"es": "Micronesia"
+},
+"266": {
+"cca2": "GA",
+"capital": [
+"Libreville"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "加蓬",
+"es": "Gabón"
+},
+"826": {
+"cca2": "GB",
+"capital": [
+"London"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "英国",
+"es": "Reino Unido"
+},
+"268": {
+"cca2": "GE",
+"capital": [
+"Tbilisi"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "格鲁吉亚",
+"es": "Georgia"
+},
+"831": {
+"cca2": "GG",
+"capital": [
+"St. Peter Port"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "根西岛",
+"es": "Guernsey"
+},
+"288": {
+"cca2": "GH",
+"capital": [
+"Accra"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "加纳",
+"es": "Ghana"
+},
+"292": {
+"cca2": "GI",
+"capital": [
+"Gibraltar"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "直布罗陀",
+"es": "Gibraltar"
+},
+"324": {
+"cca2": "GN",
+"capital": [
+"Conakry"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "几内亚",
+"es": "Guinea"
+},
+"312": {
+"cca2": "GP",
+"capital": [
+"Basse-Terre"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "瓜德罗普岛",
+"es": "Guadalupe"
+},
+"270": {
+"cca2": "GM",
+"capital": [
+"Banjul"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "冈比亚",
+"es": "Gambia"
+},
+"624": {
+"cca2": "GW",
+"capital": [
+"Bissau"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "几内亚比绍",
+"es": "Guinea-Bisáu"
+},
+"226": {
+"cca2": "GQ",
+"capital": [
+"Malabo"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "赤道几内亚",
+"es": "Guinea Ecuatorial"
+},
+"300": {
+"cca2": "GR",
+"capital": [
+"Athens"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "希腊",
+"es": "Grecia"
+},
+"308": {
+"cca2": "GD",
+"capital": [
+"St. George's"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "格林纳达",
+"es": "Grenada"
+},
+"304": {
+"cca2": "GL",
+"capital": [
+"Nuuk"
+],
+"region": "Americas",
+"subregion": "North America",
+"zh": "格陵兰",
+"es": "Groenlandia"
+},
+"320": {
+"cca2": "GT",
+"capital": [
+"Guatemala City"
+],
+"region": "Americas",
+"subregion": "Central America",
+"zh": "危地马拉",
+"es": "Guatemala"
+},
+"254": {
+"cca2": "GF",
+"capital": [
+"Cayenne"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "法属圭亚那",
+"es": "Guayana Francesa"
+},
+"316": {
+"cca2": "GU",
+"capital": [
+"Hagåtña"
+],
+"region": "Oceania",
+"subregion": "Micronesia",
+"zh": "关岛",
+"es": "Guam"
+},
+"328": {
+"cca2": "GY",
+"capital": [
+"Georgetown"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "圭亚那",
+"es": "Guyana"
+},
+"344": {
+"cca2": "HK",
+"capital": [
+"City of Victoria"
+],
+"region": "Asia",
+"subregion": "Eastern Asia",
+"zh": "香港",
+"es": "Hong Kong"
+},
+"334": {
+"cca2": "HM",
+"capital": [],
+"region": "Antarctic",
+"subregion": "",
+"zh": "赫德岛和麦当劳群岛",
+"es": "Islas Heard y McDonald"
+},
+"340": {
+"cca2": "HN",
+"capital": [
+"Tegucigalpa"
+],
+"region": "Americas",
+"subregion": "Central America",
+"zh": "洪都拉斯",
+"es": "Honduras"
+},
+"191": {
+"cca2": "HR",
+"capital": [
+"Zagreb"
+],
+"region": "Europe",
+"subregion": "Southeast Europe",
+"zh": "克罗地亚",
+"es": "Croacia"
+},
+"332": {
+"cca2": "HT",
+"capital": [
+"Port-au-Prince"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "海地",
+"es": "Haití"
+},
+"348": {
+"cca2": "HU",
+"capital": [
+"Budapest"
+],
+"region": "Europe",
+"subregion": "Central Europe",
+"zh": "匈牙利",
+"es": "Hungría"
+},
+"360": {
+"cca2": "ID",
+"capital": [
+"Jakarta"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "印度尼西亚",
+"es": "Indonesia"
+},
+"833": {
+"cca2": "IM",
+"capital": [
+"Douglas"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "马恩岛",
+"es": "Isla de Man"
+},
+"356": {
+"cca2": "IN",
+"capital": [
+"New Delhi"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "印度",
+"es": "India"
+},
+"086": {
+"cca2": "IO",
+"capital": [
+"Diego Garcia"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "英属印度洋领地",
+"es": "Territorio Británico del Océano Índico"
+},
+"372": {
+"cca2": "IE",
+"capital": [
+"Dublin"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "爱尔兰",
+"es": "Irlanda"
+},
+"364": {
+"cca2": "IR",
+"capital": [
+"Tehran"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "伊朗",
+"es": "Iran"
+},
+"368": {
+"cca2": "IQ",
+"capital": [
+"Baghdad"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "伊拉克",
+"es": "Irak"
+},
+"352": {
+"cca2": "IS",
+"capital": [
+"Reykjavik"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "冰岛",
+"es": "Islandia"
+},
+"376": {
+"cca2": "IL",
+"capital": [
+"Jerusalem"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "以色列",
+"es": "Israel"
+},
+"380": {
+"cca2": "IT",
+"capital": [
+"Rome"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "意大利",
+"es": "Italia"
+},
+"388": {
+"cca2": "JM",
+"capital": [
+"Kingston"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "牙买加",
+"es": "Jamaica"
+},
+"832": {
+"cca2": "JE",
+"capital": [
+"Saint Helier"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "泽西岛",
+"es": "Jersey"
+},
+"400": {
+"cca2": "JO",
+"capital": [
+"Amman"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "约旦",
+"es": "Jordania"
+},
+"392": {
+"cca2": "JP",
+"capital": [
+"Tokyo"
+],
+"region": "Asia",
+"subregion": "Eastern Asia",
+"zh": "日本",
+"es": "Japón"
+},
+"398": {
+"cca2": "KZ",
+"capital": [
+"Astana"
+],
+"region": "Asia",
+"subregion": "Central Asia",
+"zh": "哈萨克斯坦",
+"es": "Kazajistán"
+},
+"404": {
+"cca2": "KE",
+"capital": [
+"Nairobi"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "肯尼亚",
+"es": "Kenia"
+},
+"417": {
+"cca2": "KG",
+"capital": [
+"Bishkek"
+],
+"region": "Asia",
+"subregion": "Central Asia",
+"zh": "吉尔吉斯斯坦",
+"es": "Kirguizistán"
+},
+"116": {
+"cca2": "KH",
+"capital": [
+"Phnom Penh"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "柬埔寨",
+"es": "Camboya"
+},
+"296": {
+"cca2": "KI",
+"capital": [
+"South Tarawa"
+],
+"region": "Oceania",
+"subregion": "Micronesia",
+"zh": "基里巴斯",
+"es": "Kiribati"
+},
+"659": {
+"cca2": "KN",
+"capital": [
+"Basseterre"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "圣基茨和尼维斯",
+"es": "San Cristóbal y Nieves"
+},
+"410": {
+"cca2": "KR",
+"capital": [
+"Seoul"
+],
+"region": "Asia",
+"subregion": "Eastern Asia",
+"zh": "韩国",
+"es": "Corea del Sur"
+},
+"414": {
+"cca2": "KW",
+"capital": [
+"Kuwait City"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "科威特",
+"es": "Kuwait"
+},
+"418": {
+"cca2": "LA",
+"capital": [
+"Vientiane"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "老挝",
+"es": "Laos"
+},
+"422": {
+"cca2": "LB",
+"capital": [
+"Beirut"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "黎巴嫩",
+"es": "Líbano"
+},
+"430": {
+"cca2": "LR",
+"capital": [
+"Monrovia"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "利比里亚",
+"es": "Liberia"
+},
+"434": {
+"cca2": "LY",
+"capital": [
+"Tripoli"
+],
+"region": "Africa",
+"subregion": "Northern Africa",
+"zh": "利比亚",
+"es": "Libia"
+},
+"662": {
+"cca2": "LC",
+"capital": [
+"Castries"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "圣卢西亚",
+"es": "Santa Lucía"
+},
+"438": {
+"cca2": "LI",
+"capital": [
+"Vaduz"
+],
+"region": "Europe",
+"subregion": "Western Europe",
+"zh": "列支敦士登",
+"es": "Liechtenstein"
+},
+"144": {
+"cca2": "LK",
+"capital": [
+"Colombo"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "斯里兰卡",
+"es": "Sri Lanka"
+},
+"426": {
+"cca2": "LS",
+"capital": [
+"Maseru"
+],
+"region": "Africa",
+"subregion": "Southern Africa",
+"zh": "莱索托",
+"es": "Lesotho"
+},
+"440": {
+"cca2": "LT",
+"capital": [
+"Vilnius"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "立陶宛",
+"es": "Lituania"
+},
+"442": {
+"cca2": "LU",
+"capital": [
+"Luxembourg"
+],
+"region": "Europe",
+"subregion": "Western Europe",
+"zh": "卢森堡",
+"es": "Luxemburgo"
+},
+"428": {
+"cca2": "LV",
+"capital": [
+"Riga"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "拉脱维亚",
+"es": "Letonia"
+},
+"446": {
+"cca2": "MO",
+"capital": [],
+"region": "Asia",
+"subregion": "Eastern Asia",
+"zh": "澳门",
+"es": "Macao"
+},
+"663": {
+"cca2": "MF",
+"capital": [
+"Marigot"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "圣马丁",
+"es": "Saint Martin"
+},
+"504": {
+"cca2": "MA",
+"capital": [
+"Rabat"
+],
+"region": "Africa",
+"subregion": "Northern Africa",
+"zh": "摩洛哥",
+"es": "Marruecos"
+},
+"492": {
+"cca2": "MC",
+"capital": [
+"Monaco"
+],
+"region": "Europe",
+"subregion": "Western Europe",
+"zh": "摩纳哥",
+"es": "Mónaco"
+},
+"498": {
+"cca2": "MD",
+"capital": [
+"Chișinău"
+],
+"region": "Europe",
+"subregion": "Eastern Europe",
+"zh": "摩尔多瓦",
+"es": "Moldavia"
+},
+"450": {
+"cca2": "MG",
+"capital": [
+"Antananarivo"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "马达加斯加",
+"es": "Madagascar"
+},
+"462": {
+"cca2": "MV",
+"capital": [
+"Malé"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "马尔代夫",
+"es": "Maldivas"
+},
+"484": {
+"cca2": "MX",
+"capital": [
+"Mexico City"
+],
+"region": "Americas",
+"subregion": "North America",
+"zh": "墨西哥",
+"es": "México"
+},
+"584": {
+"cca2": "MH",
+"capital": [
+"Majuro"
+],
+"region": "Oceania",
+"subregion": "Micronesia",
+"zh": "马绍尔群岛",
+"es": "Islas Marshall"
+},
+"807": {
+"cca2": "MK",
+"capital": [
+"Skopje"
+],
+"region": "Europe",
+"subregion": "Southeast Europe",
+"zh": "北馬其頓",
+"es": "Macedonia del Norte"
+},
+"466": {
+"cca2": "ML",
+"capital": [
+"Bamako"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "马里",
+"es": "Mali"
+},
+"470": {
+"cca2": "MT",
+"capital": [
+"Valletta"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "马耳他",
+"es": "Malta"
+},
+"104": {
+"cca2": "MM",
+"capital": [
+"Naypyidaw"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "缅甸",
+"es": "Myanmar"
+},
+"499": {
+"cca2": "ME",
+"capital": [
+"Podgorica"
+],
+"region": "Europe",
+"subregion": "Southeast Europe",
+"zh": "黑山",
+"es": "Montenegro"
+},
+"496": {
+"cca2": "MN",
+"capital": [
+"Ulan Bator"
+],
+"region": "Asia",
+"subregion": "Eastern Asia",
+"zh": "蒙古",
+"es": "Mongolia"
+},
+"580": {
+"cca2": "MP",
+"capital": [
+"Saipan"
+],
+"region": "Oceania",
+"subregion": "Micronesia",
+"zh": "北马里亚纳群岛",
+"es": "Islas Marianas del Norte"
+},
+"508": {
+"cca2": "MZ",
+"capital": [
+"Maputo"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "莫桑比克",
+"es": "Mozambique"
+},
+"478": {
+"cca2": "MR",
+"capital": [
+"Nouakchott"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "毛里塔尼亚",
+"es": "Mauritania"
+},
+"500": {
+"cca2": "MS",
+"capital": [
+"Plymouth"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "蒙特塞拉特",
+"es": "Montserrat"
+},
+"474": {
+"cca2": "MQ",
+"capital": [
+"Fort-de-France"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "马提尼克",
+"es": "Martinica"
+},
+"480": {
+"cca2": "MU",
+"capital": [
+"Port Louis"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "毛里求斯",
+"es": "Mauricio"
+},
+"454": {
+"cca2": "MW",
+"capital": [
+"Lilongwe"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "马拉维",
+"es": "Malawi"
+},
+"458": {
+"cca2": "MY",
+"capital": [
+"Kuala Lumpur"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "马来西亚",
+"es": "Malasia"
+},
+"175": {
+"cca2": "YT",
+"capital": [
+"Mamoudzou"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "马约特",
+"es": "Mayotte"
+},
+"516": {
+"cca2": "NA",
+"capital": [
+"Windhoek"
+],
+"region": "Africa",
+"subregion": "Southern Africa",
+"zh": "纳米比亚",
+"es": "Namibia"
+},
+"540": {
+"cca2": "NC",
+"capital": [
+"Nouméa"
+],
+"region": "Oceania",
+"subregion": "Melanesia",
+"zh": "新喀里多尼亚",
+"es": "Nueva Caledonia"
+},
+"562": {
+"cca2": "NE",
+"capital": [
+"Niamey"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "尼日尔",
+"es": "Níger"
+},
+"574": {
+"cca2": "NF",
+"capital": [
+"Kingston"
+],
+"region": "Oceania",
+"subregion": "Australia and New Zealand",
+"zh": "诺福克岛",
+"es": "Isla de Norfolk"
+},
+"566": {
+"cca2": "NG",
+"capital": [
+"Abuja"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "尼日利亚",
+"es": "Nigeria"
+},
+"558": {
+"cca2": "NI",
+"capital": [
+"Managua"
+],
+"region": "Americas",
+"subregion": "Central America",
+"zh": "尼加拉瓜",
+"es": "Nicaragua"
+},
+"570": {
+"cca2": "NU",
+"capital": [
+"Alofi"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "纽埃",
+"es": "Niue"
+},
+"528": {
+"cca2": "NL",
+"capital": [
+"Amsterdam"
+],
+"region": "Europe",
+"subregion": "Western Europe",
+"zh": "荷兰",
+"es": "Países Bajos"
+},
+"578": {
+"cca2": "NO",
+"capital": [
+"Oslo"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "挪威",
+"es": "Noruega"
+},
+"524": {
+"cca2": "NP",
+"capital": [
+"Kathmandu"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "尼泊尔",
+"es": "Nepal"
+},
+"520": {
+"cca2": "NR",
+"capital": [
+"Yaren"
+],
+"region": "Oceania",
+"subregion": "Micronesia",
+"zh": "瑙鲁",
+"es": "Nauru"
+},
+"554": {
+"cca2": "NZ",
+"capital": [
+"Wellington"
+],
+"region": "Oceania",
+"subregion": "Australia and New Zealand",
+"zh": "新西兰",
+"es": "Nueva Zelanda"
+},
+"512": {
+"cca2": "OM",
+"capital": [
+"Muscat"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "阿曼",
+"es": "Omán"
+},
+"586": {
+"cca2": "PK",
+"capital": [
+"Islamabad"
+],
+"region": "Asia",
+"subregion": "Southern Asia",
+"zh": "巴基斯坦",
+"es": "Pakistán"
+},
+"591": {
+"cca2": "PA",
+"capital": [
+"Panama City"
+],
+"region": "Americas",
+"subregion": "Central America",
+"zh": "巴拿马",
+"es": "Panamá"
+},
+"612": {
+"cca2": "PN",
+"capital": [
+"Adamstown"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "皮特凯恩群岛",
+"es": "Islas Pitcairn"
+},
+"604": {
+"cca2": "PE",
+"capital": [
+"Lima"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "秘鲁",
+"es": "Perú"
+},
+"608": {
+"cca2": "PH",
+"capital": [
+"Manila"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "菲律宾",
+"es": "Filipinas"
+},
+"585": {
+"cca2": "PW",
+"capital": [
+"Ngerulmud"
+],
+"region": "Oceania",
+"subregion": "Micronesia",
+"zh": "帕劳",
+"es": "Palau"
+},
+"598": {
+"cca2": "PG",
+"capital": [
+"Port Moresby"
+],
+"region": "Oceania",
+"subregion": "Melanesia",
+"zh": "巴布亚新几内亚",
+"es": "Papúa Nueva Guinea"
+},
+"616": {
+"cca2": "PL",
+"capital": [
+"Warsaw"
+],
+"region": "Europe",
+"subregion": "Central Europe",
+"zh": "波兰",
+"es": "Polonia"
+},
+"630": {
+"cca2": "PR",
+"capital": [
+"San Juan"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "波多黎各",
+"es": "Puerto Rico"
+},
+"408": {
+"cca2": "KP",
+"capital": [
+"Pyongyang"
+],
+"region": "Asia",
+"subregion": "Eastern Asia",
+"zh": "朝鲜",
+"es": "Corea del Norte"
+},
+"620": {
+"cca2": "PT",
+"capital": [
+"Lisbon"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "葡萄牙",
+"es": "Portugal"
+},
+"600": {
+"cca2": "PY",
+"capital": [
+"Asunción"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "巴拉圭",
+"es": "Paraguay"
+},
+"275": {
+"cca2": "PS",
+"capital": [
+"Ramallah"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "巴勒斯坦",
+"es": "Palestina"
+},
+"258": {
+"cca2": "PF",
+"capital": [
+"Papeetē"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "法属波利尼西亚",
+"es": "Polinesia Francesa"
+},
+"634": {
+"cca2": "QA",
+"capital": [
+"Doha"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "卡塔尔",
+"es": "Catar"
+},
+"638": {
+"cca2": "RE",
+"capital": [
+"Saint-Denis"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "留尼旺岛",
+"es": "Reunión"
+},
+"642": {
+"cca2": "RO",
+"capital": [
+"Bucharest"
+],
+"region": "Europe",
+"subregion": "Southeast Europe",
+"zh": "罗马尼亚",
+"es": "Rumania"
+},
+"643": {
+"cca2": "RU",
+"capital": [
+"Moscow"
+],
+"region": "Europe",
+"subregion": "Eastern Europe",
+"zh": "俄罗斯",
+"es": "Rusia"
+},
+"646": {
+"cca2": "RW",
+"capital": [
+"Kigali"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "卢旺达",
+"es": "Ruanda"
+},
+"682": {
+"cca2": "SA",
+"capital": [
+"Riyadh"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "沙特阿拉伯",
+"es": "Arabia Saudí"
+},
+"729": {
+"cca2": "SD",
+"capital": [
+"Khartoum"
+],
+"region": "Africa",
+"subregion": "Northern Africa",
+"zh": "苏丹",
+"es": "Sudán"
+},
+"686": {
+"cca2": "SN",
+"capital": [
+"Dakar"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "塞内加尔",
+"es": "Senegal"
+},
+"702": {
+"cca2": "SG",
+"capital": [
+"Singapore"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "新加坡",
+"es": "Singapur"
+},
+"239": {
+"cca2": "GS",
+"capital": [
+"King Edward Point"
+],
+"region": "Antarctic",
+"subregion": "",
+"zh": "南乔治亚",
+"es": "Islas Georgias del Sur y Sandwich del Sur"
+},
+"744": {
+"cca2": "SJ",
+"capital": [
+"Longyearbyen"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "斯瓦尔巴特",
+"es": "Islas Svalbard y Jan Mayen"
+},
+"090": {
+"cca2": "SB",
+"capital": [
+"Honiara"
+],
+"region": "Oceania",
+"subregion": "Melanesia",
+"zh": "所罗门群岛",
+"es": "Islas Salomón"
+},
+"694": {
+"cca2": "SL",
+"capital": [
+"Freetown"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "塞拉利昂",
+"es": "Sierra Leone"
+},
+"222": {
+"cca2": "SV",
+"capital": [
+"San Salvador"
+],
+"region": "Americas",
+"subregion": "Central America",
+"zh": "萨尔瓦多",
+"es": "El Salvador"
+},
+"674": {
+"cca2": "SM",
+"capital": [
+"City of San Marino"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "圣马力诺",
+"es": "San Marino"
+},
+"706": {
+"cca2": "SO",
+"capital": [
+"Mogadishu"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "索马里",
+"es": "Somalia"
+},
+"666": {
+"cca2": "PM",
+"capital": [
+"Saint-Pierre"
+],
+"region": "Americas",
+"subregion": "North America",
+"zh": "圣皮埃尔和密克隆",
+"es": "San Pedro y Miquelón"
+},
+"688": {
+"cca2": "RS",
+"capital": [
+"Belgrade"
+],
+"region": "Europe",
+"subregion": "Southeast Europe",
+"zh": "塞尔维亚",
+"es": "Serbia"
+},
+"728": {
+"cca2": "SS",
+"capital": [
+"Juba"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "南苏丹",
+"es": "Sudán del Sur"
+},
+"678": {
+"cca2": "ST",
+"capital": [
+"São Tomé"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "圣多美和普林西比",
+"es": "Santo Tomé y Príncipe"
+},
+"740": {
+"cca2": "SR",
+"capital": [
+"Paramaribo"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "苏里南",
+"es": "Surinam"
+},
+"703": {
+"cca2": "SK",
+"capital": [
+"Bratislava"
+],
+"region": "Europe",
+"subregion": "Central Europe",
+"zh": "斯洛伐克",
+"es": "Eslovaquia"
+},
+"705": {
+"cca2": "SI",
+"capital": [
+"Ljubljana"
+],
+"region": "Europe",
+"subregion": "Central Europe",
+"zh": "斯洛文尼亚",
+"es": "Eslovenia"
+},
+"752": {
+"cca2": "SE",
+"capital": [
+"Stockholm"
+],
+"region": "Europe",
+"subregion": "Northern Europe",
+"zh": "瑞典",
+"es": "Suecia"
+},
+"748": {
+"cca2": "SZ",
+"capital": [
+"Lobamba"
+],
+"region": "Africa",
+"subregion": "Southern Africa",
+"zh": "斯威士兰",
+"es": "Suazilandia"
+},
+"534": {
+"cca2": "SX",
+"capital": [
+"Philipsburg"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "圣马丁岛",
+"es": "Sint Maarten"
+},
+"690": {
+"cca2": "SC",
+"capital": [
+"Victoria"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "塞舌尔",
+"es": "Seychelles"
+},
+"760": {
+"cca2": "SY",
+"capital": [
+"Damascus"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "叙利亚",
+"es": "Siria"
+},
+"796": {
+"cca2": "TC",
+"capital": [
+"Cockburn Town"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "特克斯和凯科斯群岛",
+"es": "Islas Turks y Caicos"
+},
+"148": {
+"cca2": "TD",
+"capital": [
+"N'Djamena"
+],
+"region": "Africa",
+"subregion": "Middle Africa",
+"zh": "乍得",
+"es": "Chad"
+},
+"768": {
+"cca2": "TG",
+"capital": [
+"Lomé"
+],
+"region": "Africa",
+"subregion": "Western Africa",
+"zh": "多哥",
+"es": "Togo"
+},
+"764": {
+"cca2": "TH",
+"capital": [
+"Bangkok"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "泰国",
+"es": "Tailandia"
+},
+"762": {
+"cca2": "TJ",
+"capital": [
+"Dushanbe"
+],
+"region": "Asia",
+"subregion": "Central Asia",
+"zh": "塔吉克斯坦",
+"es": "Tayikistán"
+},
+"772": {
+"cca2": "TK",
+"capital": [
+"Fakaofo"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "托克劳",
+"es": "Islas Tokelau"
+},
+"795": {
+"cca2": "TM",
+"capital": [
+"Ashgabat"
+],
+"region": "Asia",
+"subregion": "Central Asia",
+"zh": "土库曼斯坦",
+"es": "Turkmenistán"
+},
+"626": {
+"cca2": "TL",
+"capital": [
+"Dili"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "东帝汶",
+"es": "Timor Oriental"
+},
+"776": {
+"cca2": "TO",
+"capital": [
+"Nuku'alofa"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "汤加",
+"es": "Tonga"
+},
+"780": {
+"cca2": "TT",
+"capital": [
+"Port of Spain"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "特立尼达和多巴哥",
+"es": "Trinidad y Tobago"
+},
+"788": {
+"cca2": "TN",
+"capital": [
+"Tunis"
+],
+"region": "Africa",
+"subregion": "Northern Africa",
+"zh": "突尼斯",
+"es": "Túnez"
+},
+"792": {
+"cca2": "TR",
+"capital": [
+"Ankara"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "土耳其",
+"es": "Turquía"
+},
+"798": {
+"cca2": "TV",
+"capital": [
+"Funafuti"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "图瓦卢",
+"es": "Tuvalu"
+},
+"158": {
+"cca2": "TW",
+"capital": [
+"Taipei"
+],
+"region": "Asia",
+"subregion": "Eastern Asia",
+"zh": "台灣",
+"es": "Taiwán"
+},
+"834": {
+"cca2": "TZ",
+"capital": [
+"Dodoma"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "坦桑尼亚",
+"es": "Tanzania"
+},
+"800": {
+"cca2": "UG",
+"capital": [
+"Kampala"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "乌干达",
+"es": "Uganda"
+},
+"804": {
+"cca2": "UA",
+"capital": [
+"Kyiv"
+],
+"region": "Europe",
+"subregion": "Eastern Europe",
+"zh": "乌克兰",
+"es": "Ucrania"
+},
+"581": {
+"cca2": "UM",
+"capital": [],
+"region": "Americas",
+"subregion": "North America",
+"zh": "美国本土外小岛屿",
+"es": "Islas Ultramarinas Menores de Estados Unidos"
+},
+"858": {
+"cca2": "UY",
+"capital": [
+"Montevideo"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "乌拉圭",
+"es": "Uruguay"
+},
+"840": {
+"cca2": "US",
+"capital": [
+"Washington D.C."
+],
+"region": "Americas",
+"subregion": "North America",
+"zh": "美国",
+"es": "Estados Unidos"
+},
+"860": {
+"cca2": "UZ",
+"capital": [
+"Tashkent"
+],
+"region": "Asia",
+"subregion": "Central Asia",
+"zh": "乌兹别克斯坦",
+"es": "Uzbekistán"
+},
+"336": {
+"cca2": "VA",
+"capital": [
+"Vatican City"
+],
+"region": "Europe",
+"subregion": "Southern Europe",
+"zh": "梵蒂冈",
+"es": "Ciudad del Vaticano"
+},
+"670": {
+"cca2": "VC",
+"capital": [
+"Kingstown"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "圣文森特和格林纳丁斯",
+"es": "San Vicente y Granadinas"
+},
+"862": {
+"cca2": "VE",
+"capital": [
+"Caracas"
+],
+"region": "Americas",
+"subregion": "South America",
+"zh": "委内瑞拉",
+"es": "Venezuela"
+},
+"092": {
+"cca2": "VG",
+"capital": [
+"Road Town"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "英属维尔京群岛",
+"es": "Islas Vírgenes del Reino Unido"
+},
+"850": {
+"cca2": "VI",
+"capital": [
+"Charlotte Amalie"
+],
+"region": "Americas",
+"subregion": "Caribbean",
+"zh": "美属维尔京群岛",
+"es": "Islas Vírgenes de los Estados Unidos"
+},
+"704": {
+"cca2": "VN",
+"capital": [
+"Hanoi"
+],
+"region": "Asia",
+"subregion": "South-Eastern Asia",
+"zh": "越南",
+"es": "Vietnam"
+},
+"548": {
+"cca2": "VU",
+"capital": [
+"Port Vila"
+],
+"region": "Oceania",
+"subregion": "Melanesia",
+"zh": "瓦努阿图",
+"es": "Vanuatu"
+},
+"876": {
+"cca2": "WF",
+"capital": [
+"Mata-Utu"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "瓦利斯和富图纳群岛",
+"es": "Wallis y Futuna"
+},
+"882": {
+"cca2": "WS",
+"capital": [
+"Apia"
+],
+"region": "Oceania",
+"subregion": "Polynesia",
+"zh": "萨摩亚",
+"es": "Samoa"
+},
+"887": {
+"cca2": "YE",
+"capital": [
+"Sana'a"
+],
+"region": "Asia",
+"subregion": "Western Asia",
+"zh": "也门",
+"es": "Yemen"
+},
+"710": {
+"cca2": "ZA",
+"capital": [
+"Pretoria",
+"Bloemfontein",
+"Cape Town"
+],
+"region": "Africa",
+"subregion": "Southern Africa",
+"zh": "南非",
+"es": "Sudáfrica"
+},
+"894": {
+"cca2": "ZM",
+"capital": [
+"Lusaka"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "赞比亚",
+"es": "Zambia"
+},
+"716": {
+"cca2": "ZW",
+"capital": [
+"Harare"
+],
+"region": "Africa",
+"subregion": "Eastern Africa",
+"zh": "津巴布韦",
+"es": "Zimbabue"
+}
+}

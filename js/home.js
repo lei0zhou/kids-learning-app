@@ -9,6 +9,7 @@ function Home(app){
     {icon: '🏮', title: 'Mandarin', sub: 'Tones, pinyin, characters, phrases', color: SECTIONS.zh.color, onclick: () => go(ZhHub), id: 'go-zh'},
     {icon: '🌮', title: 'Spanish', sub: 'Sounds, words, phrases, listening', color: SECTIONS.es.color, onclick: () => go(EsHub), id: 'go-es'},
     {icon: '🗺️', title: 'USA Explorer', sub: 'Map quiz, capitals, flags, hunts', color: SECTIONS.usa.color, onclick: () => go(UsaHub), id: 'go-usa'},
+    {icon: '🌍', title: 'World Explorer', sub: 'Countries, flags, continents, oceans', color: SECTIONS.world.color, onclick: () => go(WorldHub), id: 'go-world'},
     {icon: '🎭', title: 'Acting Studio', sub: 'Charades, improv, voice games', color: SECTIONS.acting.color, onclick: () => go(ActHub), id: 'go-act'},
     {icon: '♞', title: 'Chess', sub: 'Learn the pieces, play the computer', color: SECTIONS.chess.color, onclick: () => go(ChessHub), id: 'go-chess'},
     {icon: '💬', title: 'Chat Corner', sub: 'Stories, riddles, role-play', color: SECTIONS.chat.color, onclick: () => go(ChatHub), id: 'go-chat'},
@@ -21,10 +22,11 @@ function Home(app){
 function ProfilePicker(app){
   app.append(h('div', {class: 'hero card'}, mascot(110), h('div', {class: 'bubble'}, h('b', null, 'Welcome to Acorn Academy! '), "I'm Nutmeg. Who's learning today?")));
   const list = h('div', {class: 'profiles'});
-  S.profiles.forEach(p => list.append(h('button', {class: 'profile', 'data-testid': 'profile-' + p.name, onclick: () => { S.current = p.id; save(); sfx('ok'); NAV.length = 0; go(Home); }},
-    h('span', {class: 'av'}, p.avatar), h('b', null, p.name), h('span', {class: 'muted small'}, `⭐ ${p.stars} · Level ${p.level}`))));
+  S.profiles.forEach(p => list.append(h('div', {class: 'profile-wrap'}, h('button', {class: 'profile', 'data-testid': 'profile-' + p.name, onclick: () => { S.current = p.id; save(); sfx('ok'); NAV.length = 0; go(Home); }},
+    h('span', {class: 'av'}, p.avatar), h('b', null, p.name), h('span', {class: 'muted small'}, `⭐ ${p.stars} · Level ${p.level} · age ${p.age}`)),
+    h('button', {class: 'btn small rename', 'data-testid': 'rename-' + p.name, 'aria-label': 'Rename ' + p.name, onclick: () => { if (renameProfile(p)) go(Home); }}, '✏️ Rename'))));
   if (S.profiles.length < 3) list.append(h('button', {class: 'profile', 'data-testid': 'add-profile', onclick: () => go(NewProfile)}, h('span', {class: 'av'}, '➕'), h('b', null, 'Add a kid')));
-  app.append(h('div', {class: 'card'}, h('h2', null, 'Pick your profile'), list));
+  app.append(h('div', {class: 'card'}, h('h2', null, 'Pick your profile'), h('p', {class: 'muted small'}, 'Two explorers are ready: Level A (about age 7) and Level B (about age 10). Tap ✏️ Rename to put in your names.'), list));
 }
 function NewProfile(app){
   let av = AVATARS[S.profiles.length % AVATARS.length];

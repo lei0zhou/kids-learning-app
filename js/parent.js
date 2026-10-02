@@ -17,10 +17,12 @@ function ParentDash(app){
     const pr = p.prog; const facts = [
       ['Reading passages', `${Object.keys(pr.ela.passages || {}).length} / ${ELA.passages.length}`], ['Spelling words right', pr.ela.spellRight || 0], ['Sentences built', pr.ela.built || 0],
       ['Chinese characters learned', `${Object.keys(pr.zh.chars || {}).length} / ${ZH.chars.length}`], ['Tones right', pr.zh.tonesRight || 0], ['Spanish rounds', pr.es.rounds || 0],
-      ['States found', `${(pr.usa.spotted || []).length} / 50`], ['Capitals right', pr.usa.capitals || 0], ['Acting activities', pr.acting.done || 0],
+      ['States found', `${(pr.usa.spotted || []).length} / 50`], ['Capitals right', pr.usa.capitals || 0],
+      ['World countries found', `${((pr.world || {}).found || []).length} / ${WORLD.countries.length}`], ['World flags / capitals', `${(pr.world || {}).flags || 0} / ${(pr.world || {}).capitals || 0}`], ['Continent answers', (pr.world || {}).continents || 0], ['Acting activities', pr.acting.done || 0],
       ['Chess lessons', `${(pr.chess.lessons || []).length} / 6`], ['Chess games / wins', `${pr.chess.games || 0} / ${pr.chess.wins || 0}`], ['Chat games', pr.chat.rounds || 0]];
     return h('div', {class: 'card'}, h('div', {class: 'row', style: {justifyContent: 'space-between'}}, h('h2', null, p.avatar + ' ' + p.name),
         h('div', {class: 'row'}, h('label', null, 'Level ', h('select', {onchange: e => { p.level = e.target.value; save(); renderTop(); }}, ['A', 'B'].map(l => h('option', {value: l, selected: p.level === l ? true : null}, l === 'A' ? 'A (age ~7)' : 'B (age ~10)')))),
+          h('button', {class: 'btn', 'data-testid': 'prename-' + p.name, onclick: () => { if (renameProfile(p)) go(ParentDash); }}, '✏️ Rename'),
           h('button', {class: 'btn', 'data-testid': 'reset-' + p.name, onclick: () => { if (confirm(`Reset all progress for ${p.name}? This cannot be undone.`)) { resetProfile(p); go(ParentDash); toast('Progress reset'); } }}, '↺ Reset progress'),
           h('button', {class: 'btn', onclick: () => { if (confirm(`Delete the profile ${p.name}?`)) { S.profiles = S.profiles.filter(x => x !== p); if (S.current === p.id) S.current = null; save(); go(ParentDash); } }}, '🗑 Delete'))),
       h('div', {class: 'tiles', style: {gridTemplateColumns: 'repeat(auto-fill,minmax(200px,1fr))', gap: '8px'}}, facts.map(([k, v]) => h('div', {class: 'card', style: {margin: 0, padding: '10px 14px'}}, h('div', {class: 'small muted'}, k), h('b', {style: {fontSize: '24px'}}, String(v))))),

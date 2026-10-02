@@ -6,6 +6,7 @@ const SECTIONS = {
   zh:    {name: 'Mandarin',        icon: '🏮', color: '#d65a5a'},
   es:    {name: 'Spanish',         icon: '🌮', color: '#e0a526'},
   usa:   {name: 'US Geography',    icon: '🗺️', color: '#4f8fc0'},
+  world: {name: 'World Geography', icon: '🌍', color: '#2f9e8f'},
   acting:{name: 'Acting',          icon: '🎭', color: '#9a6bc0'},
   chess: {name: 'Chess',           icon: '♞', color: '#5c7a5a'},
   chat:  {name: 'Games/Chat',      icon: '💬', color: '#3aa39a'},
@@ -23,6 +24,9 @@ const BADGES = [
   {id:'spotter', name:'State Spotter', icon:'📍', desc:'Find 10 states on the map', test:p=>(p.prog.usa.spotted||[]).length>=10},
   {id:'capital', name:'Capital Champ', icon:'🏛️', desc:'Get 20 capitals right', test:p=>(p.prog.usa.capitals||0)>=20},
   {id:'fifty', name:'50 State Star', icon:'🇺🇸', desc:'Find all 50 states', test:p=>(p.prog.usa.spotted||[]).length>=50},
+  {id:'continent', name:'Continent Captain', icon:'🧭', desc:'Get 10 continent or ocean answers right', test:p=>((p.prog.world||{}).continents||0)>=10},
+  {id:'flagmaster', name:'Flag Master', icon:'🏁', desc:'Match or name 20 world flags', test:p=>((p.prog.world||{}).flags||0)>=20},
+  {id:'traveler', name:'World Traveler', icon:'✈️', desc:'Find 15 different countries', test:p=>((p.prog.world||{}).found||[]).length>=15},
   {id:'brave', name:'Brave Performer', icon:'🎭', desc:'Do 3 acting activities', test:p=>(p.prog.acting.done||0)>=3},
   {id:'improv', name:'Improv Star', icon:'✨', desc:'Do 3 improv games', test:p=>(p.prog.acting.improv||0)>=3},
   {id:'voice', name:'Voice Wizard', icon:'🎤', desc:'Do 3 voice exercises', test:p=>(p.prog.acting.voice||0)>=3},
@@ -33,22 +37,29 @@ const BADGES = [
   {id:'riddle', name:'Riddle Master', icon:'🦉', desc:'Solve 5 riddles', test:p=>(p.prog.chat.riddles||0)>=5},
   {id:'chatter', name:'Chatterbox', icon:'💬', desc:'Finish 5 chat games', test:p=>(p.prog.chat.rounds||0)>=5},
 ];
+const PRESETS = [['Little Explorer', '🦊', 7], ['Big Explorer', '🐼', 9]]; // Level A (age 7) and Level B (almost 10)
 const AVATARS = ['🦊','🐼','🐰','🐸','🦉','🐱','🐶','🦄','🐢','🐙','🦁','🐨'];
 
 /* ---------- state ---------- */
-let S = load();
-function blankProg(){ return {ela:{passages:{}}, zh:{chars:{}}, es:{}, usa:{spotted:[]}, acting:{}, chess:{lessons:[]}, chat:{}}; }
+let S;
+function blankProg(){ return {ela:{passages:{}}, zh:{chars:{}}, es:{}, usa:{spotted:[]}, world:{found:[]}, acting:{}, chess:{lessons:[]}, chat:{}}; }
 function load(){
-  try { const s = JSON.parse(localStorage.getItem(KEY)); if (s && s.profiles) return s; } catch(e) {}
-  return {profiles: [], current: null, jokes: []};
+  try { const s = JSON.parse(localStorage.getItem(KEY)); if (s && s.profiles) { s.profiles.forEach(p => { p.prog = Object.assign(blankProg(), p.prog || {}); }); return s; } } catch(e) {}
+  // First launch: two preset explorers (rename them on the profile screen or the Grown-ups page).
+  const s = {profiles: [], current: null, jokes: []};
+  PRESETS.forEach(([name, avatar, age]) => s.profiles.push(makeProfile(name, avatar, age)));
+  try { localStorage.setItem(KEY, JSON.stringify(s)); } catch(e) {}
+  return s;
 }
+S = load();
 function save(){ localStorage.setItem(KEY, JSON.stringify(S)); }
 function kid(){ return S.profiles.find(p => p.id === S.current) || null; }
-function newProfile(name, avatar, age){
-  const p = {id: 'k' + Date.now().toString(36) + Math.random().toString(36).slice(2,5), name, avatar, age,
-             level: age >= 9 ? 'B' : 'A', stars: 0, streak: {count: 0, last: null}, badges: [], history: [], secStars: {}, prog: blankProg(), jokes: []};
-  S.profiles.push(p); save(); return p;
+function makeProfile(name, avatar, age){
+  return {id: 'k' + Date.now().toString(36) + Math.random().toString(36).slice(2,6), name, avatar, age,
+          level: age >= 9 ? 'B' : 'A', stars: 0, streak: {count: 0, last: null}, badges: [], history: [], secStars: {}, prog: blankProg(), jokes: []};
 }
+function newProfile(name, avatar, age){ const p = makeProfile(name, avatar, age); S.profiles.push(p); save(); return p; }
+function renameProfile(p){ const n = prompt('New name for ' + p.name + ':', p.name); if (n == null) return false; const t = cleanText(n.trim()).slice(0, 14); if (!t) return false; p.name = t; save(); renderTop(); return true; }
 function resetProfile(p){ Object.assign(p, {stars:0, streak:{count:0,last:null}, badges:[], history:[], secStars:{}, prog: blankProg(), jokes: []}); save(); }
 function level(){ const p = kid(); return p ? p.level : 'A'; }
 function today(){ const d = new Date(); return d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0'); }

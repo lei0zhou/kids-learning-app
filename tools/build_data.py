@@ -106,8 +106,81 @@ phr = [dict(cat=c, es=e, en=n, a=a, audio=sa(e)) for c, e, n, a in ES.PHRASES]
 verbs = [dict(v, forms=[dict(who=a, form=b) for a, b in v["forms"]], ex=[dict(es=a, en=b, audio=sa(a)) for a, b in v["ex"]]) for v in ES.VERBS]
 sents = [dict(es=a, en=b, audio=sa(a)) for a, b in ES.SENTENCES]
 js("es", dict(words=words, pron=pron, pairs=pairs, phrases=phr, verbs=verbs, serEstar=[dict(q=a, answer=b, why=c) for a, b, c in ES.SER_ESTAR],
-              sentences=sents, countries=[dict(name=a, capital=b, flag=c) for a, b, c in ES.COUNTRIES]))
+              sentences=sents, countries=[dict(name=a, capital=b, flag="flags/world/" + "".join(chr(ord(ch) - 0x1F1E6 + 97) for ch in c) + ".svg", audio=sa(a)) for a, b, c in ES.COUNTRIES]))
 js("act", {k: getattr(ACT, k) for k in dir(ACT) if k.isupper()})
+
+# ---------- World Explorer ----------
+import content_world as WD, shutil, subprocess
+NM = "/tmp/hw"  # node_modules with world-atlas, flag-icons, world-countries, d3-geo, topojson-client
+oc_pts = [[f"o{i}", ll] for i, (_, ll) in enumerate(WD.OCEANS)]
+if os.path.exists(NM + "/node_modules/world-atlas"):
+    shutil.copy(os.path.join(ROOT, "tools", "mk_world.mjs"), NM)
+    subprocess.run(["node", "mk_world.mjs", json.dumps(oc_pts), os.path.join(ROOT, "tools", "world_paths.json")], cwd=NM, check=True)
+    wc = json.load(open(NM + "/node_modules/world-countries/countries.json"))
+    snap = {c["ccn3"]: dict(cca2=c["cca2"], capital=c["capital"], region=c["region"], subregion=c["subregion"],
+                            zh=c["translations"]["zho"]["common"], es=c["translations"]["spa"]["common"]) for c in wc if c.get("ccn3")}
+    json.dump(snap, open(os.path.join(ROOT, "tools", "world_countries_snapshot.json"), "w"), ensure_ascii=False, indent=0)
+wp = json.load(open(os.path.join(ROOT, "tools", "world_paths.json")))
+snap = json.load(open(os.path.join(ROOT, "tools", "world_countries_snapshot.json")))
+def continent(cid, name):
+    extra = {"N. Cyprus": "Asia", "Somaliland": "Africa", "Kosovo": "Europe", "Antarctica": "Antarctica"}
+    if name in extra: return extra[name]
+    s = snap.get(cid)
+    if not s or s["region"] == "Antarctic": return None
+    if s["region"] == "Americas": return "South America" if s["subregion"] == "South America" else "North America"
+    return s["region"]
+ZH_FIX = {"cd": "刚果民主共和国"}
+ES_FIX = {"cd": "República Democrática del Congo", "ir": "Irán"}
+PY_FIX = {"秘鲁": "Bìlǔ", "朝鲜": "Cháoxiǎn", "尼泊尔": "Níbó'ěr", "厄瓜多尔": "Èguāduō'ěr", "巴拉圭": "Bālāguī", "乌拉圭": "Wūlāguī",
+          "加拿大": "Jiānádà", "意大利": "Yìdàlì", "沙特阿拉伯": "Shātè Ālābó", "阿尔及利亚": "Ā'ěrjílìyà", "哥伦比亚": "Gēlúnbǐyà",
+          "委内瑞拉": "Wěinèiruìlā", "危地马拉": "Wēidìmǎlā", "哥斯达黎加": "Gēsīdálíjiā", "巴拿马": "Bānámǎ", "西班牙": "Xībānyá",
+          "葡萄牙": "Pútáoyá", "荷兰": "Hélán", "比利时": "Bǐlìshí", "瑞士": "Ruìshì", "奥地利": "Àodìlì", "波兰": "Bōlán",
+          "瑞典": "Ruìdiǎn", "挪威": "Nuówēi", "芬兰": "Fēnlán", "丹麦": "Dānmài", "爱尔兰": "Ài'ěrlán", "希腊": "Xīlà",
+          "乌克兰": "Wūkèlán", "土耳其": "Tǔ'ěrqí", "冰岛": "Bīngdǎo", "捷克": "Jiékè", "匈牙利": "Xiōngyálì", "罗马尼亚": "Luómǎníyà",
+          "伊朗": "Yīlǎng", "伊拉克": "Yīlākè", "以色列": "Yǐsèliè", "巴基斯坦": "Bājīsītǎn", "阿富汗": "Āfùhàn", "哈萨克斯坦": "Hāsàkèsītǎn",
+          "蒙古": "Ménggǔ", "韩国": "Hánguó", "越南": "Yuènán", "泰国": "Tàiguó", "印度尼西亚": "Yìndùníxīyà", "菲律宾": "Fēilǜbīn",
+          "马来西亚": "Mǎláixīyà", "孟加拉国": "Mèngjiālāguó", "新西兰": "Xīnxīlán", "巴布亚新几内亚": "Bābùyà Xīnjǐnèiyà",
+          "尼日利亚": "Nírìlìyà", "肯尼亚": "Kěnníyà", "埃塞俄比亚": "Āisài'ébǐyà", "摩洛哥": "Móluògē", "加纳": "Jiānà",
+          "坦桑尼亚": "Tǎnsāngníyà", "马达加斯加": "Mǎdájiāsījiā", "刚果民主共和国": "Gāngguǒ Mínzhǔ Gònghéguó", "安哥拉": "Āngēlā",
+          "苏丹": "Sūdān", "利比亚": "Lìbǐyà", "美国": "Měiguó", "墨西哥": "Mòxīgē", "巴西": "Bāxī", "阿根廷": "Āgēntíng",
+          "英国": "Yīngguó", "法国": "Fǎguó", "俄罗斯": "Éluósī", "中国": "Zhōngguó", "印度": "Yìndù", "日本": "Rìběn",
+          "澳大利亚": "Àodàlìyà", "埃及": "Āijí", "南非": "Nánfēi", "智利": "Zhìlì", "玻利维亚": "Bōlìwéiyà", "古巴": "Gǔbā",
+          "德国": "Déguó", "朝鲜": "Cháoxiǎn"}
+byid = {c["id"]: c for c in wp["countries"]}
+wcs = []
+for cid, name, iso, cap, lvl, fact in WD.COUNTRIES:
+    g = byid.get(cid); s = snap[cid]
+    if not g: errors.append(f"world: {name} missing from map"); continue
+    if s["cca2"].lower() != iso: errors.append(f"world: iso mismatch {name}")
+    zh = ZH_FIX.get(iso, s["zh"]); es = ES_FIX.get(iso, s["es"])
+    py = PY_FIX.get(zh) or py_of(zh).replace(" ", "")
+    if zh not in PY_FIX: review.append(f"world pinyin auto: {zh} {py}")
+    if norm(py_of(zh)) != norm(py): review.append(f"world pinyin override {zh}: pypinyin={py_of(zh)} ours={py}")
+    src_flag = f"{NM}/node_modules/flag-icons/flags/4x3/{iso}.svg"; dst = os.path.join(ROOT, "flags", "world", iso + ".svg")
+    os.makedirs(os.path.dirname(dst), exist_ok=True)
+    if os.path.exists(src_flag): shutil.copy(src_flag, dst)
+    if not os.path.exists(dst): errors.append(f"world: no flag {iso}")
+    cont = continent(cid, g["name"])
+    audio[zid(zh)] = ("zh", zh); audio[sid(es)] = ("es", es)
+    wcs.append(dict(id=cid, name=name, iso=iso, capital=cap, level=lvl, fact=fact, continent=cont,
+                    alt=WD.TWO_CONTINENTS.get(name, [cont]), zh=zh, py=py, es=es, flag=f"flags/world/{iso}.svg",
+                    zhAudio=zid(zh), esAudio=sid(es)))
+names = {c["name"] for c in wcs}
+assert len(wcs) >= 75 and sum(c["level"] == "A" for c in wcs) == 15, len(wcs)
+for h in WD.HUNTS:
+    for _, a in h["clues"]:
+        if a not in names: errors.append(f"world hunt answer unknown: {a}")
+for a, t in WD.PASSAGES:
+    if a not in names: errors.append(f"world passage answer unknown: {a}")
+    if a.lower() in t.lower(): errors.append(f"world passage names its answer: {a}")
+    audio[eid("world " + a)] = ("en", t)
+shapes = [dict(id=c["id"], name=c["name"], d=c["d"], b=c["b"], mb=c["mb"], c=c["c"], a=c["a"], continent=continent(c["id"], c["name"])) for c in wp["countries"]]
+oceans = {}
+for i, (n, _) in enumerate(WD.OCEANS): oceans.setdefault(n, []).append(wp["pt"][f"o{i}"])
+js("world", dict(viewBox=wp["viewBox"], sphere=wp["sphere"], shapes=shapes, countries=wcs, continents=WD.CONTINENTS,
+                 oceans=[dict(name=k, pts=v) for k, v in oceans.items()], zooms=wp["zooms"],
+                 hunts=[dict(level=h["level"], title=h["title"], clues=[dict(clue=c, answer=a) for c, a in h["clues"]]) for h in WD.HUNTS],
+                 passages=[dict(answer=a, text=t, audio=eid("world " + a)) for a, t in WD.PASSAGES]))
 json.dump(audio, open(os.path.join(ROOT, "tools", "audio_manifest.json"), "w"), ensure_ascii=False, indent=0)
 print("audio clips:", len(audio))
 print("PINYIN REVIEW (pypinyin differs; check manually):"); [print("  ", r) for r in review]

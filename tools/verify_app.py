@@ -30,9 +30,14 @@ async def main():
         pg.on('pageerror', lambda e: errs.append('PAGEERROR ' + str(e)))
         await pg.goto(BASE); await pg.wait_for_timeout(500)
         # ---- profiles
-        for name, age in [('Mia', '7'), ('Leo', '10')]:
-            await tid(pg, 'add-profile'); await pg.fill('[data-testid="name-input"]', name); await pg.select_option('[data-testid="age-select"]', age); await tid(pg, 'save-profile')
-            await pg.click('.pill.kid'); await pg.wait_for_timeout(200)
+        pre = await pg.evaluate("S.profiles.map(p => [p.name, p.age, p.level])")
+        ok('first launch ships two preset profiles (Level A age 7, Level B age 9)', len(pre) == 2 and pre[0][1:] == [7, 'A'] and pre[1][1:] == [9, 'B'], pre)
+        answers = []
+        pg.on('dialog', lambda d: asyncio.ensure_future(d.accept(answers.pop(0)) if d.type == 'prompt' and answers else d.accept()))
+        for old, new in [(pre[0][0], 'Mia'), (pre[1][0], 'Leo')]:
+            answers.append(new); await tid(pg, 'rename-' + old); await pg.wait_for_timeout(300)
+        await pg.reload(); await pg.wait_for_timeout(400)
+        ok('preset profiles renamed and saved', await pg.evaluate("S.profiles.map(p => p.name).join(',')") == 'Mia,Leo')
         await tid(pg, 'profile-Mia'); await pg.wait_for_timeout(300)
         ok('profile picked (Mia, Level A)', 'Hi Mia' in await pg.inner_text('main') and 'Level A' in await pg.inner_text('#topbar'))
         await shot(pg, f'{SHOTS}/01-home.png')
@@ -123,6 +128,60 @@ async def main():
             j = [k for k, m in enumerate(cards) if m == n and k != i][0]
             await pg.locator('.mem').nth(i).click(); await pg.locator('.mem').nth(j).click(); await pg.wait_for_timeout(600); done.add(n)
         ok('flag memory completed', await pg.locator('.mem.matched').count() == 8)
+        # ---- World Explorer (Mia, Level A)
+        async def world_tap(pg, shot_at=None, shot_path=None, n=20):
+            for k in range(n):
+                if await pg.locator('[data-testid="quiz-done"]').count(): return True
+                if shot_at is not None and k == shot_at: await pg.evaluate('window.scrollTo(0,0)'); await shot(pg, shot_path)
+                a = await pg.evaluate("(() => { const e = document.querySelector('[data-testid=map-ask]'); return {kind: e.dataset.kind, answer: e.dataset.answer, target: e.dataset.target}; })()")
+                if a['kind'] == 'choice':
+                    await pg.locator('.choice[data-correct="1"]').first.click(); await pg.wait_for_timeout(120); await tid(pg, 'next'); continue
+                if a['answer']:
+                    x, y = await pg.evaluate(js_point, a['answer'])
+                elif a['target'] in OCEANS:
+                    x, y = await pg.evaluate("n => { const c = document.querySelector(`g[data-ocean='${n}'] circle`); c.scrollIntoView({block: 'center'}); const r = c.getBoundingClientRect(); return [r.x + r.width / 2, r.y + r.height / 2]; }", a['target'])
+                else:
+                    big = await pg.evaluate("c => WORLD.shapes.filter(s => s.continent === c).sort((a, b) => b.a - a.a)[0].name", a['target'])
+                    big = await pg.evaluate("n => (WORLD.countries.find(c => c.id === WORLD.shapes.find(s => s.name === n).id) || {name: n}).name", big)
+                    x, y = await pg.evaluate(js_point, big)
+                await pg.mouse.click(x, y); await pg.wait_for_timeout(1450)
+            return await pg.locator('[data-testid="quiz-done"]').count() > 0
+        OCEANS = await pg.evaluate("WORLD.oceans.map(o => o.name)")
+        await pg.click('.pill.kid'); await tid(pg, 'profile-Mia')
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-map')
+        ok('world map: Level A shows only the 15 big countries as active', await pg.locator('.wmap path[data-name]:not(.dim)').count() == 15)
+        ok('world map quiz (Level A) finished 6/6', await world_tap(pg, 2, f'{SHOTS}/14-world-map-quiz.png') and '6 / 6' in await pg.inner_text('[data-testid="score"]'))
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-cont')
+        ok('continents & oceans (Level A) finished 8/8', await world_tap(pg) and '8 / 8' in await pg.inner_text('[data-testid="score"]'))
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-cont'); await world_tap(pg)
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-trivia'); imgs_ok = True; zh_played = False
+        for k in range(8):
+            if await pg.locator('[data-testid="quiz-done"]').count(): break
+            imgs = await pg.eval_on_selector_all('.map-card img', 'els => els.map(e => e.complete && e.naturalWidth > 0)'); imgs_ok = imgs_ok and all(imgs)
+            if await pg.locator('[data-testid="zh-say"]').count():
+                await pg.locator('[data-testid="zh-say"]').first.click(); await pg.wait_for_timeout(900)
+                zh_played = zh_played or await pg.evaluate("!!(curAudio && curAudio.src.includes('/zh/') && !curAudio.error && curAudio.currentTime > 0.1)")
+            await world_tap(pg, n=1)
+        ok('world mixed trivia (flags, passages, Mandarin + Spanish names) finished', await pg.locator('[data-testid="quiz-done"]').count() == 1 and imgs_ok, imgs_ok)
+        ok('Mandarin country-name MP3 plays', zh_played)
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-drop')
+        tiles_ = await pg.eval_on_selector_all('.wtile', 'els => els.map(e => e.dataset.n)')
+        src = pg.locator('.wtile').first; bb = await src.bounding_box(); await pg.mouse.move(bb['x'] + 10, bb['y'] + 10); await pg.mouse.down(); await pg.mouse.move(bb['x'] + 40, bb['y'] + 40, steps=4)
+        x, y = await pg.evaluate(js_point, tiles_[0]); await pg.mouse.move(x, y, steps=8); await pg.mouse.up(); await pg.wait_for_timeout(200)
+        for n in tiles_[1:]:
+            await pg.locator(f'.wtile[data-n="{n}"]').click(); x, y = await pg.evaluate(js_point, n); await pg.mouse.click(x, y); await pg.wait_for_timeout(200)
+        ok('name & flag drop finished (drag + tap)', await pg.locator('[data-testid="quiz-done"]').count() == 1)
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-hunt'); await tid(pg, 'whunt-0')
+        ok('Find the Country chained hunt finished', await world_tap(pg) and '5 / 5' in await pg.inner_text('[data-testid="score"]'))
+        async def play_memory(pg):
+            cards = await pg.eval_on_selector_all('.mem', 'els=>els.map(e=>e.dataset.n)'); done = set()
+            for i, n in enumerate(cards):
+                if n in done: continue
+                j = [k for k, m in enumerate(cards) if m == n and k != i][0]
+                await pg.locator('.mem').nth(i).click(); await pg.locator('.mem').nth(j).click(); await pg.wait_for_timeout(550); done.add(n)
+            return len(cards), await pg.locator('.mem.matched').count()
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-memory'); await tid(pg, 'wmem-6'); n, m = await play_memory(pg)
+        ok('world memory Level A: 6 cards matched', n == 6 and m == 6, (n, m))
         # ---- Acting
         await home(pg); await tid(pg, 'go-act'); await shot(pg, f'{SHOTS}/08-acting-studio.png')
         await tid(pg, 'act-charades'); await tid(pg, 'new-card'); await pg.click('[data-rate="3"]'); await tid(pg, 'did-it')
@@ -171,6 +230,51 @@ async def main():
             await pg.wait_for_function("!document.querySelector('[data-testid=chess-status]').textContent.includes('Thinking')", timeout=8000); times.append(round(time.time() - t0, 2))
             legal = await pg.evaluate("window.__chess.turn()")
         ok('AI (hardest level) answers within 2 s', times and max(times) < 2.0, times)
+        await home(pg); await tid(pg, 'go-es'); await tid(pg, 'es-countries'); flags_ok = True
+        for _ in range(6):
+            imgs = await pg.eval_on_selector_all('.quiz img', 'els => els.map(e => [e.getAttribute("src"), e.complete && e.naturalWidth > 0])')
+            flags_ok = flags_ok and len(imgs) > 0 and all(s.startswith('flags/world/') and v for s, v in imgs)
+            await pg.locator('.choice[data-correct="1"]').first.click(); await pg.wait_for_timeout(150); await tid(pg, 'next')
+        ok('Spanish countries quiz uses bundled SVG flags (no emoji) and finishes', flags_ok and await pg.locator('[data-testid="quiz-done"]').count() == 1)
+        # ---- World Explorer (Leo, Level B): every country tap + capital, zoom, timed rounds, 16-card memory
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-explore')
+        names = await pg.evaluate("WORLD.countries.map(c => c.name)"); bad = []; badcap = []; zoomed = []
+        for n in names:
+            await pg.evaluate("()=>window.__lastTap=null"); x, y = await pg.evaluate(js_point, n); await pg.mouse.click(x, y); got = await pg.evaluate("window.__lastTap")
+            if got != n:
+                z = await pg.evaluate("""n => { const s = WORLD.shapes.find(s => s.id === WORLD.countries.find(c => c.name === n).id); const [x, y] = s.c;
+                    return Object.entries(WORLD.zooms).filter(([k, b]) => x > b[0] && x < b[0] + b[2] && y > b[1] && y < b[1] + b[3]).map(([k]) => k)[0] || null; }""", n)
+                if z:
+                    await tid(pg, 'wzoom-' + re.sub(r'\W+', '-', z)); x, y = await pg.evaluate(js_point, n); await pg.mouse.click(x, y); got = await pg.evaluate("window.__lastTap"); await tid(pg, 'wzoom-world')
+                    if got == n: zoomed.append(n)
+                if got != n: bad.append((n, got)); continue
+            info = await pg.inner_text('[data-testid="country-info"]'); cap = await pg.evaluate("n => WORLD.countries.find(c => c.name === n).capital", n)
+            if cap not in info or n not in info: badcap.append((n, cap))
+        ok(f'all {len(names)} world country taps map to the right country (small ones via zoom)', not bad, bad)
+        ok('explore card shows the right capital for every country', not badcap, badcap)
+        print('   small countries tapped via zoom:', zoomed)
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-map')
+        ok('world map quiz (Level B) is timed with zoom buttons', await pg.locator('[data-testid="timer"]').count() == 1 and await pg.locator('[data-testid^="wzoom-"]').count() >= 5)
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-trivia'); capq = 0
+        for k in range(12):
+            if await pg.locator('[data-testid="quiz-done"]').count(): break
+            t = await pg.inner_text('[data-testid="map-ask"]')
+            if 'capital' in t: capq += 1
+            if 'What is the capital of' in t:
+                n = re.search(r'capital of (.+)\?', t).group(1).strip(); right = await pg.locator('.choice[data-correct="1"]').first.inner_text()
+                if right != await pg.evaluate("n => WORLD.countries.find(c => c.name === n).capital", n): capq = -99
+            await world_tap(pg, n=1)
+        ok('world trivia (Level B) with capitals finished', await pg.locator('[data-testid="quiz-done"]').count() == 1 and capq >= 2, capq)
+        await home(pg); await tid(pg, 'go-world'); await tid(pg, 'world-memory'); await tid(pg, 'wmem-16')
+        kinds = await pg.eval_on_selector_all('.mem', 'els=>[...new Set(els.map(e=>e.dataset.kind))].sort()')
+        n, m = await play_memory(pg)
+        ok('world memory Level B: 16 cards with flag/shape/Mandarin cards', n == 16 and m == 16 and kinds == ['flag', 'name', 'shape', 'zh'], (n, m, kinds))
+        btest = await pg.evaluate("""(() => { const f = id => BADGES.find(b => b.id === id); const mk = w => ({prog: {world: w}});
+            return [f('continent').test(mk({continents: 10})), f('flagmaster').test(mk({flags: 20})), f('traveler').test(mk({found: Array.from({length: 15}, (_, i) => 'c' + i)})), f('traveler').test(mk({found: []})),
+                    f('continent').name, f('flagmaster').name, f('traveler').name]; })()""")
+        ok('World badges: Continent Captain, Flag Master, World Traveler', btest == [True, True, True, False, 'Continent Captain', 'Flag Master', 'World Traveler'], btest)
+        mia_b = await pg.evaluate("S.profiles.find(p => p.name === 'Mia').badges")
+        ok('Mia earned Continent Captain by playing', 'continent' in mia_b, mia_b)
         tctx = await br.new_context(viewport={'width': 820, 'height': 1180}, has_touch=True, is_mobile=True)
         tp = await tctx.new_page(); await tp.goto(BASE); await tp.evaluate("s => localStorage.setItem('acornAcademy.v1', s)", await pg.evaluate("localStorage.getItem('acornAcademy.v1')")); await tp.reload()
         await tp.tap('.brand'); await tp.tap('[data-testid="go-chess"]'); await tp.tap('[data-testid="lesson-r"]'); await tp.wait_for_timeout(200)
@@ -185,8 +289,9 @@ async def main():
         await pg.fill('[data-testid="gate-input"]', str(a * b)); await tid(pg, 'gate-go'); await pg.wait_for_timeout(300)
         tbl = await pg.inner_text('[data-testid="parent-table"]')
         mia = await pg.evaluate("(() => { const p = S.profiles.find(p => p.name === 'Mia'); return {stars: p.stars, secs: p.secStars, hist: p.history.length, badges: p.badges}; })()")
-        ok('parent page shows per-kid section columns', all(s in tbl for s in ['US Geography', 'Acting', 'Spanish', 'Chess', 'Games/Chat', 'Mandarin']), tbl.split('\n')[:3])
-        ok('parent page updated with progress', mia['stars'] > 20 and all(mia['secs'].get(s, 0) > 0 for s in ['ela', 'zh', 'es', 'usa', 'acting', 'chat']), mia)
+        ok('parent page shows per-kid section columns', all(s in tbl for s in ['US Geography', 'World Geography', 'Acting', 'Spanish', 'Chess', 'Games/Chat', 'Mandarin']), tbl.split('\n')[:3])
+        ok('parent page updated with progress', mia['stars'] > 20 and all(mia['secs'].get(s, 0) > 0 for s in ['ela', 'zh', 'es', 'usa', 'world', 'acting', 'chat']), mia)
+        ok('parent page has rename buttons', await pg.locator('[data-testid="prename-Mia"]').count() == 1)
         await shot(pg, f'{SHOTS}/13-parent-dashboard.png', full_page=False)
         ok('no console errors', not errs, errs[:5])
         await br.close()

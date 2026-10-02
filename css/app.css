@@ -131,3 +131,25 @@ table.dash { width: 100%; border-collapse: collapse; background: #fff; border-ra
 #confetti { position: fixed; inset: 0; pointer-events: none; z-index: 99; overflow: hidden; } #confetti i { position: absolute; top: -20px; border-radius: 2px; animation: fall linear forwards; }
 @keyframes fall { to { transform: translateY(110vh) rotate(720deg); } }
 @media (prefers-reduced-motion: reduce) { .cloud, #confetti i, .passage mark, .slot.spin .val { animation: none !important; } }
+/* ---------- World Explorer ---------- */
+.wmap .sea { fill: #cfe8f7; stroke: #a9cbe0; stroke-width: 1; cursor: default; }
+.wmap path { stroke-width: .6; vector-effect: non-scaling-stroke; }
+.wmap path.minor { fill: #f3ecd8; } .wmap path.dim { fill: #e4dfd2; }
+.wmap path.sea:hover { fill: #cfe8f7; }
+.wmap .ocean circle { fill: rgba(255,255,255,.35); stroke: #5fa8d3; stroke-width: 2; stroke-dasharray: 5 4; cursor: pointer; vector-effect: non-scaling-stroke; }
+.wmap .ocean:hover circle { fill: rgba(255,255,255,.7); } .wmap .ocean text { font-size: 16px; font-weight: 800; fill: #23608a; pointer-events: none; }
+.wmap text.wlabel { font-size: 12px; paint-order: stroke; stroke: #fff; stroke-width: 3px; }
+.wmap.zoomed text.wlabel { font-size: 5px; stroke-width: 1px; }
+.wmap path.ct-Africa { fill: #f6c79a; } .wmap path.ct-Asia { fill: #f7c6c1; } .wmap path.ct-Europe { fill: #bcd9ef; } .wmap path.ct-NorthAmerica { fill: #c9e6b8; }
+.wmap path.ct-SouthAmerica { fill: #fbe2a2; } .wmap path.ct-Oceania { fill: #d9c7f0; } .wmap path.ct-Antarctica { fill: #f4f7fb; }
+.wmap path.right { fill: #8fd19e !important; } .wmap path.wrong { fill: #f3a59f !important; } .wmap path.target { fill: #ffd27a !important; }
+.wmap circle.right { fill: #8fd19e; } .wmap circle.wrong { fill: #f3a59f; }
+.pill.ct-Africa { background: #f6c79a; } .pill.ct-Asia { background: #f7c6c1; } .pill.ct-Europe { background: #bcd9ef; } .pill.ct-NorthAmerica { background: #c9e6b8; }
+.pill.ct-SouthAmerica { background: #fbe2a2; } .pill.ct-Oceania { background: #d9c7f0; } .pill.ct-Antarctica { background: #eef2f7; }
+.zoombar { margin: 0 0 8px; gap: 6px; } .btn.small { padding: 6px 12px; font-size: 16px; min-height: 40px; } .zoombar .btn.sel { background: #dbeafe; border-color: #3b82f6; }
+.mini-flag { height: 30px; width: auto; vertical-align: middle; border-radius: 3px; box-shadow: 0 0 0 1px #ccc; }
+.wtile .mini-flag { height: 44px; }
+.wshape path { fill: #f6c79a; stroke: #8a7b63; stroke-width: 1; vector-effect: non-scaling-stroke; }
+.zh-card { display: flex; flex-direction: column; align-items: center; } .zh-card b { font-family: 'NotoKids', 'Noto Sans SC', sans-serif; font-size: 30px; } .zh-card small { font-size: 16px; }
+.passage-mini p { font-size: 19px; margin: 6px 0; text-align: left; } .map-card .choices { margin-top: 8px; }
+.profile-wrap { display: flex; flex-direction: column; align-items: center; gap: 6px; }

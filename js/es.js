@@ -112,7 +112,7 @@ function EsType(app){
 }
 function EsCountries(app){
   const qs = shuffle(ES.countries).slice(0, 6).map((c, k) => { const ch = shuffle([c, ...sample(ES.countries, 3, c)]);
-    return k % 2 ? {prompt: h('div', null, h('div', {style: {fontSize: '70px'}}, c.flag), 'Which Spanish-speaking country has this flag?'), choices: ch.map(x => x.name), answer: ch.indexOf(c), explain: `${c.flag} ${c.name}, capital ${c.capital}`}
-      : {prompt: h('div', null, 'What is the capital of ', h('b', null, c.name), ' ', c.flag, '?'), choices: ch.map(x => x.capital), answer: ch.indexOf(c), explain: `The capital of ${c.name} is ${c.capital}.`}; });
+    return k % 2 ? {prompt: h('div', null, h('img', {class: 'flag', src: c.flag, alt: 'Flag'}), 'Which Spanish-speaking country has this flag?'), choices: ch.map(x => x.name), answer: ch.indexOf(c), explain: h('span', null, h('img', {class: 'mini-flag', src: c.flag, alt: ''}), ` ${c.name}, capital ${c.capital}`)}
+      : {prompt: h('div', null, 'What is the capital of ', h('b', null, c.name), ' ', h('img', {class: 'mini-flag', src: c.flag, alt: 'Flag of ' + c.name}), '?'), choices: ch.map(x => x.capital), answer: ch.indexOf(c), explain: `The capital of ${c.name} is ${c.capital}.`}; });
   screen(app, 'Countries', '🌎', h('p', {class: 'muted'}, 'Spanish is spoken in more than 20 countries! Country names are written in Spanish.')); quiz(app, {sec: 'es', activity: 'Spanish-speaking countries', questions: qs, onDone: esRound});
 }
