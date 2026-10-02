@@ -1,0 +1,1941 @@
+{{Short description|All types of U.S. capital cities}}
+{{for|a list of capitol buildings|List of state and territorial capitols in the United States}}
+{{Use American English|date=June 2025}}
+{{Use mdy dates|date=September 2019}}
+[[File:US map - states and capitals.png|thumb|U.S. states with their capitals]]
+This is a list of [[Capital city|capital cities]] of the [[United States]], including places that serve or have served as federal, state, insular area, territorial, colonial and Native American capitals.
+
+[[Washington, D.C.]] has been the [[federal capital]] of the United States since 1800. Each [[U.S. state]] has its own capital city, as do many of its [[insular area]]s. Most states have not changed their capital city since becoming a state, but the capital cities of their respective preceding colonies, territories, kingdoms, and republics typically changed multiple times. There have also been other governments within the current borders of the United States with their own capitals, such as the [[Republic of Texas]], Native American nations, and other unrecognized governments.
+{{U.S. city population tables}}
+
+==National capitals==
+{{See also|#Colonies of British America}}
+
+The buildings in cities identified in the chart below served either as official capitals of the United States under the [[Constitution of the United States|United States Constitution]], or, prior to its ratification, sites where the [[Second Continental Congress]] or [[Congress of the Confederation]] met. The United States did not have a permanent capital under the [[Articles of Confederation]].
+
+The [[Constitution of the United States|U.S. Constitution]] was ratified in 1787, and gave the Congress the power to exercise "exclusive legislation" over a district that "may, by Cession of particular States, and the acceptance of [[United States Congress|Congress]], become the Seat of the Government of the United States."<ref>{{Cite web|title=Article 1 Section 8 Clause 17 |url=https://constitution.congress.gov/browse/article-1/section-8/clause-17/|website=Constitution Annotated {{!}} Congress.gov {{!}} Library of Congress |language=en|access-date=2020-05-31}}</ref> The [[1st United States Congress|1st Congress]] met at [[Federal Hall]] in [[New York City|New York]].<ref>{{Cite web|title=Farewell to New York|url=https://www.senate.gov/artandhistory/history/minute/Farewell_NY.htm|website=U.S. Senate|access-date=2020-05-31 |url-status=dead |archive-url=https://web.archive.org/web/20201010003540/https://www.senate.gov/artandhistory/history/minute/Farewell_NY.htm |archive-date=Oct 10, 2020}}</ref> In 1790, it passed the [[Residence Act]], which established the national capital at a site along the [[Potomac River]] that would become [[Washington, D.C.]]<ref>{{Cite web|title=Residence Act: Primary Documents in American History: Introduction|url=https://guides.loc.gov/residence-act?loclr=bloglaw|last=Drexler|first=Ken|website=Library of Congress Research Guides |language=en|access-date=2020-05-31 |date=April 21, 2020}}</ref> For the next ten years, [[Philadelphia]] served as the temporary capital.<ref name=":02"/> There, Congress met at [[Congress Hall]].<ref>{{Cite web|title=Congress Hall - Independence National Historical Park (U.S. National Park Service)|url=https://www.nps.gov/inde/learn/historyculture/places-congresshall.htm |website=National Park Service|language=en|access-date=2020-05-31}}</ref> On November 17, 1800, the [[6th United States Congress]] formally convened in Washington, D.C.<ref name=":02">{{Cite web|title=On This Day: Congress Moves to Washington, D.C. {{!}} In Custodia Legis: Law Librarians of Congress|url=https://blogs.loc.gov/law/2015/11/on-this-day-congress-moves-to-washington-d-c/|last=González|first=Jennifer|date=2015-11-17|website=Library of Congress Blogs |access-date=2020-05-31}}</ref> Congress has met outside of Washington only twice since: on July 16, 1987, at Independence Hall in Philadelphia, to commemorate the 200th anniversary of ratification of the Constitution;<ref>{{Cite web|title=Ceremonial Meeting of Congress in Philadelphia for Bicentennial of Constitution |url=https://history.house.gov/Historical-Highlights/1951-2000/Ceremonial-Meeting-Philadelphia-for-Bicentennial-of-Constitution/|website=US House of Representatives: History, Art & Archives |language=en|access-date=2020-05-31}}</ref> and at Federal Hall National Memorial in New York on September 6, 2002, to mark the first anniversary of the [[September 11 attacks]].<ref>{{Cite web|title=A Special Session at Federal Hall in New York City |url=https://history.house.gov/Historical-Highlights/2000-/A-special-session-at-Federal-Hall-in-New-York-City/|website=US House of Representatives: History, Art & Archives |language=en |date=September 6, 2002 |access-date=2020-05-31}}</ref>
+{| class="wikitable"
+!City
+!Building
+!Start date
+!End date
+!Duration
+!Ref
+|-
+! colspan="6" |[[Second Continental Congress]]
+|-
+|[[Philadelphia|Philadelphia, Pennsylvania]]
+|[[Independence Hall|Pennsylvania State House]]
+|{{Date table sorting|July 4, 1776}}{{efn|Convened May 10, 1775, prior to independence.}}
+|{{Date table sorting|December 12, 1776}}
+|{{Time interval|July 4, 1776|December 12, 1776}}
+|<ref name="Riley 1953 7–42">{{Cite journal|last=Riley|first=Edward M.|date=1953|title=The Independence Hall Group|journal=Transactions of the American Philosophical Society|volume=43|issue=1|pages=7–42|doi=10.2307/1005661|jstor=1005661|issn=0065-9746}}</ref>
+|-
+|[[Baltimore|Baltimore, Maryland]]
+|[[Henry Fite House|Congress Hall]]
+|{{Date table sorting|December 20, 1776}}
+|{{Date table sorting|February 27, 1777}}
+|{{Time interval|December 20, 1776|February 27, 1777}}
+|<ref>{{Cite web|title=Buildings of the Department of State Henry Fite's House, Baltimore Dec. 20, 1776—Feb. 27, 1777  |url=https://history.state.gov/departmenthistory/buildings/section4|website=Office of the Historian|access-date=2020-05-31}}</ref>
+|-
+|[[Philadelphia|Philadelphia, Pennsylvania]]
+|[[Independence Hall|Pennsylvania State House]]
+|{{Date table sorting|March 5, 1777}}
+|{{Date table sorting|September 18, 1777}}
+|{{Time interval|March 5, 1777|September 18, 1777}}
+|<ref name=":1">{{Cite web|title=8 Forgotten Capitals of the United States|url=https://www.history.com/news/8-forgotten-capitals-of-the-united-states|last=Klein|first=Christopher|website=HISTORY|date=July 16, 2015 |language=en|access-date=2020-05-31}}</ref>
+|-
+|[[Lancaster, Pennsylvania]]
+|[[Soldiers and Sailors Monument (Lancaster, Pennsylvania)|Lancaster County Courthouse]]
+|{{Date table sorting|September 27, 1777}}
+|{{Date table sorting|September 27, 1777}}
+|{{Time interval|September 27, 1777|September 28, 1777}}
+|<ref name=":1" />
+|-
+|[[York, Pennsylvania]]
+|[[York, Pennsylvania#18th century|York County Courthouse]]
+|{{Date table sorting|September 30, 1777}}
+|{{Date table sorting|June 27, 1778}}
+|{{Time interval|September 30, 1777|June 27, 1778}}
+|<ref name=":1" />
+|-
+|rowspan=2|[[Philadelphia|Philadelphia, Pennsylvania]]
+|[[History of the University of Pennsylvania|University of Pennsylvania's original College Hall]]{{efn|Extensive damage to the Pennsylvania State House during the [[Philadelphia campaign#Capture of Philadelphia|British occupation of Philadelphia]] necessitated this temporary meeting place.}}
+|{{Date table sorting|July 2, 1778}}
+|{{Date table sorting|July 13, 1778}}
+|{{Time interval|July 2, 1778|July 13, 1778}}
+|<ref name="Meeting-Places">{{Cite web|title=Meeting Places for the Continental Congresses and the Confederation Congress, 1774–1789|url=https://history.house.gov/People/Continental-Congress/Meeting-Places/ |website=History, Art & Archives, U.S. House of Representatives |access-date=2022-01-30}}</ref><wbr/><ref>{{cite web |url=https://www.unitedstatescapitals.org/p/college-hall.html?m=1 |title=College Hall, Philadelphia, Pennsylvania: July 2, 1778 to July 20, 1778 |website=United States Capitols}}</ref><wbr/><ref>see also {{cite journal |title=Journals of the Continental Congress (JCC) 1774–1789 |editor-first1= Worthington C. |editor-last1=Ford |editor-first2=Gaillard |editor-last2=Hunt |editor-first3=John C. |editor-last3=Fitzpatrick |editor-first4=Roscoe R. |editor-last4=Hill |location=Washington, DC |publisher=Government Printing Office |via=Library of Congress |journal=A Century of Lawmaking for a New Nation: U.S. Congressional Documents and Databases, 1774–1875 |url=http://memory.loc.gov/ammem/amlaw/lawhome.html |volume=1 |pages=13, 104, 114}}</ref>
+|-
+|[[Independence Hall|Pennsylvania State House]]
+|{{Date table sorting|July 14, 1778}}
+|{{Date table sorting|March 1, 1781}}
+|{{Time interval|July 14, 1778|March 1, 1781}}
+|<ref name="Meeting-Places"/>
+|-
+! colspan="6" |[[Congress of the Confederation]]
+|-
+|[[Philadelphia|Philadelphia, Pennsylvania]]
+|[[Independence Hall|Pennsylvania State House]]
+|{{Date table sorting|March 2, 1781}}
+|{{Date table sorting|June 21, 1783}}
+|{{Time interval|March 2, 1781|June 21, 1783}}
+|<ref name=":2">{{Cite web|title=The Nine Capitals of the United States |archive-url=https://web.archive.org/web/20200530142811/www.senate.gov/reference/reference_item/Nine_Capitals_of_the_United_States.htm|archive-date=May 30, 2020 |url=https://www.senate.gov/reference/reference_item/Nine_Capitals_of_the_United_States.htm|website=U.S. Senate|access-date=May 31, 2020}}</ref>
+|-
+|[[Princeton, New Jersey]]{{efn|Congress was forced to move from Philadelphia due to a [[Pennsylvania Mutiny of 1783|mutiny carried out by disgruntled soldiers]] of the Continental Army.}}
+|[[Nassau Hall|Princeton University's Nassau Hall]]
+|{{Date table sorting|June 30, 1783}}
+|{{Date table sorting|November 4, 1783}}
+|{{Time interval|June 30, 1783|November 4, 1783}}
+|<ref name=":2" />
+|-
+|[[Annapolis, Maryland]]
+|[[Maryland State House]]
+|{{Date table sorting|November 26, 1783}}
+|{{Date table sorting|August 19, 1784}}
+|{{Time interval|November 26, 1783|August 19, 1784}}
+|<ref name=":2" />
+|-
+|[[Trenton, New Jersey]]
+|[[French Arms Tavern]]
+|{{Date table sorting|November 1, 1784}}
+|{{Date table sorting|December 24, 1784}}
+|{{Time interval|November 1, 1784|December 24, 1784}}
+|<ref name=":2" />
+
+|-
+|rowspan=2|[[New York City|New York, New York]]
+|New York City Hall (later known as, [[Federal Hall]])
+|{{Date table sorting|January 11, 1785}}
+|{{Date table sorting|October 6, 1788}}
+|{{Time interval|November 1, 1784|October 6, 1788}}
+|<ref name=":2" />
+|-
+|[[Fraunces Tavern]]
+|{{Date table sorting|October 6, 1788}}
+|{{Date table sorting|March 3, 1789}}
+|{{Time interval|October 6, 1788|March 3, 1789}}
+|<ref name=":2" />
+|-
+
+! colspan="6" |[[United States Congress]]
+|-
+|[[New York City|New York, New York]]
+|[[Federal Hall]]
+|{{Date table sorting|March 4, 1789}}
+|{{Date table sorting|December 5, 1790}}
+|{{Time interval|March 4, 1789|December 5, 1790}}
+|<ref name=":2" />
+|-
+|[[Philadelphia|Philadelphia, Pennsylvania]]
+|[[Congress Hall]]
+|{{Date table sorting|December 6, 1790}}
+|{{Date table sorting|May 14, 1800}}
+|{{Time interval|December 6, 1790|May 14, 1800}}{{efn|Government offices [[Relocation of the United States Government to Trenton|were evacuated to Trenton, New Jersey]], from August to November 1799 following an outbreak of [[yellow fever]] in Philadelphia.}}
+|<ref name=":2" />
+|-
+|rowspan=4|[[Washington, D.C.]]
+|[[United States Capitol]]
+|{{Date table sorting|November 17, 1800}}{{efn|The District of Columbia was formed February 27, 1801, with the [[District of Columbia Organic Act of 1801]].  The city of Washington was founded in 1791 and construction of the new capital began while it was still part of Maryland. President [[John Adams]] moved to the [[White House]] on November 1, 1800, and the [[6th United States Congress]] held its first session in Washington on November 17, 1800.<ref name="carter-p139">{{citation |author=Carter II, Edward C. |title=Benjamin Henry Latrobe and the Growth and Development of Washington, 1798-1818 |journal=Records of the Columbia Historical Society |date=1971–1972 |pages=139}}</ref>}}
+|{{Date table sorting|August 24, 1814}}{{efn|President [[James Madison]] fled to the home of [[Caleb Bentley]] in [[Brookeville, Maryland]] following the [[burning of Washington]] on August 24–25, 1814. As such, the town claims to have been the "U.S. Capital for a Day" despite the fact that Congress never met there.<ref>{{cite web|url=http://townofbrookevillemd.org/history.html |title=A Brief History |year=2006 |publisher=Town of Brookeville, Maryland |access-date=October 7, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081207142226/http://townofbrookevillemd.org/history.html |archive-date=December 7, 2008}}</ref>}}
+|{{Time interval|November 17, 1800|August 24, 1814}}
+|<ref name=":2" />
+|-
+|[[General Post Office (Washington, D.C.)|General and City Post Office Building]]
+|{{Date table sorting|September 19, 1814}}
+|{{Date table sorting|December 7, 1815}}
+|{{Time interval|September 19, 1814|December 7, 1815}}
+|<ref>{{Cite web|title=The Senate Convenes in Emergency Quarters|url=https://www.senate.gov/artandhistory/history/minute/Senate_Convenes_in_Emergency_Quarters.htm|website=U.S. Senate|access-date=2020-05-31}}</ref>
+|-
+|[[Old Brick Capitol|Brick Capitol]]
+|{{Date table sorting|December 4, 1815}}
+|{{Date table sorting|March 3, 1819}}
+|{{Time interval|December 4, 1815|March 3, 1819}}
+|<ref>{{Cite web|title=On This Day: December 4, 1815|url=https://www.senate.gov/artandhistory/history/anecdote/days/049week_1204.htm|website=U.S. Senate|access-date=2020-05-31}}</ref>
+|-
+|[[United States Capitol]]
+|{{Date table sorting|March 4, 1819}}
+|present
+|{{Time interval|March 4, 1819|}}
+|<ref>{{Cite web|title=Meeting Places and Quarters|url=https://www.senate.gov/artandhistory/history/common/briefing/Meeting_Places_Quarters.htm|website=U.S. Senate|access-date=2020-05-31}}</ref>
+|}
+
+==State capitals==
+{{multiple image
+ | align = right
+ | total_width = 480
+ | image1 = US_states_in_which_the_capital_is_the_largest_city.svg
+ | caption1 = States (highlighted in purple) whose capital city is also their most populous
+ | image2 = US_States_that_have_changed_capitals.svg
+ | caption2 = States (highlighted in blue) that have changed their capital city at least once
+}}
+
+Each state has a capital that serves as the seat of [[State governments of the United States|its government]]. Ten of the thirteen original states and 15 other states have changed their capital city at least once; the last state to move its capital city was Oklahoma in 1910.
+
+In the following table, the "Since" column shows the year that the city began serving as the state's capital (or the capital of the entities that preceded it). The MSA/μSA and CSA columns display the population of the metro area the city is a part of, and should not be construed to mean the population of the city's sphere of influence or that the city is an anchor for the metro area. Fields colored <span style="background-color:#FFFFDD;">light yellow</span> denote that the population is a [[micropolitan statistical area]].
+
+{| class="wikitable plainrowheaders sortable"
+! rowspan="2" scope="col" |State
+! rowspan="2" scope="col" |Capital
+! rowspan="2" scope="col" |Since
+! rowspan="2" scope="col" data-sort-type="number" |Area
+! colspan="3" scope="col" |Population (2020 US Census)
+! rowspan="2" scope="col" |City rank in state
+|-
+!City
+![[Metropolitan statistical area|MSA]]/<span style="background-color:#FFFFDD;">[[Micropolitan statistical area|μSA]]</span>
+![[Combined statistical area|CSA]] 
+|-
+| {{flagicon|Alabama}} [[Alabama]]
+!scope=row|[[Montgomery, Alabama|Montgomery]]
+|align=center|1846
+|align=right|{{convert|159.8|mi2|0|abbr=on}}
+|align=right|200,603
+|align=right|386,047
+|align=right|476,207
+|align=center|3
+|-
+| {{flagicon|Alaska}} [[Alaska]]
+!scope=row|[[Juneau]]
+|align=center|1906
+|align=right|{{convert|2716.7|mi2|0|abbr=on}}
+|align=right|32,255
+|align=right style="background-color:#FFFFDD;"|32,255
+|align=right|
+|align=center|3
+|-
+| {{flagicon|Arizona}} [[Arizona]]
+!scope=row|[[Phoenix, Arizona|Phoenix]]
+|align=center|1889
+|align=right|{{convert|517.6|mi2|0|abbr=on}}
+|align=right|1,608,139
+|align=right|4,845,832
+|align=right|4,899,104
+|align=center|1
+|-
+| {{flagicon|Arkansas}} [[Arkansas]]
+!scope=row|[[Little Rock, Arkansas|Little Rock]]
+|align=center|1821
+|align=right|{{convert|116.2|mi2|0|abbr=on}}
+|align=right|202,591
+|align=right|748,031
+|align=right|912,604
+|align=center|1
+|-
+| {{flagicon|California}} [[California]]
+!scope=row|[[Sacramento, California|Sacramento]]
+|align=center|1854
+|align=right|{{convert|97.9|mi2|0|abbr=on}}
+|align=right|524,943
+|align=right|2,397,382
+|align=right|2,680,831
+|align=center|6
+|-
+| {{flagicon|Colorado}}[[Colorado]]
+!scope=row|[[Denver]]
+|align=center|1867
+|align=right|{{convert|153.3|mi2|0|abbr=on}}
+|align=right|715,522
+|align=right|2,963,821
+|align=right|3,623,560
+|align=center|1
+|-
+| {{flagicon|Connecticut}} [[Connecticut]]
+!scope=row|[[Hartford, Connecticut|Hartford]]
+|align=center|1875
+|align=right|{{convert|17.3|mi2|0|abbr=on}}
+|align=right|121,054
+|align=right|1,213,531
+|align=right|1,482,086
+|align=center|4
+|-
+| {{flagicon|Delaware}} [[Delaware]]
+!scope=row|[[Dover, Delaware|Dover]]
+|align=center|1777
+|align=right|{{convert|22.4|mi2|0|abbr=on}}
+|align=right|39,403
+|align=right|181,851
+|align=right|7,379,700
+|align=center|2
+|-
+| {{flagicon|Florida}} [[Florida]]
+!scope=row|[[Tallahassee, Florida|Tallahassee]]
+|align=center|1824
+|align=right|{{convert|95.7|mi2|0|abbr=on}}
+|align=right|196,169
+|align=right|384,298
+|align=right|
+|align=center|8
+|-
+| {{flagicon|Georgia (U.S. state)}}[[Georgia (U.S. state)|Georgia]]
+!scope=row|[[Atlanta]]
+|align=center|1868
+|align=right|{{convert|133.5|mi2|0|abbr=on}}
+|align=right|498,715
+|align=right|6,089,815
+|align=right|6,930,423
+|align=center|1
+|-
+| {{flagicon|Hawaii}} [[Hawaii]]
+!scope=row|[[Honolulu]]
+|align=center|1845
+|align=right|{{convert|68.4|mi2|0|abbr=on}}
+|align=right|350,964
+|align=right|1,016,508
+|align=right|
+|align=center|1
+|-
+| {{flagicon|Idaho}} [[Idaho]]
+!scope=row|[[Boise, Idaho|Boise]]
+|align=center|1865
+|align=right|{{convert|63.8|mi2|0|abbr=on}}
+|align=right|235,684
+|align=right|764,718
+|align=right|850,341
+|align=center|1
+|-
+| {{flagicon|Illinois}} [[Illinois]]
+!scope=row|[[Springfield, Illinois|Springfield]]
+|align=center|1837
+|align=right|{{convert|54.0|mi2|0|abbr=on}}
+|align=right|114,394
+|align=right|208,640
+|align=right|308,523
+|align=center|7
+|-
+| {{flagicon|Indiana}} [[Indiana]]
+!scope=row|[[Indianapolis]]
+|align=center|1825
+|align=right|{{convert|361.5|mi2|0|abbr=on}}
+|align=right|887,642
+|align=right|2,111,040
+|align=right|2,492,514
+|align=center|1
+|-
+| {{flagicon|Iowa}} [[Iowa]]
+!scope=row|[[Des Moines, Iowa|Des Moines]]
+|align=center|1857
+|align=right|{{convert|75.8|mi2|0|abbr=on}}
+|align=right|214,133
+|align=right|709,466
+|align=right|890,322
+|align=center|1
+|-
+| {{flagicon|Kansas}} [[Kansas]]
+!scope=row|[[Topeka, Kansas|Topeka]]
+|align=center|1856
+|align=right|{{convert|56.0|mi2|0|abbr=on}}
+|align=right|126,587
+|align=right|233,152
+|align=right|
+|align=center|5
+|-
+| {{flagicon|Kentucky}} [[Kentucky]]
+!scope=row|[[Frankfort, Kentucky|Frankfort]]
+|align=center|1792
+|align=right|{{convert|14.7|mi2|0|abbr=on}}
+|align=right|28,602
+|align=right style="background-color:#FFFFDD;"|75,393
+|align=right|746,045
+|align=center|15
+|-
+| {{flagicon|Louisiana}} [[Louisiana]]
+!scope=row|[[Baton Rouge, Louisiana|Baton Rouge]]
+|align=center|1880
+|align=right|{{convert|76.8|mi2|0|abbr=on}}
+|align=right|227,470
+|align=right|870,569
+|align=right|
+|align=center|2
+|-
+| {{flagicon|Maine}} [[Maine]]
+!scope=row|[[Augusta, Maine|Augusta]]
+|align=center|1832
+|align=right|{{convert|55.4|mi2|0|abbr=on}}
+|align=right|18,899
+|align=right style="background-color:#FFFFDD;"|123,642
+|align=right|
+|align=center|12
+|-
+| {{flagicon|Maryland}} [[Maryland]]
+!scope=row|[[Annapolis, Maryland|Annapolis]]
+|align=center|1694
+|align=right|{{convert|6.73|mi2|0|abbr=on}}
+|align=right|40,812
+|align=right|2,844,510
+|align=right|9,973,383
+|align=center|7
+|-
+| {{flagicon|Massachusetts}} [[Massachusetts]]
+!scope=row|[[Boston]]
+|align=center|1630
+|align=right|{{convert|89.6|mi2|0|abbr=on}}
+|align=right|675,647
+|align=right|4,941,632
+|align=right|8,466,186
+|align=center|1
+|-
+| {{flagicon|Michigan}} [[Michigan]]
+!scope=row|[[Lansing, Michigan|Lansing]]
+|align=center|1847
+|align=right|{{convert|35.0|mi2|0|abbr=on}}
+|align=right|112,644
+|align=right|541,297
+|align=right|
+|align=center|5
+|-
+| {{flagicon|Minnesota}} [[Minnesota]]
+!scope=row|[[Saint Paul, Minnesota|Saint Paul]]
+|align=center|1849
+|align=right|{{convert|52.8|mi2|0|abbr=on}}
+|align=right|311,527
+|align=right|3,690,261
+|align=right|4,078,788
+|align=center|2
+|-
+| {{flagicon|Mississippi}} [[Mississippi]]
+!scope=row|[[Jackson, Mississippi|Jackson]]
+|align=center|1864
+|align=right|{{convert|104.9|mi2|0|abbr=on}}
+|align=right|153,701
+|align=right|591,978
+|align=right|671,607
+|align=center|1
+|-
+| {{flagicon|Missouri}} [[Missouri]]
+!scope=row|[[Jefferson City, Missouri|Jefferson City]]
+|align=center|1826
+|align=right|{{convert|27.3|mi2|0|abbr=on}}
+|align=right|43,228
+|align=right|150,309
+|align=right|
+|align=center|15
+|-
+| {{flagicon|Montana}} [[Montana]]
+!scope=row|[[Helena, Montana|Helena]]
+|align=center|1875
+|align=right|{{convert|14.0|mi2|0|abbr=on}}
+|align=right|32,091
+|align=right style="background-color:#FFFFDD;"|83,058
+|align=right|
+|align=center|6
+|-
+| {{flagicon|Nebraska}} [[Nebraska]]
+!scope=row|[[Lincoln, Nebraska|Lincoln]]
+|align=center|1867
+|align=right|{{convert|74.6|mi2|0|abbr=on}}
+|align=right|291,082
+|align=right|340,217
+|align=right|361,921
+|align=center|2
+|-
+| {{flagicon|Nevada}} [[Nevada]]
+!scope=row|[[Carson City, Nevada|Carson City]]
+|align=center|1861
+|align=right|{{convert|143.4|mi2|0|abbr=on}}
+|align=right|58,639
+|align=right|58,639
+|align=right|657,958
+|align=center|6
+|-
+| {{flagicon|New Hampshire}} [[New Hampshire]]
+!scope=row|[[Concord, New Hampshire|Concord]]
+|align=center|1808
+|align=right|{{convert|64.3|mi2|0|abbr=on}}
+|align=right|43,976
+|align=right style="background-color:#FFFFDD;"|153,808
+|align=right|8,466,186
+|align=center|3
+|-
+| {{flagicon|New Jersey}} [[New Jersey]]
+!scope=row|[[Trenton, New Jersey|Trenton]]
+|align=center|1784
+|align=right|{{convert|7.66|mi2|0|abbr=on}}
+|align=right|90,871
+|align=right|387,340
+|align=right|23,582,649
+|align=center|10
+|-
+| {{flagicon|New Mexico}} [[New Mexico]]
+!scope=row|[[Santa Fe, New Mexico|Santa Fe]]
+|align=center|1610
+|align=right|{{convert|37.3|mi2|0|abbr=on}}
+|align=right|87,505
+|align=right|154,823
+|align=right|1,162,523
+|align=center|4
+|-
+| {{flagicon|New York}} [[New York (state)|New York]]
+!scope=row|[[Albany, New York|Albany]]
+|align=center|1797
+|align=right|{{convert|21.4|mi2|0|abbr=on}}
+|align=right|99,224
+|align=right|899,262
+|align=right|1,190,727
+|align=center|6
+|-
+| {{flagicon|North Carolina}} [[North Carolina]]
+!scope=row|[[Raleigh, North Carolina|Raleigh]]
+|align=center|1792
+|align=right|{{convert|114.6|mi2|0|abbr=on}}
+|align=right|467,665
+|align=right|1,413,982
+|align=right|2,106,463
+|align=center|2
+|-
+| {{flagicon|North Dakota}} [[North Dakota]]
+!scope=row|[[Bismarck, North Dakota|Bismarck]]
+|align=center|1883
+|align=right|{{convert|26.9|mi2|0|abbr=on}}
+|align=right|73,622
+|align=right|133,626
+|align=right|
+|align=center|2
+|-
+| {{flagicon|Ohio}} [[Ohio]]
+!scope=row|[[Columbus, Ohio|Columbus]]
+|align=center|1816
+|align=right|{{convert|210.3|mi2|0|abbr=on}}
+|align=right|905,748
+|align=right|2,138,926
+|align=right|2,544,048
+|align=center|1
+|-
+| {{flagicon|Oklahoma}} [[Oklahoma]]
+!scope=row|[[Oklahoma City]]
+|align=center|1910
+|align=right|{{convert|620.3|mi2|0|abbr=on}}
+|align=right|681,054
+|align=right|1,425,695
+|align=right|1,498,149
+|align=center|1
+|-
+| {{flagicon|Oregon}} [[Oregon]]
+!scope=row|[[Salem, Oregon|Salem]]
+|align=center|1855
+|align=right|{{convert|45.7|mi2|0|abbr=on}}
+|align=right|175,535
+|align=right|433,353
+|align=right|3,280,736
+|align=center|3
+|-
+| {{flagicon|Pennsylvania}} [[Pennsylvania]]
+!scope=row|[[Harrisburg, Pennsylvania|Harrisburg]]
+|align=center|1812
+|align=right|{{convert|8.11|mi2|0|abbr=on}}
+|align=right|50,099
+|align=right|591,712
+|align=right|1,295,259
+|align=center|9
+|-
+| {{flagicon|Rhode Island}} [[Rhode Island]]
+!scope=row|[[Providence, Rhode Island|Providence]]
+|align=center|1900
+|align=right|{{convert|18.5|mi2|0|abbr=on}}
+|align=right|190,934
+|align=right|1,676,579
+|align=right|8,466,186
+|align=center|1
+|-
+| {{flagicon|South Carolina}} [[South Carolina]]
+!scope=row|[[Columbia, South Carolina|Columbia]]
+|align=center|1786
+|align=right|{{convert|125.2|mi2|0|abbr=on}}
+|align=right|136,632
+|align=right|829,470
+|align=right|951,412
+|align=center|2
+|-
+| {{flagicon|South Dakota}} [[South Dakota]]
+!scope=row|[[Pierre, South Dakota|Pierre]]
+|align=center|1889
+|align=right|{{convert|13.0|mi2|0|abbr=on}}
+|align=right|14,091
+|align=right style="background-color:#FFFFDD;"|20,745
+|align=right|
+|align=center|9
+|-
+| {{flagicon|Tennessee}} [[Tennessee]]
+!scope=row|[[Nashville, Tennessee|Nashville]]
+|align=center|1826?
+|align=right|{{convert|525.9|mi2|0|abbr=on}}
+|align=right|689,447
+|align=right|1,989,519
+|align=right|2,118,233
+|align=center|1
+|-
+| {{flagicon|Texas}} [[Texas]]
+!scope=row|[[Austin, Texas|Austin]]
+|align=center|1836
+|align=right|{{convert|305.1|mi2|0|abbr=on}}
+|align=right|961,855
+|align=right|2,283,371
+|align=right|
+|align=center|4
+|-
+| {{flagicon|Utah}} [[Utah]]
+!scope=row|[[Salt Lake City]]
+|align=center|1858
+|align=right|{{convert|109.1|mi2|0|abbr=on}}
+|align=right|199,723
+|align=right|1,257,936
+|align=right|2,701,129
+|align=center|1
+|-
+| {{flagicon|Vermont}} [[Vermont]]
+!scope=row|[[Montpelier, Vermont|Montpelier]]
+|align=center|1805
+|align=right|{{convert|10.2|mi2|0|abbr=on}}
+|align=right|8,074
+|align=right style="background-color:#FFFFDD;"|59,807
+|align=right| 285,369
+|align=center|6
+|-
+| {{flagicon|Virginia}} [[Virginia]]
+!scope=row|[[Richmond, Virginia|Richmond]]
+|align=center|1780
+|align=right|{{convert|60.1|mi2|0|abbr=on}}
+|align=right|226,610
+|align=right|1,314,434
+|align=right|
+|align=center|4
+|-
+| {{flagicon|Washington}} [[Washington (state)|Washington]]
+!scope=row|[[Olympia, Washington|Olympia]]
+|align=center|1853
+|align=right|{{convert|16.7|mi2|0|abbr=on}}
+|align=right|55,605
+|align=right|294,793
+|align=right|4,953,421
+|align=center|23
+|-
+| {{flagicon|West Virginia}} [[West Virginia]]
+!scope=row|[[Charleston, West Virginia|Charleston]]
+|align=center|1885
+|align=right|{{convert|31.6|mi2|0|abbr=on}}
+|align=right|48,864
+|align=right|258,859
+|align=right|779,969
+|align=center|1
+|-
+| {{flagicon|Wisconsin}} [[Wisconsin]]
+!scope=row|[[Madison, Wisconsin|Madison]]
+|align=center|1838
+|align=right|{{convert|68.7|mi2|0|abbr=on}}
+|align=right|269,840
+|align=right|680,796
+|align=right|910,246
+|align=center|2
+|-
+| {{flagicon|Wyoming}} [[Wyoming]]
+!scope=row|[[Cheyenne, Wyoming|Cheyenne]]
+|align=center|1869
+|align=right|{{convert|21.1|mi2|0|abbr=on}}
+|align=right|65,132
+|align=right|100,512
+|align=right|
+|align=center|1
+|-
+! colspan="8" |<ref>{{Cite web|title=City and Town Population Totals: 2020|url=https://www.census.gov/quickfacts/fact/table/US/PST045219|access-date=2020-11-09|website=The United States Census Bureau|language=EN-US}}</ref><ref>{{Cite web|title=Metropolitan and Micropolitan Population Totals: 2020|url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html|access-date=2020-11-09|website=The United States Census Bureau|language=EN-US}}</ref><ref>{{Cite web|title=Combined Statistical Area Population Totals and city rankings: 2020|url=https://data.census.gov/cedsci/|access-date=2020-11-09|website=The United States Census Bureau|language=EN-US}}</ref>
+|}
+
+==Insular area capitals==
+An [[insular area]] is a [[Territories of the United States|United States territory]] that is neither a part of one of the fifty states nor a part of the District of Columbia, the nation's federal district. Those insular areas with territorial capitals are listed below.
+{{table alignment}}
+{| class="wikitable sortable col4right plainrowheaders"
+|+ Capitals of United States Insular Areas
+! width=150| Insular area
+! width=100| Capital
+! scope="col" | Since
+! scope="col" | Pop. (2010)
+! class=unsortable| Notes
+|- style="border-top: solid 2px #000"
+| {{flagicon|American Samoa}} [[American Samoa]]
+! scope="row" | [[Pago Pago]]
+| 1899 || 3,656 || Pago Pago refers to both a village and a group of villages, one of which is [[Fagatogo]], the official [[seat of government]] stated in the territory's constitution.
+|-
+| {{flagicon|Guam}} [[Guam]]
+! scope="row" | [[Hagåtña, Guam|Hagåtña]]
+| 1898 || 1,051 || [[Dededo]] is the area's largest [[village]].
+|-
+| {{flagicon|Northern Mariana Islands}} [[Northern Mariana Islands]]
+! scope="row" | [[Saipan]]
+| 1947 || 48,220 ||Since the entire island, of {{cvt|46|sqmi}}, is organized as a single [[municipality]], most publications designate the whole of Saipan as the Commonwealth's capital. Most government functions are based in the [[Capitol Hill, Saipan|Capitol Hill]] village, except for the judicial branch which is located in [[Susupe]].
+|-
+| {{flagicon|Puerto Rico}} [[Puerto Rico]]
+! scope="row" | [[San Juan, Puerto Rico|San Juan]]
+| 1898 || 395,326 || The oldest continuously inhabited U.S. state or territorial capital, San Juan was originally called Puerto Rico while the island was called San Juan Bautista.
+|-
+| {{flagicon|U.S. Virgin Islands}} [[U.S. Virgin Islands]]
+! scope="row" | [[Charlotte Amalie, U.S. Virgin Islands|Charlotte Amalie]]
+| 1917 || 18,481 ||Like the rest of the U.S. Virgin Islands, Charlotte Amalie (located on the island of [[Saint Thomas, U.S. Virgin Islands|Saint Thomas]]) has no local government and is directly administered by the territorial government. However, it has boundaries defined by the Virgin Islands Code and is recognized as a town by the [[U.S. Census Bureau]].
+|-
+|}
+
+==Former national capitals==
+Four of the 50 U.S. states—Hawaii, Texas, California, and Vermont—were once ''[[de jure]]'' [[sovereign state]]s with [[diplomatic recognition]] from the [[international community]]. California did not have a capital during its time as a sovereign nation.
+
+===Hawaii===
+During its history as a sovereign nation ([[Hawaiian Kingdom|Kingdom of Hawaii]], 1795–1893; [[Republic of Hawaii]], 1894–1898), five sites served as the capital of Hawaii:
+[[File:Iolani_Palace_2017.jpg|thumb|[[Honolulu]] has served as the capital of Hawaii since it was an independent kingdom. The [[Iolani Palace]] (pictured) served as the seat of government until 1969. Currently, the [[Governor of Hawaii|governor of Hawaii]] resides at [[Washington Place]].]]
+* [[Waikiki|Waikīkī]], 1795–1796
+* [[Hilo, Hawaii|Hilo]], 1796–1803
+* [[Honolulu]], 1803–1812
+* [[Kailua-Kona, Hawaii|Kailua-Kona]], 1812–1820
+* [[Lahaina, Hawaii|Lahaina]], 1820–1845
+* Honolulu, 1845–1898
+[[Newlands Resolution|Annexed by the United States]] in 1898, Honolulu remained the capital, first of the [[Territory of Hawaii|Territory]] of Hawaii ([[Hawaiian Organic Act|1900]]–1959), and then of the state ([[Hawaii Admission Act|since 1959]]).
+
+===Texas===
+During its history as a sovereign nation ([[Republic of Texas]], 1836–1845), seven sites served as the capital of Texas:
+* [[Washington-on-the-Brazos, Texas|Washington]] (now Washington-on-the-Brazos), 1836
+* [[Harrisburg, Houston|Harrisburg]] (now part of Houston), 1836
+* [[Galveston, Texas|Galveston]], 1836
+* [[Velasco, Texas|Velasco]], 1836
+* [[West Columbia, Texas|West Columbia]], 1836
+* [[Houston]], 1837–1839
+* [[Austin, Texas|Austin]], 1839–1845
+[[Texas annexation|Annexed by the United States]] in 1845, Austin remains the capital of the state of Texas.
+
+===Vermont===
+Three sites have served as the capital of the [[Vermont Republic]]:
+*[[Westminster, Vermont|Westminster]], 1777
+*[[Windsor, Vermont|Windsor]], 1777–1791
+*[[Castleton, Vermont|Castleton]], 1791
+When the state was admitted to the Union in 1791, [[Burlington, Vermont|Burlington]] was chosen to be the capital and it remained as such until 1805, when it was changed to [[Montpelier, Vermont|Montpelier]], where it remains today.
+
+== Native American capitals ==
+[[File:Navajo_Nation_Council_Chamber,_January_2019.jpg|thumb|The [[Navajo Nation Council Chamber]] in [[Window Rock, Arizona]] is the center of government for the [[Navajo Nation]]]]
+Some Native American tribes, in particular the [[Five Civilized Tribes]], organized their states with constitutions and capitals in Western style. Others, like the Iroquois, had long-standing, pre-Columbian traditions of a 'capitol' longhouse where wampum and council fires were maintained with special status. Since they did business with the U.S. Federal Government, these capitals can be seen as officially recognized in some sense.
+
+===Cherokee Nation ===
+* [[New Echota]] 1825–1832
+New Echota, now near [[Calhoun, Georgia|Calhoun]], [[Georgia (U.S. state)|Georgia]], was founded in 1825, realizing the dream and plans of Cherokee Chief [[Major Ridge]]. Major Ridge chose the site because of its centrality in [[Cherokee Nation (1794–1907)|the historic Cherokee Nation]] which spanned parts of Georgia, North Carolina, Tennessee and Alabama, and because it was near the confluence of the [[Conasauga River|Conasauga]] and [[Coosawattee River|Coosawattee]] rivers. The town's layout was partly inspired by Ridge's many visits to Washington D.C. and to Baltimore, but also invoked traditional themes of the [[Southeastern Ceremonial Complex|Southeastern ceremonial complex]]. Complete with the Council House, Supreme Court, [[Cherokee syllabary]] printing press, and the houses of several of the Nation's constitutional officers, New Echota served as the capital until 1832 when the state of Georgia outlawed Native American assembly in an attempt to undermine the Nation. Thousands of Cherokee would gather in New Echota for the annual National Councils, camping along the nearby rivers and holding long [[stomp dance]]s in the park-like woods that were typical of many Southeastern Native American settlements.<ref name=":0" />
+[[File:Council_House,_New_Echota,_GA_July_2017.jpg|thumb|The [[New Echota]] Council House (since reconstructed)]]
+* [[Red Clay State Historic Park|Red Clay]] 1832–1838
+The Cherokee National council grounds were moved to Red Clay, Tennessee, on the Georgia state line, in order to evade the Georgia state militia. The log cabins, limestone springs, and park-like woods of Red Clay served as the capital until the Cherokee Nation was removed to [[Indian Territory]] ([[Oklahoma]]) on the [[Trail of Tears]].<ref name=":0">{{Cite book|title=Trail of Tears: The Rise and Fall of the Cherokee Nation|last=Ehle|first=John|publisher=Anchor Books Doubleday|year=1988|isbn=0385239548|location=New York|url-access=registration|url=https://archive.org/details/trailoftearsrise00ehle}}</ref> 
+* [[Tahlequah, Oklahoma|Tahlequah]] 1839–1907, 1938–present
+Tahlequah, in present-day Oklahoma, served as the capital of [[Cherokee Nation (1794–1907)|the original Cherokee Nation]] after [[Indian removal|Removal]]. After the Civil War, a turbulent period for the Nation which was involved in its own civil war resulting from pervasive anger and disagreements over removal from Georgia, the Cherokee Nation built a new [[Cherokee National Capitol|National Capitol]] in Tahlequah out of brick. The building served as the capitol until 1907, when the [[Dawes Act]] finally dissolved the Cherokee Nation and Tahlequah became the county seat of [[Cherokee County, Oklahoma]]. The Cherokee National government was re-established in 1938 and Tahlequah remains the capital of the modern [[Cherokee Nation]]; it is also the capital of the [[United Keetoowah Band of Cherokee Indians]].
+* [[Cherokee, North Carolina|Cherokee]] 20th century–present ([[Eastern Band of Cherokee Indians|Eastern Band of Cherokee]])
+Approximately four to eight hundred Cherokees escaped removal because they lived on a separated tract, purchased later with the help of Confederate Colonel [[William Holland Thomas]], along the [[Oconaluftee River]] deep in the Smoky Mountains of North Carolina. Some Cherokees fleeing the Federal Army, sent for the "round up", fled to the remote settlements separated from the rest of the Cherokee Territory in Georgia and North Carolina, in order to remain in their homeland.<ref>{{Cite web|url=http://www.ncpedia.org/qualla-boundary|title=Qualla Boundary {{!}} NCpedia|website=www.ncpedia.org|language=en|access-date=September 18, 2017}}</ref> In the 20th century, their descendants organized as the [[Eastern Band of Cherokee Indians]]; its capital is at [[Cherokee, North Carolina]], in the tribally-controlled [[Qualla Boundary]].
+
+=== Muscogee Creek Nation ===
+* [[Hot Springs, Arkansas]] {{Circa|1837}}–1866
+After Removal from their Alabama-Georgia homeland, the Creek national government met near Hot Springs which was then part of their new territory as prescribed in the Treaty of Cusseta. Because some Creeks fought with the [[Confederate States of America|Confederacy]] in the [[American Civil War]], the Union forced the [[Muscogee (Creek) Nation|Creeks]] to cede over {{convert|3000000|acre|ha|adj=on}} - half of their land in what is now Arkansas.<ref>{{Cite web |title=Muscogee Creek Nation -Culture/history |url=http://www.mcn-nsn.gov/culturehistory/ |archive-url=https://web.archive.org/web/20210810192356/https://www.muscogeenation.com/culturehistory/ |archive-date=2021-08-10 |website=Muscogee Creek Nation}}</ref>
+* [[Okmulgee, Oklahoma|Okmulgee]] 1867–1906
+Served as the National capital after the American Civil War. It was probably named after [[Ocmulgee Mounds National Historical Park|Ocmulgee]], on the [[Ocmulgee River|Ocmulgee river]] in [[Macon, Georgia|Macon]], a principle [[Coosa chiefdom|Coosa]] and later [[Muscogee|Creek]] town built with mounds and functioning as part of the [[Southeastern Ceremonial Complex|Southeastern ceremonial complex]]. However, there were other traditional Creek "mother-towns" before removal. The Ocmulgee mounds were ceded illegally in 1821 with the [[Treaty of Indian Springs (1821)|Treaty of Indian Springs]].
+
+=== Iroquois Confederacy ===
+* [[Onondaga Reservation|Onondaga]] (Onondaga privilege {{Circa|1450}}–present)
+The [[Iroquois|Iroquois Confederacy]] or '''Haudenosaunee''', which means "People of the Longhouse", was an alliance between the Five and later Six-Nations of Iroquoian language and culture of upstate [[New York (state)|New York]].<ref>{{Citation|last=nysmuseum|title=Haudenosaunee or Iroquois?|date=September 30, 2014|url=https://www.youtube.com/watch?v=ZSXL33JiKLY |archive-url=https://ghostarchive.org/varchive/youtube/20211212/ZSXL33JiKLY| archive-date=2021-12-12 |url-status=live|access-date=January 24, 2017}}{{cbignore}}</ref> These include the [[Seneca people|Seneca]], [[Cayuga people|Cayuga]], [[Onondaga people|Onondaga]], [[Oneida people|Oneida]], [[Mohawk people|Mohawk]], and, after 1722, the [[Tuscarora people|Tuscarora]] Nations. Since the Confederacy's formation around 1450, the Onondaga Nation has held privilege of hosting the Iroquois Grand Council and the status of Keepers of the Fire and the Wampum —which they still do at the official Longhouse on the Onondaga Reservation.<ref>{{Cite web|url=http://www.haudenosauneeconfederacy.com/onondaga.html|title=Haudenosaunee Confederacy|website=www.haudenosauneeconfederacy.com|access-date=January 24, 2017}}</ref> Now spread over reservations in New York, [[Ontario]] and Quebec the Six Nations of the Haudenosaunee preserve this arrangement to this day in what they claim to be the "world's oldest representative democracy."<ref>{{Cite web|url=http://www.haudenosauneeconfederacy.com/grandcouncil.html|title=Haudenosaunee Confederacy|website=www.haudenosauneeconfederacy.com|access-date=January 24, 2017}}</ref>
+
+==== Seneca Nation of Indians ====
+* [[Jimerson Town, New York|Jimerson Town]] ([[Allegany Indian Reservation|Allegany Reservation]])
+* [[Irving, New York|Irving]] ([[Cattaraugus Reservation]])
+
+The [[Seneca Nation of New York|Seneca Nation]] republic was founded in 1848 and has two capitals that rotate responsibilities every two years. Jimerson Town was founded in the 1960s following the formation of the [[Allegheny Reservoir]]. The Senecas also have an administrative longhouse in [[Steamburg, New York|Steamburg]] but do not consider that location to be a capital.
+
+=== Navajo Nation ===
+* [[Window Rock, Arizona|Window Rock]]
+[[Window Rock, Arizona|Window Rock]] ([[Navajo language|Navajo]]: ''Tségháhoodzání''), Arizona, is a small city that serves as the seat of government and capital of the [[Navajo Nation]] (1936–present), the largest territory of a sovereign Native American nation in North America. It lies within the boundaries of the St. Michaels Chapter, adjacent to the Arizona and New Mexico state line. Window Rock hosts the Navajo Nation governmental campus which contains the Navajo Nation Council, Navajo Nation Supreme Court, the offices of the Navajo Nation President and Vice President, and many Navajo government buildings.
+
+=== Pueblo Republic ===
+* [[Taos Pueblo]]
+[[Tiwa people (Americas)|Tiwa people]] settled in the [[Taos Valley]] around 900 CE. They constructed the oldest building still standing around 1000, with more ones built in the late 1200s and early 1300s. Taos was the most populous [[city-state]] of all the [[Pueblo peoples]] in the 1540s. It is the origin of the younger Tiwa Pueblos of [[Picuris Pueblo|Picuris]], [[Sandia Pueblo|Sandia]], [[Isleta Pueblo|Isleta]], and [[Ysleta del Sur Pueblo|Ysleta del Sur]]. Taos was the headquarters of the [[Pueblo Revolt]] in 1680 against the [[Spanish Empire]]. After this first successful [[Decolonization|anti-colonial]] [[revolution]] in [[Americas|the Americas]], it became the [[capital city]] of the Pueblo republic. Taos Pueblo became the capital of [[Santa Fe de Nuevo México]] during the [[Río Arriba Rebellion]] of 1837.<ref>Sando, Joe S., ''Pueblo Nations: Eight Centuries of Pueblo Indian History'', Clear Light Publishers, Santa Fe, New Mexico, 1992</ref>
+
+==Unrecognized national capitals==
+There have been a handful of self-declared or undeclared nations within the current borders of the United States which were never officially recognized as legally independent sovereign entities; however, these nations did have ''[[de facto]]'' control over their respective regions during their existence.
+
+=== Colonies of British America===
+[[File:Old_Albany_City_Hall.png|thumb|upright=1.0|[[Albany City Hall|Stadt Huys]], the original [[Town hall|city hall]] of [[Albany, New York]] and meeting place of the [[Albany Congress]] in 1754.]]
+Prior to the independence of the United States from [[Kingdom of Great Britain|Great Britain]], declared July 4, 1776, in the [[United States Declaration of Independence|Declaration of Independence]] and ultimately secured in the [[American Revolutionary War]], several congresses were convened on behalf of some of the colonies of [[British America]]. However, these bodies did not address the question of independence from England, and therefore did not designate a national capital. The [[Second Continental Congress]] encompassed the period during which the United States declared independence but had not yet established a permanent national capital.
+{| class="wikitable"
+!Congress
+!City
+!Building
+!Start date
+!End date
+!Duration
+!Ref
+|-
+|[[Albany Congress]]
+|[[Albany, New York]]
+|[[Albany City Hall|Stadt Huys]]
+|{{Date table sorting|June 19, 1754}}
+|{{Date table sorting|July 11, 1754}}
+|{{Time interval|June 19, 1754|July 11, 1754}}
+|<ref>{{Cite web|title=Albany Congress {{!}} United States history [1754]|url=https://www.britannica.com/event/Albany-Congress|website=Encyclopedia Britannica|language=en|access-date=2020-05-31}}</ref>
+|-
+|[[Stamp Act Congress]]
+|[[New York City|New York, New York]]
+|[[Federal Hall|City Hall]]
+|{{Date table sorting|October 7, 1765}}
+|{{Date table sorting|October 25, 1765}}
+|{{Time interval|June 18, 1754|July 11, 1754}}
+|<ref>{{Cite web|title=History & Culture - Federal Hall National Memorial |url=https://www.nps.gov/feha/learn/hc.htm|website=National Park Service|language=en|access-date=2020-05-31}}</ref>
+|-
+|[[First Continental Congress]]
+|[[Philadelphia|Philadelphia, Pennsylvania]]
+|[[Carpenters' Hall]]
+|{{Date table sorting|September 5, 1774}}
+|{{Date table sorting|October 26, 1774}}
+|{{Time interval|September 5, 1774|October 26, 1774}}
+|<ref>{{Cite web|title=Buildings of the Department of State - Carpenters' Hall, Philadelphia Sept. 5, 1774—Oct. 26, 1774  |url=https://history.state.gov/departmenthistory/buildings/section2|website=Office of the Historian|access-date=2020-05-31}}</ref>
+|-
+|[[Second Continental Congress]]
+|[[Philadelphia|Philadelphia, Pennsylvania]]
+|[[Independence Hall]]
+|{{Date table sorting|May 10, 1775}}
+|{{Date table sorting|July 4, 1776}} ‡
+|{{Time interval|May 10, 1775|July 4, 1776}}
+|<ref name="Riley 1953 7–42"/>
+|}
+
+‡ (continuing after independence until December 12, 1776)
+
+=== State of Franklin ===
+The [[State of Franklin]] was an autonomous, secessionist United States territory created not long after the end of the American Revolution from territory that later was ceded by North Carolina to the federal government. Franklin's territory later became part of the state of Tennessee. Franklin was never officially admitted into the Union of the United States and existed for only four years.
+*[[Jonesborough, Tennessee]], 1784–1785
+*[[Greeneville, Tennessee]], 1785–1788
+
+=== State of Muskogee ===
+The [[State of Muskogee]] was a [[Native Americans in the United States|Native American]] state in [[Spanish Florida]] created by the Englishman [[William Augustus Bowles]], who was its "Director General", author of its Constitution, and designer of its flag.<ref>{{cite book|last1=Landers|first1=Jane|title=Atlantic Creoles in the Age of Revolutions|date=2010|publisher=Harvard University Press|location=London|pages=102–103}}</ref> It consisted of several tribes of [[Muscogee|Creeks]] and [[Seminole]]s. It existed from 1799 to 1803. It had one capital:
+*[[Miccosukee, Florida|Miccosukee]],<ref>[http://dhr.dos.state.fl.us/facts/symbols/flag.cfm?page=2&id=19 The State of Muskogee] {{Webarchive|url=https://web.archive.org/web/20060210182651/http://dhr.dos.state.fl.us/facts/symbols/flag.cfm?page=2&id=19 |date=February 10, 2006 }}, State Flags of Florida, Cultural, Historical and Information Programs, [http://dhr.dos.state.fl.us/ Office of Cultural and Historical Programs website] {{Webarchive|url=https://web.archive.org/web/20110224000728/http://dhr.dos.state.fl.us/ |date=February 24, 2011 }}, [[Florida Department of State]], [[Government of Florida]], retrieved October 31, 2007.</ref> 1799–1803
+
+=== Republic of West Florida ===
+The [[Republic of West Florida]] was a short-lived nation that broke away from the territory of [[Spanish West Florida]] in 1810.  It comprised the [[Florida Parishes]] of the modern state of [[Louisiana]] and the [[Mobile District]] of the modern states of [[Mississippi]] and [[Alabama]]. (The Republic of West Florida did not include any part of the modern state of [[Florida]].) Ownership of the area had been in dispute between Spain and the United States, which claimed that it had been included in the [[Louisiana Purchase]] of 1803. Within two months of the settlers' rebellion and the declaration of an independent nation, President [[James Madison]] sent American forces to peaceably occupy the new republic. It was formally annexed by the United States in 1812 over the objections of Spain and the land was divided between the [[Territory of Orleans]] and [[Mississippi Territory|Territory of Mississippi]]. During its brief existence, the capital of the Republic of West Florida was:
+*[[St. Francisville, Louisiana]], 1810
+
+=== Republic of Indian Stream ===
+The [[Republic of Indian Stream]] was an unrecognized independent nation within the present state of [[New Hampshire]].
+*The area that would become [[Pittsburg, New Hampshire]], 1832–1835
+
+=== California Republic ===
+Before being annexed by the United States in 1848 (following the [[Mexican–American War]]), a small portion of north-central California declared itself the [[California Republic]], in an act of independence from Mexico, in 1846 (see [[California Republic|Bear Flag Revolt]]).  The republic only existed a month before it disbanded itself to join the advancing American army; its claimed territory later became part of the United States as a result of the [[Mexican Cession]].
+
+[[File:Original_Todd_bear_flag.jpg|left|thumb|upright=1.0|The original of Todd's [[Bear Flag]], photographed in 1890]]
+[[File:Flag of California.svg|right|thumb|upright=1.0|Modern flag of the State of California]]
+The very short-lived California Republic was never recognized by the United States, Mexico or any other nation.  The flag, featuring a silhouette of a [[California grizzly bear]], a star, and the words "California Republic", became known as the [[Bear Flag]] and was later the basis for the official state flag of California.
+
+There was one ''[[de facto]]'' capital of the California Republic:
+*[[Sonoma, California|Sonoma]], 1846
+{{clear}}
+
+=== Confederate States ===
+[[File:Virginia State Capitol Building 2.jpg|thumb|[[Richmond, Virginia|Richmond]] served as the second capital of the [[Confederate States of America]]. The city has been Virginia's capital since 1780.]]
+The [[Confederate States of America]] (C.S.A.) had three capitals during its existence. The first capital was established February 4, 1861, in [[History of Montgomery, Alabama#Montgomery in the Civil War|Montgomery]], Alabama, and remained there until it was moved to [[Richmond in the American Civil War|Richmond]], Virginia, on May 29, 1861, after Virginia seceded on May 23.
+
+The individual state capitals remained the same in the Confederacy as they had been in the [[Union (American Civil War)|Union]] (U.S.A.), although as the advancing [[Union Army]] used those cities for military districts, some of the Confederate governments were relocated or moved out of state, traveling along with [[Confederate States Army|secessionist armies]].
+
+* [[History of Montgomery, Alabama#Montgomery in the Civil War|Montgomery, Alabama]], February 4 – May 29, 1861
+* [[Richmond in the American Civil War|Richmond, Virginia]], May 29, 1861 – April 3, 1865
+* [[Danville, Virginia]], April 2 – May 10, 1865<ref>{{Cite web |last=Wright |first=Aerika A. |title=Danville during the Civil War |url=https://encyclopediavirginia.org/entries/danville-during-the-civil-war/ |access-date=2025-01-11 |website=Encyclopedia Virginia |language=en-US}}</ref>
+{{clear}}
+
+==== Free State of Jones ====
+In 1863 and 1864, [[Jones County, Mississippi]] revolted against Confederate rule and became practically independent under the name [[Free State of Jones]]. The Free State fought a number of skirmishes with Confederate troops. By the spring of 1864 the Jones County rebels had taken effective control of the county from the Confederate government, raised an American flag over the courthouse in Ellisville, and sent a letter to Union General William T. Sherman declaring Jones County's independence from the Confederacy.<ref name="mshistorynow.mdah.ms.gov">{{cite web |url=http://mshistorynow.mdah.ms.gov/articles/309/newton-knight-and-the-legend-of-the-free-state-of-jones |title=Newton Knight and the Legend of the Free State of Jones |last=Kelly |first=James R. Jr. |series=Mississippi History Now |date=April 2009 |website=mshistorynow.mdah.ms.gov |publisher=[[Mississippi Historical Society]] |access-date=February 3, 2019 |archive-url=https://web.archive.org/web/20161223072459/http://mshistorynow.mdah.ms.gov/articles/309/newton-knight-and-the-legend-of-the-free-state-of-jones |archive-date=December 23, 2016 |url-status=live}}</ref>
+
+Scholars have disputed whether the county truly seceded, with some concluding it did not fully secede. Lack of documentation makes the situation difficult to assess. The rebellion in Jones County has been variously characterized as consisting of local skirmishes to being a full-fledged war of independence.<ref name="mshistorynow.mdah.ms.gov" />
+
+*[[Ellisville, Mississippi]]
+
+==Historical state, colonial, and territorial capitals==
+Most of the original [[Thirteen Colonies]] had their capitals occupied or attacked by the British during the [[American Revolutionary War]].  State governments operated where and as they could.  The [[New York City|City of New York]] was occupied by [[British Armed Forces|British troops]] from 1776 to 1783.  A similar situation occurred during the [[War of 1812]], during the [[American Civil War]] in many [[Confederate States of America|Confederate states]], and during the [[Pueblo Revolt]] of 1680&ndash;1692 in [[New Mexico]].
+[[File:Castillo_de_San_Marco_National_Monument_-_49907540721.jpg|thumb|[[St. Augustine, Florida|St. Augustine]] served as Florida's capital from 1565 until the 1820s.<ref>{{Cite web|title=Florida Timeline: Florida Senate Kids|url=http://archive.flsenate.gov/SenateKids/timeline.cfm|access-date=2021-05-24|website=archive.flsenate.gov}}</ref>]]
+Twenty-two state capitals have been a capital longer than their state has been a state, since they served as the capital of a predecessor territory, colony, or republic. [[Boston]], [[Massachusetts]], has been a capital city since 1630; it is the oldest continuously running capital in the United States. [[Santa Fe, New Mexico]], is the oldest capital city, having become capital in 1610 and though interrupted by the [[Pueblo Revolt]] and Pueblo republic from 1680-1692 and the [[Rio Arriba Rebellion]] of 1837, when the capital was moved to [[Taos Pueblo]], which was established around 1000 is the oldest city in the United States. The [[New Spain|Spanish]] of [[St. Augustine, Florida]] was the first European settlement in the United States and served as a colonial capital from 1565 until about 1820, more than 250 years.
+
+The table below includes the following information:
+#The state, the year in which statehood was granted, and the state's capital are shown in '''bold''' type.  NOTE: For the first thirteen states, formerly the [[Thirteen Colonies]] of [[Kingdom of Great Britain|Great Britain]] on the [[East Coast of the United States|Atlantic seaboard]], the year of statehood is shown as 1776 ([[United States Declaration of Independence]]) rather than the subsequent year each state ratified the 1787 [[Constitution of the United States|United States Constitution]]. (See [[List of U.S. states by date of admission to the Union]].) 
+#The year listed for each capital is the starting date; the ending date is the starting date for the successor unless otherwise indicated.
+#In many cases, capital cities of historical jurisdictions were outside of a state's present borders. (Those cities are generally indicated with the [[List of U.S. state and territory abbreviations|two-letter abbreviation]] for the [[U.S. state]] in which the former administrative capital is now located.)
+{{clear}}
+<!-- NOTE TO EDITORS: This section consists of a complex table. If you are not familiar with wiki table syntax, please post your changes on the Talk page and a more experienced editor will apply your changes to this section. -->
+{|class=wikitable
+|+Historical capitals in the United States of America
+!State!!width=200|Capital!!Date!!width=450|Notes
+|- style="border-top: solid 2px #000"
+|rowspan=19|'''[[Alabama]]'''<ref>[http://www.archives.state.al.us/capital/capitals.html Capitals of Alabama] {{Webarchive|url=https://web.archive.org/web/20121008090930/http://www.archives.state.al.us/capital/capitals.html |date=October 8, 2012 }}. Alabama Department of Archives and History. Updated October 29, 2001. Accessed June 9, 2005.</ref><br /><small>[[History of Alabama|Statehood in 1819]]</small>
+|[[St. Augustine, Florida|''San Agustín'' (FL)]]||1565||Capital of the [[Spain|Spanish]] colony of [[Spanish Florida|''La Florida'']].{{efn|name=Florida}}
+|-
+|rowspan=3|[[Savannah, Georgia|Savannah (GA)]]||1733||Capital of the [[Kingdom of Great Britain|British]] [[proprietary colony|proprietary]] [[Province of Georgia|Colony of Georgia]].
+|-
+|1755||Capital of the [[Kingdom of Great Britain|British]] [[Province of Georgia]].
+|-
+|1776||rowspan=9|Capitals of the [[Georgia (U.S. state)|State of Georgia]].
+|-
+|[[Augusta, Georgia|Augusta (GA)]]||1778
+|-
+|[[Heard's Fort, Georgia|Heard's Fort (GA)]]||1780
+|-
+|[[Augusta, Georgia|Augusta (GA)]]||1781
+|-
+|[[Savannah, Georgia|Savannah (GA)]]||1782
+|-
+|[[Ebenezer, Georgia|Ebenezer (GA)]]||1782
+|-
+|[[Savannah, Georgia|Savannah (GA)]]||1784
+|-
+|[[Augusta, Georgia|Augusta (GA)]]||1786
+|-
+|[[Louisville, Georgia|Louisville (GA)]]||1796
+|-
+|[[Natchez, Mississippi|Natchez (MS)]]||1798||rowspan=2|Capitals of the [[Mississippi Territory]].
+|-
+|[[Washington, Mississippi|Washington (MS)]]||1802
+|-
+|[[St. Stephens, Alabama|St. Stephens]]||1817||Capital of the [[Alabama Territory]].
+|-
+|[[Huntsville, Alabama|Huntsville]]||'''1819'''||rowspan=3|Capitals of the [[Alabama|State of Alabama]].
+|-
+|[[Cahaba, Alabama|Cahawba]]||1820
+|-
+|[[Tuscaloosa, Alabama|Tuscaloosa]]||1826
+|-
+|'''[[Montgomery, Alabama|Montgomery]]'''||1846||'''Capital of the [[Alabama|State of Alabama]]'''.<br />(Capital of the [[Confederate States of America]] in 1861.)
+|- style="border-top: solid 2px #000"
+|rowspan=6|'''[[Alaska]]'''<ref>[http://sled.alaska.edu/akfaq/akchron.html Frequently Asked Questions About Alaska] {{webarchive|url=https://web.archive.org/web/20050613082221/http://sled.alaska.edu/akfaq/akchron.html |date=June 13, 2005 }}. Statewide Library Electronic Doorway. Updated September 21, 2004. Accessed June 9, 2005; based on Alaska Blue Book 1993–94, 11th ed., Juneau, Department of Education, Division of State Libraries, Archives & Museums. [http://www.explorenorth.com/library/communities/alaska/bl-Sitka.htm ExploreNorth: The History of Sitka] {{webarchive|url=https://web.archive.org/web/20050218022426/http://explorenorth.com/library/communities/alaska/bl-Sitka.htm |date=February 18, 2005 }}. Department of Community and Economic Development, Alaska Community Database Online. Accessed June 9, 2005.</ref><br /><small>[[History of Alaska|Statehood in 1959]]</small>
+|rowspan=3|[[Sitka, Alaska|''Novo-Arkhangelsk''<br />Sitka]]||1808||Capital of the [[Russia]]n colony of ''[[Russian America|Alaska]]''.
+|-
+|1867||Capital of the [[Department of Alaska]].
+|-
+|1900||rowspan=2|Capitals of the [[District of Alaska]].
+|-
+|rowspan=3|'''[[Juneau, Alaska|Juneau]]'''||1906
+|-
+|1912||Capital of the [[Territory of Alaska]].
+|-
+|'''1959'''||'''Capital of the [[Alaska|State of Alaska]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=10|'''[[Arizona]]'''<ref>[http://azcapitol.lib.az.us/before_capitol.htm Capitals before the Capitol] {{webarchive|url=https://web.archive.org/web/20050307203440/http://azcapitol.lib.az.us/before_capitol.htm |date=March 7, 2005 }}. Arizona State Library, Archives and Public Records. Accessed June 9, 2005.</ref><br /><small>[[History of Arizona|Statehood in 1912]]</small>
+|rowspan=2|[[Santa Fe, New Mexico#History|Santa Fe (NM)]]||1848||Capital of the U.S. provisional government of [[New Mexico#Territory|New Mexico]] 1848–1850.
+|-
+|1850||Capital of the U.S. [[New Mexico Territory|Territory of New Mexico]] 1850–1912.
+|-
+|[[Mesilla, New Mexico|Mesilla (NM)]]||1862||Capital of the [[Confederate States of America|Confederate]] [[Confederate Arizona|Territory of Arizona]] (southern New Mexico and Arizona 1862).
+|-
+|[[San Antonio|San Antonio (TX)]]||1862||Capital of the government-in-exile of the [[Confederate States of America|Confederate]] [[Confederate Arizona|Territory of Arizona]] 1862–1865.
+|-
+|[[Fort Whipple, Arizona|Fort Whipple]]||1864||rowspan=5|Capitals of the U.S. [[Arizona Territory|Territory of Arizona]].
+|-
+|[[Prescott, Arizona|Prescott]]||1864
+|-
+|[[Tucson, Arizona|Tucson]]||1867
+|-
+|[[Prescott, Arizona|Prescott]]||1877
+|-
+|rowspan=2|'''[[Phoenix, Arizona|Phoenix]]'''||1889
+|-
+|'''1912'''||'''Capital of the [[Arizona|State of Arizona]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=8|'''[[Arkansas]]'''<ref>[http://www.sos.arkansas.gov/educational_facts.html Educational Materials: Facts] {{webarchive|url=https://web.archive.org/web/20050626082624/http://www.sos.arkansas.gov/educational_facts.html |date=June 26, 2005 }}. Arkansas Secretary of State. Accessed June 9, 2005. [http://www.arkansasstateparks.com/oldwashingtonhistoric Washington State Park 19th century village in SW Arkansas] {{Webarchive|url=https://web.archive.org/web/20080517054017/http://www.arkansasstateparks.com/oldwashingtonhistoric |date=May 17, 2008 }}. Arkansas Department of Parks and Tourism, Confederate Capital Old Division of State Parks. 2003. Accessed June 9, 2005.</ref><br /><small>[[History of Arkansas|Statehood in 1836]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[Illinois Country|''Alta Louisiana'']].
+|-
+|1800||Capital of the [[French First Republic|French]] district of [[Louisiana (New France)|''La Haute-Louisiane'']].
+|-
+|1804||Capital of the [[District of Louisiana]] (under the authority of the [[Indiana Territory]]).
+|-
+|1805||Capital of the [[Louisiana Territory]].
+|-
+|1812||Capital of the [[Missouri Territory]].
+|-
+|[[Arkansas Post]]||1819||rowspan=2|Capitals of the [[Arkansas Territory|Arkansaw Territory]].{{efn|name=Arkansas|The name [[Arkansas]] has been pronounced and spelled in a variety of fashions.  The region was organized as the [[Territory of Arkansaw]] on July 4, 1819, but the territory was admitted to the [[United States|Union]] as the [[Arkansas|State of Arkansas]] on June 15, 1836.  The name was historically pronounced {{IPAc-en|ˈ|ɑr|k|ə|n|s|ɔː}}, {{IPAc-en|ɑr|ˈ|k|æ|n|z|ə|s}}, and several other variants.  In 1881, the [[Arkansas General Assembly]] passed the following concurrent resolution (Arkansas Statutes, Title 1, Chapter 4, Section 105):
+<blockquote>Whereas, confusion of practice has arisen in the pronunciation of the name of our state and it is deemed important that the true pronunciation should be determined for use in oral official proceedings.</blockquote>
+<blockquote>And, whereas, the matter has been thoroughly investigated by the State Historical Society and the Eclectic Society of Little Rock, which have agreed upon the correct pronunciation as derived from history, and the early usage of the American immigrants.</blockquote>
+<blockquote>Be it therefore resolved by both houses of the General Assembly, that the only true pronunciation of the name of the state, in the opinion of this body, is that received by the French from the Native Americans and committed to writing in the French word representing the sound. It should be pronounced in three (3) syllables, with the final "s" silent, the "a" in each syllable with the Italian sound, and the accent on the first and last syllables. The pronunciation with the accent on the second syllable with the sound of "a" in "man" and the sounding of the terminal "s" is an innovation to be discouraged.</blockquote>
+Citizens of the [[Kansas|State of Kansas]] often pronounce the [[Arkansas River]] {{IPAc-en|ɑr|ˈ|k|æ|n|z|ə|s}} in a manner similar to the common pronunciation of the name of their state.}}
+|-
+|rowspan=2|'''[[Little Rock, Arkansas|Little Rock]]'''||1821
+|-
+|'''1836'''||'''Capital of the [[Arkansas|State of Arkansas]]'''.{{efn|name=Arkansas}}<br />([[Washington, Arkansas|Washington]] was the [[Confederate States of America|Confederate]] state capital 1863–1865.)
+|- style="border-top: solid 2px #000"
+|rowspan=10|'''[[California]]'''<ref>{{cite book
+|editor-last=Ebbert
+|editor-first=Brian S.
+|author=E. Dotson Wilson
+|title=California's Legislature
+|publisher=State of California
+|year=2006
+|location=Sacramento, California
+|pages=157–165
+|access-date=October 3, 2006
+|url=http://www.leginfo.ca.gov/pdf/caleg11.pdf }}</ref><br /><small>[[History of California|Statehood in 1850]]</small>
+|[[Loreto, Baja California Sur|''Loreto'' (BCS)]]||1770||rowspan=2|Capitals of the [[Spain|Spanish]] ''[[New Spain|Virreinato de la Nueva España]]'' colonies of ''[[The Californias|las Californias]]''.
+|-
+|rowspan=5|[[Presidio of Monterey, California|''Presidio Reál de San Carlos de Monterey''<br /><br /><br />Monterey]]<br /><br />||1777
+|-
+|1804||Capital of the [[Spain|Spanish]] ''[[New Spain|Virreinato de la Nueva España]]'' province of ''[[Alta California]]''.
+|-
+|1821||Capital of the [[Mexico|Mexican]] province of ''[[Alta California]]''.
+|-
+|1846||Capital of the [[U.S. military government of California]].
+|-
+|1849||Capital of the [[Provisional government of California|Provisional Government of California]].
+|-
+|[[San Jose, California|''Pueblo de San José de Guadalupe'']]||'''1850'''||rowspan=4|'''Capitals of the [[California|State of California]]'''.
+|-
+|[[Vallejo, California|Vallejo]]||1852
+|-
+|[[Benicia, California|Benicia]]||1853
+|-
+|'''[[Sacramento, California|Sacramento]]'''{{efn|Due to flooding in [[Sacramento, California|Sacramento]], [[San Francisco]] served as a temporary capital from January 24, 1862 to May 15, 1862. See {{cite web|title=California's State Capitols 1850–present|url=http://capitolmuseum.ca.gov/uploadedFiles/Capitol_Museum/Teachers/statecaps.pdf|access-date=March 14, 2013|archive-url=https://web.archive.org/web/20100819063811/http://capitolmuseum.ca.gov/uploadedFiles/Capitol_Museum/Teachers/statecaps.pdf|archive-date=August 19, 2010|url-status=dead}}}}||1854
+|- style="border-top: solid 2px #000"
+|rowspan=7|{{anchor|Colorado}}'''[[Colorado]]'''<ref>[https://web.archive.org/web/20031011174538/http://www.colorado.gov/dpa/doit/archives/cap/locate.htm Early Capitol and Legislative Assembly Locations] Colorado State Archives, Colorado State Capitol Virtual Tour. Updated June 20, 2003. Accessed June 9, 2005.</ref><br /><small>[[History of Colorado|Statehood in 1876]]</small>
+|[[History of Denver|Denver City]]{{efn|From December 3, 1859, to December 3, 1861, [[History of Denver|Denver City]] was formally the [[History of Denver|City of Denver, Auraria, and Highland]].}}||1859||rowspan=2|Capitals of the extralegal [[Jefferson Territory|Territory of Jefferson]].
+|-
+|[[Golden, Colorado#History|Golden City]]||1860
+|-
+|[[History of Denver|Denver City]]||1861||rowspan=4|Capitals of the [[Colorado Territory|Territory of Colorado]].
+|-
+|[[Old Colorado City|Colorado City]]||1862
+|-
+|[[Golden, Colorado#History|Golden City]]||1862
+|-
+|rowspan=2|'''[[Denver]]'''{{efn|On November 15, 1902, the [[History of Denver|City of Denver]] became the [[Denver|City and County of Denver]].}}||1867
+|-
+|'''1876'''||'''Capital of the [[Colorado|State of Colorado]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=9|'''[[Connecticut]]'''<br /><small>[[History of Connecticut|Statehood in 1776]]</small>
+|[[Fort Amsterdam|''Fort Amsterdam'' (NY)]]||1625||Capital of the [[Netherlands|Dutch]] colony of ''[[New Netherland|Nieuw-Nederland]]''.
+|-
+|[[Hartford, Connecticut|Hartford]]||1639||Capital of the [[Kingdom of England|English]] [[Connecticut Colony|Colony of Connecticut]] 1639–1686.
+|-
+|[[New Haven, Connecticut|New-Haven]]||1640||Capital of the [[Kingdom of England|English]] [[New Haven Colony|Colony of New-Haven]] until its merger into the Connecticut Colony in 1662.
+|-
+|[[Boston|Boston (MA)]]||1686||Capital of the [[Kingdom of England|English]] [[Dominion of New England|Dominion of New-England in America]].
+|-
+|[[Hartford, Connecticut|Hartford]]||1689||Capital of the [[Kingdom of England|English]] [[Connecticut Colony|Colony of Connecticut]].
+|-
+|rowspan=3|joint capitals||1701||[[Hartford, Connecticut|Hartford]] and [[New Haven, Connecticut|New-Haven]] served as the "co-capitals" of the [[Kingdom of England|English]] [[Connecticut Colony|Colony of Connecticut]], with the Assembly holding its May session in Hartford and its October session in New-Haven.
+|-
+|1707||[[Hartford, Connecticut|Hartford]] and [[New Haven, Connecticut|New-Haven]] joint capitals of the [[Kingdom of Great Britain|British]] [[Connecticut Colony|Colony of Connecticut]].
+|-
+|'''1776'''||[[Hartford, Connecticut|Hartford]] and [[New Haven, Connecticut|New Haven]] joint capitals of the [[Connecticut|State of Connecticut]].
+|-
+|'''[[Hartford, Connecticut|Hartford]]'''||1875||'''Capital of the [[Connecticut|State of Connecticut]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=10|'''[[Delaware]]'''<br /><small>[[History of Delaware|Statehood in 1776]]</small>
+|''[[Fort Christina]]''||1638||Capital of the [[Sweden|Swedish]] colony of ''[[New Sweden|Nya Sverige]]''.
+|-
+|rowspan=4|[[Fort Amsterdam|''Fort Amsterdam''<br />''Nieuw-Amsterdam''<br />New-York<br />''Nieuw-Oranje''<br />New-York (NY)]]||1655||Capital of the [[Netherlands|Dutch]] province of ''[[New Netherland|Nieuw-Nederland]]''.
+|-
+|1664||Capital of the [[Kingdom of England|English]] [[Province of New York|Colony of New-York]].
+|-
+|1673||Capital of the [[Netherlands|Dutch]] military government of ''[[New Netherland|Nieuw-Nederland]]''.
+|-
+|1674||Capital of the [[Kingdom of England|English]] [[Province of New York|Colony of New-York]].
+|-
+|[[Philadelphia|Philadelphia (PA)]]||1682||Capital of the [[Kingdom of England|English]] [[Province of Pennsylvania|Colony of Pennsylvania]].
+|-
+|rowspan=3|[[New Castle, Delaware|New Castle]]||1704||Capital of the [[Kingdom of England|English]] [[Delaware Colony|Lower Counties on the Delaware]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Delaware Colony|Lower Counties on the Delaware]].
+|-
+|'''1776'''||rowspan=2|'''Capitals of the [[Delaware|State of Delaware]]'''.
+|-
+|'''[[Dover, Delaware|Dover]]'''||1777
+|- style="border-top: solid 2px #000"
+|rowspan=8|'''[[Florida]]'''<ref>[http://www.shgresources.com/fl/history/ Florida State History] {{Webarchive|url=https://web.archive.org/web/20070927015000/http://www.shgresources.com/fl/history/ |date=September 27, 2007 }}. Florida Division of Historical Resources.</ref><br /><small>[[History of Florida|Statehood in 1845]]</small>
+|[[Fort Caroline|''Fort de la Caroline'']]||1564||Capital of the [[Kingdom of France|French]] colony of [[Fort Caroline|''La Caroline'']] 1564–1565.
+|-
+|rowspan=3|[[St. Augustine, Florida|''San Agustín''<br />St. Augustine]]||1565||Capital of the [[Spain|Spanish]] province of [[Spanish Florida|''La Florida'']] 1565–1763.{{efn|name=Florida|The [[Spain|Spanish]] name [[Spanish Florida|''La Florida'']] originally referred to all of the [[North America|American continent]] north of [[Mexico]].  As other [[Europe]]an nations colonized North America, the extent of ''La Florida'' shrank to encompass only the Spanish territorial claims in the southeastern portion of the present [[United States]].}}
+|-
+|1763||Capital of the [[Kingdom of Great Britain|British]] province of [[East Florida]] 1763–1783.
+|-
+|1783||Capital of the [[Spain|Spanish]] province of [[East Florida|''Florida Oriental'']] 1783–1821.
+|-
+|rowspan=2|[[Pensacola, Florida|''Santa María de Ochuse''<br />Pensacola]]||1763||Capital of the [[Kingdom of Great Britain|British]] province of [[British West Florida]] 1763–1783.
+|-
+|1783||Capital of the [[Spain|Spanish]] province of [[Spanish West Florida|''Florida Occidental'']] 1783–1821.
+|-
+|rowspan=2|'''[[Tallahassee, Florida|Tallahassee]]'''||1824||Capital of the [[Florida Territory]].
+|-
+|'''1845'''||'''Capital of the [[Florida|State of Florida]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=17|'''[[Georgia (U.S. state)|Georgia]]'''<ref>Jackson, Edwin L. [http://www.cviog.uga.edu/Projects/gainfo/capital.htm Story of Georgia's Capitols and Capital Cities] {{webarchive|url=https://web.archive.org/web/20071009145856/http://www.cviog.uga.edu/Projects/gainfo/capital.htm |date=October 9, 2007 }}. Carl Vinson Institute of Government. University of Georgia. 1988</ref><br /><small>[[History of Georgia (U.S. state)|Statehood in 1776]]</small>
+|[[Fort Caroline|''Fort de la Caroline'']]||1564||Capital of the [[Kingdom of France|French]] colony of [[Fort Caroline|''La Caroline'']] 1564–1565.
+|-
+|[[St. Augustine, Florida|''San Agustín'' (FL)]]||1565||Capital of the [[Spain|Spanish]] province of [[Spanish Florida|''La Florida'']].{{efn|name=Florida}}
+|-
+|rowspan=3|[[Savannah, Georgia|Savannah]]||1733||Capital of the [[Kingdom of Great Britain|British]] [[Proprietary colony|proprietary]] [[Province of Georgia|Colony of Georgia]].
+|-
+|1755||Capital of the [[Kingdom of Great Britain|British]] [[Province of Georgia]].
+|-
+|'''1776'''||rowspan=13|'''Capitals of the [[Georgia (U.S. state)|State of Georgia]]'''.
+|-
+|[[Augusta, Georgia|Augusta]]||1778
+|-
+|[[Heard's Fort, Georgia|Heard's Fort]]||1780
+|-
+|[[Augusta, Georgia|Augusta]]||1781
+|-
+|[[Savannah, Georgia|Savannah]]||1782
+|-
+|[[Ebenezer, Georgia|Ebenezer]]||1782
+|-
+|[[Savannah, Georgia|Savannah]]||1784
+|-
+|[[Augusta, Georgia|Augusta]]||1786
+|-
+|[[Louisville, Georgia|Louisville]]||1796
+|-
+|[[Milledgeville, Georgia|Milledgeville]]||1807
+|-
+|[[Macon, Georgia|Macon]]||1864
+|-
+|[[Milledgeville, Georgia|Milledgeville]]||1865
+|-
+|'''[[Atlanta]]'''||1868
+|- style="border-top: solid 2px #000"
+|rowspan=5|'''[[Hawaii]]'''<br /><small>[[History of Hawaii|Statehood in 1959]]</small>
+|[[Lahaina, Hawaii|''Lahaina'']]||1820||rowspan=2|Capitals of the [[Hawaiian Kingdom|Kingdom of Hawaii]].
+|-
+|rowspan=4|'''[[Honolulu]]'''||1845
+|-
+|1894||Capital of the [[Republic of Hawaii]].
+|-
+|1898||Capital of the [[Territory of Hawaii]].
+|-
+|'''1959'''||'''Capital of the [[Hawaii|State of Hawai{{okina}}i]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=7|'''[[Idaho]]'''<ref>[http://gov.idaho.gov/fyi/history/1863-89.htm Chronological History of Idaho] {{Webarchive|url=https://web.archive.org/web/20050807074026/http://gov.idaho.gov/fyi/history/1863-89.htm |date=August 7, 2005 }}. Idaho Office of the Governor. Created 2000. Accessed June 9, 2005.</ref><br /><small>[[History of Idaho|Statehood in 1890]]</small>
+|rowspan=2|[[Oregon City, Oregon|Oregon City (OR)]]||1843||Capital of the [[Provisional Government of Oregon]] in the [[Oregon Country]].<ref name=PDoOH/>
+|-
+|1848||rowspan=2|Capitals of the [[Oregon Territory|Territory of Oregon]] (all of Idaho 1848–1853, southern Idaho 1853–1859).
+|-
+|[[Salem, Oregon|Salem (OR)]]||1851
+|-
+|[[Olympia, Washington|Olympia (WA)]]||1853||Capital of the [[Washington Territory|Territory of Washington]] (northern Idaho 1853–1859, all of Idaho 1859–1863).
+|-
+|[[Lewiston, Idaho|Lewiston]]||1863||rowspan=2|Capitals of the [[Idaho Territory|Territory of Idaho]].
+|-
+|rowspan=2|'''[[Boise, Idaho|Boise]]'''||1865
+|-
+|'''1890'''||'''Capital of the [[Idaho|State of Idaho]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=6|'''[[Illinois]]'''<ref>[http://www.ilstatehouse.com/PastCapitols.htm Past Capitols] {{Webarchive|url=https://web.archive.org/web/20050306205248/http://www.ilstatehouse.com/PastCapitols.htm |date=March 6, 2005 }}; based on Illinois Bluebook, 1975–1976. Created March 5, 2005. Accessed June 10, 2005.</ref><br /><small>[[History of Illinois|Statehood in 1818]]</small>
+|[[Marietta, Ohio|Marietta (OH)]]||1788||Capital of the [[Northwest Territory|Territory Northwest of the River Ohio]].
+|-
+|[[Vincennes, Indiana|Vincennes (IN)]]||1800||Capital of the [[Indiana Territory|Territory of Indiana]].
+|-
+|rowspan=2|[[Kaskaskia, Illinois|Kaskaskia]]||1809||Capital of the [[Illinois Territory|Territory of Illinois]].
+|-
+|'''1818'''||rowspan=3|'''Capitals of the [[Illinois|State of Illinois]]'''.
+|-
+|[[Vandalia, Illinois|Vandalia]]||1820
+|-
+|'''[[Springfield, Illinois|Springfield]]'''||1839
+|- style="border-top: solid 2px #000"
+|rowspan=5|'''[[Indiana]]'''<br /><small>[[History of Indiana|Statehood in 1816]]</small>
+|[[Marietta, Ohio|Marietta (OH)]]||1788||Capital of the [[Northwest Territory|Territory Northwest of the River Ohio]].
+|-
+|[[Vincennes, Indiana|Vincennes]]||1800||rowspan=2|Capitals of the [[Indiana Territory|Territory of Indiana]].
+|-
+|rowspan=2|[[Corydon, Indiana|Corydon]]||1813
+|-
+|'''1816'''||rowspan=2|'''Capitals of the [[Indiana|State of Indiana]]'''.
+|-
+|'''[[Indianapolis]]'''||1825
+|- style="border-top: solid 2px #000"
+|rowspan=12|'''[[Iowa]]'''<ref>Sabin, Henry. [http://iagenweb.org/history/moi/moi24.htm Making of Iowa, chapter 24: Locating a Capital]. Originally published 1900 by A. Flanagan Co. of Chicago and New York; published online by Iowa History Project, posted August 25, 2004. Accessed June 10, 2005.</ref><br /><small>[[History of Iowa|Statehood in 1846]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[Illinois Country|''Alta Louisiana'']].
+|-
+|1800||Capital of the [[French First Republic|French]] district of [[Louisiana (New France)|''La Haute-Louisiane'']].
+|-
+|1804||Capital of the [[District of Louisiana]] (under the authority of the [[Indiana Territory]]).
+|-
+|1805||Capital of the [[Louisiana Territory]].
+|-
+|1812||Capital of the [[Missouri Territory]] (1812–1821).
+|-
+|[[Detroit|Detroit (MI)]]||1834||Capital of the [[Michigan Territory|Territory of Michigan]].
+|-
+|[[Belmont, Wisconsin|Belmont (WI)]]||1836||rowspan=2|Capitals of the [[Wisconsin Territory|Territory of Wisconsin]].
+|-
+|rowspan=2|[[Burlington, Iowa|Burlington]]||1837
+|-
+|1838||rowspan=2|Capitals of the [[Iowa Territory|Territory of Iowa]].
+|-
+|rowspan=2|[[Iowa City, Iowa|Iowa City]]||1841
+|-
+|'''1846'''||rowspan=2|'''Capitals of the [[Iowa|State of Iowa]]'''.
+|-
+|'''[[Des Moines, Iowa|Des Moines]]'''||1857
+|- style="border-top: solid 2px #000"
+|rowspan=11|'''[[Kansas]]'''<ref>Harding, Eldon. [http://www.kshs.org/features/feat401j.htm Stories from the Kansas State Capital: Choosing a Capital City--Why Topeka?] {{webarchive|url=https://web.archive.org/web/20050312124956/http://www.kshs.org/features/feat401j.htm |date=March 12, 2005 }}. Kansas State Historical Society. April 2001. Accessed June 10, 2005.</ref><br /><small>[[History of Kansas|Statehood in 1861]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[Illinois Country|''Alta Louisiana'']].
+|-
+|1800||Capital of the [[French First Republic|French]] district of [[Louisiana (New France)|''La Haute-Louisiane'']].
+|-
+|1804||Capital of the [[District of Louisiana]] (under the authority of the [[Indiana Territory]]).
+|-
+|1805||Capital of the [[Louisiana Territory]].
+|-
+|1812||Capital of the [[Missouri Territory]] (1812–1821).
+|-
+|[[Pawnee, Kansas|Pawnee]]||1855||Capital of the [[Kansas Territory]] (July 2 – 6).
+|-
+|[[Shawnee Methodist Mission|Shawnee Mission]]||1855||Capital of the Kansas Territory.
+|-
+|[[Lecompton, Kansas|Lecompton]]||rowspan=2|1856||Capital ''[[de jure]]'' (pro-slavery) of the [[Kansas Territory|Territory of Kansas]].
+|-
+|[[Topeka, Kansas|Topeka]]||Capital ''[[de facto]]'' (anti-slavery) of the Territory of Kansas.
+|-
+|[[Minneola, Franklin County, Kansas|Minneola]]||1858||Declared capital by territorial legislature, although this action was later declared void.<ref>{{cite book|last1=Fitzgerald|first1=Daniel|title=Ghost Towns of Kansas|url=https://archive.org/details/ghosttownsofkans00fitz|url-access=registration|date=1988|publisher=[[University Press of Kansas]]|isbn=0700603689|pages=[https://archive.org/details/ghosttownsofkans00fitz/page/61 61–65]}}</ref>
+|-
+|'''[[Topeka, Kansas|Topeka]]'''||'''1861'''||'''Capital of the [[Kansas|State of Kansas]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=5|'''[[Kentucky]]'''<ref>[http://www.kdla.ky.gov/resources/kycapitol.htm Kentucky's State Capitols] {{webarchive|url=https://web.archive.org/web/20060813184609/http://www.kdla.ky.gov/resources/KYCapitol.htm |date=August 13, 2006 }}. Kentucky Department for Libraries and Archives. Accessed July 24, 2006.</ref><br /><small>[[History of Kentucky|Statehood in 1792]]</small>
+|rowspan=3|[[Williamsburg, Virginia|Williamsburg (VA)]]||1699||Capital of the [[Kingdom of England|English]] [[Colony of Virginia]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Colony of Virginia]].
+|-
+|1776||rowspan=2|Capital of the [[Virginia|Commonwealth of Virginia]].
+|-
+|[[Richmond, Virginia|Richmond (VA)]]||1780
+|-
+|'''[[Frankfort, Kentucky|Frankfort]]'''||'''1792'''||'''Capital of the [[Kentucky|Commonwealth of Kentucky]]'''.<br />(The government initially met at [[Lexington, Kentucky|Lexington]] but Frankfort was quickly named the capital. [[Bowling Green, Kentucky|Bowling Green]] was the rival [[Confederate States of America|Confederate]] state capital 1861–62).
+|- style="border-top: solid 2px #000"
+|rowspan=13|'''[[Louisiana]]'''{{efn|Note: The Louisiana Capitals information may be incorrect or incomplete. See {{cite web |url=http://www.state.la.us/about_history2.htm |title=Louisiana History |access-date=June 28, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060615095136/http://www.state.la.us/about_history2.htm |archive-date=June 15, 2006 }} and elsewhere.}}<br /><small>[[History of Louisiana|Statehood in 1812]]</small>
+|[[St. Augustine, Florida|''San Agustín'' (FL)]]||1565||Capital of the [[Spain|Spanish]] province of [[Spanish Florida|''La Florida'']].{{efn|name=Florida}}
+|-
+|[[Old Mobile Site|''La Mobile'' (AL)]]||1702||rowspan=3|Capitals of the [[Kingdom of France|French]] colony of [[Louisiana (New France)|''La Louisiane'']].
+|-
+|[[Biloxi, Mississippi|''Bilocci'' (MS)]]||1720
+|-
+|rowspan=5|[[New Orleans|''La Nouvelle-Orléans''<br />''Nueva Orleans''<br />New Orleans]]||1722
+|-
+|1763||Capital of the [[Spain|Spanish]] district of [[Louisiana (New Spain)|''Baja Louisiana'']].
+|-
+|1800||Capital of the [[French First Republic|French]] district of [[Louisiana (New France)|''La Basse-Louisiane'']].
+|-
+|1804||Capital of the [[Territory of Orleans]].
+|-
+|'''1812'''||rowspan=6|'''Capitals of the [[Louisiana|State of Louisiana]]'''.<br />(After the Union [[Capture of New Orleans|captured New Orleans]] in 1862, the Confederate seat of government relocated to [[Opelousas, Louisiana|Opelousas]] in 1862 and then to [[Shreveport, Louisiana|Shreveport]] in 1863.)
+|-
+|[[Donaldsonville, Louisiana|Donaldsonville]]||1830
+|-
+|[[New Orleans]]||1831
+|-
+|[[Baton Rouge, Louisiana|Baton Rouge]]||1849
+|-
+|[[New Orleans]]||1864
+|-
+|'''[[Baton Rouge, Louisiana|Baton Rouge]]'''||1882
+|- style="border-top: solid 2px #000"
+|rowspan=14|'''[[Maine]]'''<ref>[http://www.state.me.us/legis/senate/about/generalinfo/Students/questions_students_ask-1.htm Students Questions Frequently Ask] {{webarchive|url=https://web.archive.org/web/20050313224804/http://www.state.me.us/legis/senate/about/generalinfo/Students/questions_students_ask-1.htm |date=March 13, 2005 }}. Maine State Senate. Accessed June 10, 2005.</ref><br /><small>[[History of Maine|Statehood in 1820]]</small>
+|[[Saint Croix Island, Maine|''Île Sainte-Croix'']]||1604||rowspan=2|Capitals of the [[France|French]] colony of [[Acadia|''l'Acadie'']].
+|-
+|[[Port-Royal (Acadia)|''Port-Royal'' (NS)]]||1605
+|-
+|rowspan=8|[[Boston|Boston (MA)]]||1630||Capital of the [[Kingdom of England|English]] [[Massachusetts Bay Colony|Colony of Massachusetts Bay]].
+|-
+|1686||Capital of the [[Kingdom of England|English]] [[Dominion of New England|Dominion of New-England in America]].
+|-
+|1689||Capital of the dissident [[Massachusetts Bay Colony|Colony of Massachusetts Bay]].
+|-
+|1691||Capital of the [[Kingdom of England|English]] [[Province of Massachusetts Bay]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Province of Massachusetts Bay]].
+|-
+|1774||Capital of the dissident [[Province of Massachusetts Bay]].
+|-
+|1776||Capital of the [[State of Massachusetts Bay]].
+|-
+|1780||Capital of the [[Massachusetts|Commonwealth of Massachusetts]].
+|-
+|rowspan=2|[[Portland, Maine|Portland]]||'''1820'''||Capital of the [[Maine|State of Maine]].
+|-
+|rowspan=2|1827||Capital ''[[de facto]]'' of the [[Maine|State of Maine]].
+|-
+|rowspan=2|'''[[Augusta, Maine|Augusta]]'''||Capital ''[[de jure]]'' of the [[Maine|State of Maine]].
+|-
+|1832||'''Capital of the [[Maine|State of Maine]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=4|'''[[Maryland]]'''<ref>[http://www.mdarchives.state.md.us/msa/mdmanual/01glance/chron/html/chron16.html Historical Chronology]. Maryland State Archives. Accessed July 24, 2006.</ref><br /><small>[[History of Maryland|Statehood in 1776]]</small>
+|[[St. Mary's City, Maryland|St. Mary's City]]||1634||Capital of the [[Kingdom of England|English]] [[Proprietary colony|proprietary]] [[Province of Maryland|Colony of Maryland]].
+|-
+|rowspan=3|[[Annapolis, Maryland|Anne Arundel's Towne<br />'''Annapolis''']]<br /><br />||1694||Capital of the [[Kingdom of England|English]] [[Province of Maryland]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Province of Maryland]].
+|-
+|'''1776'''||'''Capital of the [[Maryland|State of Maryland]]'''.<br />(Capital of the [[United States|United States of America]] 1783–1784.)
+|- style="border-top: solid 2px #000"
+|rowspan=10|'''[[Massachusetts]]'''<br /><small>[[History of Massachusetts|Statehood in 1776]]</small>
+|[[Plymouth, Massachusetts|Plimouth]]||1620||Capital of the [[Kingdom of England|English]] [[Plymouth Colony|Colony of New-Plimouth]] 1620–1686.
+|-
+|rowspan=2|[[Boston]]||1630||Capital of the [[Kingdom of England|English]] [[Massachusetts Bay Colony|Colony of Massachusetts Bay]] 1630–1686.
+|-
+|1686||Capital of the [[Kingdom of England|English]] [[Dominion of New England|Dominion of New-England in America]] 1686–1689.
+|-
+|[[Plymouth, Massachusetts|Plimouth]]||1688||Capital of the dissident [[Plymouth Colony|Colony of New-Plimouth]] 1688–1692.
+|-
+|rowspan=6|'''[[Boston]]'''||1689||Capital of the dissident [[Massachusetts Bay Colony|Colony of Massachusetts Bay]] 1689–1692.
+|-
+|1692||Capital of the [[Kingdom of England|English]] [[Province of Massachusetts Bay]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Province of Massachusetts Bay]].
+|-
+|1774||Capital of the dissident [[Province of Massachusetts Bay]].
+|-
+|'''1776'''||Capital of the [[State of Massachusetts Bay]].
+|-
+|1780||'''Capital of the [[Massachusetts|Commonwealth of Massachusetts]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=7|'''[[Michigan]]'''<ref>[http://www.michigan.gov/hal/0,1607,7-160-15481_20826_20829-56001--,00.html Michigan in Brief] State of Michigan. Updated March 7, 2005. Accessed June 10, 2005.</ref><br /><small>[[History of Michigan|Statehood in 1837]]</small>
+|[[Marietta, Ohio|Marietta (OH)]]||1788||rowspan=2|Capitals of the [[Northwest Territory|Territory Northwest of the River Ohio]] (all of Michigan 1788–1800, eastern Michigan 1800–1803).
+|-
+|[[Chillicothe, Ohio|Chillicothe (OH)]]||rowspan=2|1800
+|-
+|[[Vincennes, Indiana|Vincennes (IN)]]||rowspan=2|Capitals of the [[Indiana Territory|Territory of Indiana]] (western Michigan 1800–1803; all of Michigan 1803–1805, a portion of the [[Upper Peninsula of Michigan|Upper Peninsula]] 1805–1816).
+|-
+|[[Corydon, Indiana|Corydon (IN)]]||1813
+|-
+|rowspan=2|[[Detroit]]||1805||Capital of the [[Michigan Territory|Territory of Michigan]] ([[Lower Peninsula of Michigan|Lower Peninsula]] 1805–1818, all of Michigan 1818–1837).<br />(Detroit was occupied by [[British Armed Forces]] 1812–1813).
+|-
+|'''1837'''||rowspan=2|'''Capitals of the [[Michigan|State of Michigan]]'''.
+|-
+|'''[[Lansing, Michigan|Lansing]]'''||1847
+|- style="border-top: solid 2px #000"
+|rowspan=16|'''[[Minnesota]]'''<ref>[http://www.stpaul.gov/leisure/history/stpaul150.html Saint Paul's 150th birthday] {{webarchive|url=https://web.archive.org/web/20050411134310/http://www.stpaul.gov/leisure/history/stpaul150.html |date=April 11, 2005 }}. City of Saint Paul, Minnesota. Accessed June 9, 2005.</ref><br /><small>[[History of Minnesota|Statehood in 1858]]</small>
+|rowspan=5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[History of Missouri|''Alta Louisiana'']] 1765–1800.
+|-
+|1800||Capital of the [[France|French]] district of [[Louisiana (New France)|''la Haute-Louisiane'']] (west of [[Mississippi River]] 1800–1804).
+|-
+|1804||Capital of the [[District of Louisiana]] (west of [[Mississippi River]] under the authority of the [[Indiana Territory]] 1804–1805).
+|-
+|1805||Capital of the [[Louisiana Territory|Territory of Louisiana]] (west of [[Mississippi River]] 1805–1812).
+|-
+|1812||Capital of the [[Missouri Territory|Territory of Missouri]] (west of [[Mississippi River]] 1812–1821).
+|-
+|[[Marietta, Ohio|Marietta (OH)]]||1788||Capital of the [[Northwest Territory|Territory Northwest of the River Ohio]] (east of [[Mississippi River]] 1788–1800).
+|-
+|[[Vincennes, Indiana|Vincennes (IN)]]||1800||Capital of the [[Indiana Territory|Territory of Indiana]] (east of [[Mississippi River]] 1800–1809).
+|-
+|[[Kaskaskia, Illinois|Kaskaskia (IL)]]||1809||Capital of the [[Illinois Territory|Territory of Illinois]] (east of [[Mississippi River]] 1809–1818).
+|-
+|[[Detroit|Detroit (MI)]]||1818||Capital of the [[Michigan Territory|Territory of Michigan]] (east of [[Mississippi River]] 1818–1834, all of Minnesota 1834–1836).
+|-
+|[[Belmont, Wisconsin|Belmont (WI)]]||1836||rowspan=2|Capitals of the [[Wisconsin Territory|Territory of Wisconsin]].
+|-
+|rowspan=2|[[Burlington, Iowa|Burlington (IA)]]||1837
+|-
+|rowspan=2|1838||Capital of the [[Iowa Territory|Territory of Iowa]] (west of [[Mississippi River]] 1838–1841).
+|-
+|[[Madison, Wisconsin|Madison (WI)]]||Capital of the [[Wisconsin Territory|Territory of Wisconsin]] (east of [[Mississippi River]] 1838–1848).
+|-
+|[[Iowa City, Iowa|Iowa City (IA)]]||1841||Capital of the [[Iowa Territory|Territory of Iowa]] (west of [[Mississippi River]] 1841–1846).
+|-
+|rowspan=2|'''[[Saint Paul, Minnesota|Saint Paul]]'''||1849||Capital of the [[Minnesota Territory|Territory of Minnesota]].
+|-
+|'''1858'''||'''Capital of the [[Minnesota|State of Minnesota]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=16|'''[[Mississippi]]'''<ref>Bunn, Mike and Clay Williams, [http://mshistory.k12.ms.us/features/feature44/capitals_capitols.html Capitals and Capitols: The Places and Spaces of Mississippi's Seat of Government] {{webarchive|url=https://web.archive.org/web/20050511074101/http://mshistory.k12.ms.us/features/feature44/capitals_capitols.html |date=May 11, 2005 }}. Mississippi History Now. Mississippi Historical Society Online. Posted September 2003. Accessed June 10, 2005.</ref><br /><small>[[History of Mississippi|Statehood in 1817]]</small>
+|[[St. Augustine, Florida|''San Agustín'' (FL)]]||1565||Capital of the [[Spain|Spanish]] province of [[Spanish Florida|''La Florida'']].{{efn|name=Florida}}
+|-
+|rowspan=3|[[Savannah, Georgia|Savannah (GA)]]||1733||Capital of the [[Kingdom of Great Britain|British]] [[Proprietary colony|proprietary]] [[Province of Georgia|Colony of Georgia]].
+|-
+|1755||Capital of the [[Kingdom of Great Britain|British]] [[Province of Georgia]].
+|-
+|1776||rowspan=9|Capitals of the [[Georgia (U.S. state)|State of Georgia]].
+|-
+|[[Augusta, Georgia|Augusta (GA)]]||1778
+|-
+|[[Heard's Fort, Georgia|Heard's Fort (GA)]]||1780
+|-
+|[[Augusta, Georgia|Augusta (GA)]]||1781
+|-
+|[[Savannah, Georgia|Savannah (GA)]]||1782
+|-
+|[[Ebenezer, Georgia|Ebenezer (GA)]]||1782
+|-
+|[[Savannah, Georgia|Savannah (GA)]]||1784
+|-
+|[[Augusta, Georgia|Augusta (GA)]]||1786
+|-
+|[[Louisville, Georgia|Louisville (GA)]]||1796
+|-
+|[[Natchez, Mississippi|Natchez]]||1798||rowspan=2|Capitals of the [[Mississippi Territory|Territory of Mississippi]].
+|-
+|[[Washington, Mississippi|Washington]]||1802
+|-
+|[[Natchez, Mississippi|Natchez]]||'''1817'''||rowspan=2|'''Capitals of the [[Mississippi|State of Mississippi]]'''.
+|-
+|'''[[Jackson, Mississippi|Jackson]]'''||1821
+|-
+|- style="border-top: solid 2px #000"
+|rowspan=7|'''[[Missouri]]'''<br /><small>[[History of Missouri|Statehood in 1821]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[Illinois Country|''Alta Louisiana'']].
+|-
+|1800||Capital of the [[French First Republic|French]] district of [[Louisiana (New France)|''La Haute-Louisiane'']].
+|-
+|1804||Capital of the [[District of Louisiana]] (under the authority of the [[Indiana Territory]]).
+|-
+|1805||Capital of the [[Louisiana Territory]].
+|-
+|1812||Capital of the [[Missouri Territory]].
+|-
+|[[Saint Charles, Missouri|Saint Charles]]||'''1821'''||rowspan =2|'''Capitals of the [[Missouri|State of Missouri]]'''.<br />(A [[Confederate States of America|Confederate]] state government in exile operated from [[Neosho, Missouri|Neosho]] 1861–1863, and from [[Marshall, Texas]], 1863–1865).
+|-
+|'''[[Jefferson City, Missouri|Jefferson City]]'''||1826
+|- style="border-top: solid 2px #000"
+|rowspan=17|'''[[Montana]]'''<ref>Lambert, Kirby. [http://www.gradewinner.com/p/articles/mi_qa3951/is_200207/ai_n9146543 Montana's crown jewel of architecture: The Montana state capitol] {{webarchive|url=https://web.archive.org/web/20110927054932/http://www.gradewinner.com/p/articles/mi_qa3951/is_200207/ai_n9146543 |date=September 27, 2011 }} Montana: The Magazine of Western History, Montana Historical Society. Summer 2002. Accessed June 10, 2005.</ref><br /><small>[[History of Montana|Statehood in 1889]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[Illinois Country|''Alta Louisiana'']] (east of [[Continental Divide of the Americas|Continental Divide]] 1763–1800.)
+|-
+|1800||Capital of the [[France|French]] district of [[Louisiana (New France)|''la Haute-Louisiane'']] (east of [[Continental Divide of the Americas|Continental Divide]] 1800–1804).
+|-
+|1804||Capital of the [[District of Louisiana]] (east of [[Continental Divide of the Americas|Continental Divide]] under the authority of the [[Indiana Territory]] 1804–1805).
+|-
+|1805||Capital of the [[Louisiana Territory|Territory of Louisiana]] (east of [[Continental Divide of the Americas|Continental Divide]] 1805–1812).
+|-
+|1812||Capital of the [[Missouri Territory|Territory of Missouri]] (east of [[Continental Divide of the Americas|Continental Divide]] 1812–1821).
+|-
+|[[Fort Vancouver, Washington|Fort Vancouver (WA)]]||1825||Capital ''[[de facto]]'' of the [[Oregon Country]] (west of [[Continental Divide of the Americas|Continental Divide]] 1818–1843).
+|-
+|rowspan=2|[[Oregon City, Oregon|Oregon City (OR)]]||1843||Capital of the [[Provisional Government of Oregon]] (west of [[Continental Divide of the Americas|Continental Divide]] 1843–1848).
+|-
+|1848||rowspan=2|Capitals of the [[Oregon Territory|Territory of Oregon]] (west of [[Continental Divide of the Americas|Continental Divide]] 1848–1853).
+|-
+|[[Salem, Oregon|Salem (OR)]]||1851
+|-
+|[[Olympia, Washington|Olympia (WA)]]||1853||Capital of the [[Washington Territory|Territory of Washington]] (west of [[Continental Divide of the Americas|Continental Divide]] 1853–1863).
+|-
+|[[Omaha, Nebraska|Omaha (NE)]]||1854||Capital of the [[Nebraska Territory|Territory of Nebraska]] (east of [[Continental Divide of the Americas|Continental Divide]] 1854–1861).
+|-
+|[[Yankton, South Dakota|Yankton (SD)]]||1861||Capital of the [[Dakota Territory|Territory of Dakota]] (east of [[Continental Divide of the Americas|Continental Divide]] 1861–1863).
+|-
+|[[Lewiston, Idaho|Lewiston (ID)]]||1863||Capital of the [[Idaho Territory|Territory of Idaho]].
+|-
+|[[Bannack, Montana|Bannack]]||1864||rowspan=3|Capitals of the [[Montana Territory|Territory of Montana]].
+|-
+|[[Virginia City, Montana|Virginia City]]||1865
+|-
+|rowspan=2|'''[[Helena, Montana|Helena]]'''||1875
+|-
+|'''1889'''||'''Capital of the [[Montana|State of Montana]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=8|'''[[Nebraska]]'''<br /><small>[[History of Nebraska|Statehood in 1867]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[History of Missouri|''Alta Louisiana'']].
+|-
+|1800||Capital of the [[France|French]] district of [[Louisiana (New France)|''la Haute-Louisiane'']].
+|-
+|1804||Capital of the [[District of Louisiana]] (under the authority of the [[Indiana Territory]]).
+|-
+|1805||Capital of the [[Louisiana Territory|Territory of Louisiana]].
+|-
+|1812||Capital of the [[Missouri Territory|Territory of Missouri]] (1812–1821).
+|-
+|[[Omaha, Nebraska|Omaha]]||1854||rowspan=2|Capitals of the [[Nebraska Territory|Territory of Nebraska]].
+|-
+|rowspan=2|[[Lincoln, Nebraska|Lancaster<br />'''Lincoln''']]||1867
+|-
+|'''1867'''||'''Capital of the [[Nebraska|State of Nebraska]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=5|'''[[Nevada]]'''<ref>Rocha, Guy [http://dmla.clan.lib.nv.us/docs/nsla/archives/myth/myth28.htm Nevada State Archives Historical Myth a Month: Myth #28, Las Vegas: Nevada's Next State Capital] {{webarchive|url=https://web.archive.org/web/20030822030013/http://dmla.clan.lib.nv.us/docs/nsla/archives/myth/myth28.htm |date=August 22, 2003 }}. Updated July 14, 2003. Accessed June 9, 2005; originally published as Sierra Sage, Carson City/Carson Valley, Nevada. May 1998 edition.</ref><br /><small>[[Nevada#History|Statehood in 1864]]</small>
+|[[Fillmore, Utah|Fillmore (UT)]]||1850||rowspan=2|Capitals of the [[Utah Territory|Territory of Utah]].
+|-
+|[[Salt Lake City|Salt Lake City (UT)]]||1858
+|-
+|'''[[Genoa, Nevada|Genoa]]'''||1861||Capital of the [[Nevada Territory|Territory of Nevada]].
+|-
+|rowspan=2|'''[[Carson City, Nevada|Carson City]]'''||1861||Capital of the [[Nevada Territory|Territory of Nevada]].
+|-
+|'''1864'''||'''Capital of the [[Nevada|State of Nevada]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=11|'''[[New Hampshire]]'''<ref>[http://www.gencourt.state.nh.us/senate/misc/kids.html New Hampshire Senate Page For Kids]. New Hampshire General Court. Accessed June 9, 2005. [http://www.nh.gov/markers/brief.html New Hampshire History in Brief]. New Hampshire Division of Historical Resources. Created 1989. Accessed June 9, 2005.</ref><br /><small>[[History of New Hampshire|Statehood in 1776]]</small>
+|[[Boston|Boston (MA)]]||1630||Capital of the [[Kingdom of England|English]] [[Massachusetts Bay Colony|Colony of Massachusetts Bay]].
+|-
+|[[Portsmouth, New Hampshire|Portsmouth]]||1680||Capital of the [[Kingdom of England|English]] [[Province of New Hampshire]].
+|-
+|[[Boston|Boston (MA)]]||1686||Capital of the [[Kingdom of England|English]] [[Dominion of New England|Dominion of New-England in America]].
+|-
+|rowspan=5|[[Portsmouth, New Hampshire|Portsmouth]]||1689||Capital of the dissident [[Province of New Hampshire]].
+|-
+|1691||Capital of the [[Kingdom of England|English]] [[Province of New Hampshire]].
+|-
+|1698||Capital of the [[Kingdom of England|English]] [[Province of New Hampshire]] under jurisdiction of the Royal Governor of the [[Province of Massachusetts Bay]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Province of New Hampshire]] under jurisdiction of the Royal Governor of the [[Province of Massachusetts Bay]].
+|-
+|1741||Capital of the [[Kingdom of Great Britain|British]] [[Province of New Hampshire]].
+|-
+|rowspan=2|[[Exeter, New Hampshire|Exeter]]||1775||Capital of the [[American Revolutionary War|Revolutionary War]] government of [[New Hampshire]].
+|-
+|'''1776'''||rowspan=2|'''Capitals of the [[New Hampshire|State of New Hampshire]]'''.
+|-
+|'''[[Concord, New Hampshire|Concord]]'''||1808
+|- style="border-top: solid 2px #000"
+|rowspan=13|'''[[New Jersey]]'''<br /><small>[[History of New Jersey|Statehood in 1776]]</small>
+|rowspan=3|[[Fort Amsterdam|''Fort Amsterdam'' (NY)<br/><br/>New-York (NY)]]||1625||Capital of the [[Netherlands|Dutch]] colony of ''[[New Netherland|Nieuw-Nederland]]''.
+|-
+|1652||Capital of the [[Netherlands|Dutch]] province of ''[[New Netherland|Nieuw-Nederland]]''.
+|-
+|1664||Capital of the [[Kingdom of England|English]] [[Province of New York]].
+|-
+|[[Elizabeth, New Jersey|Elizabethtown (now Elizabeth)]]||1665||Capital of the [[Kingdom of England|English]] [[Province of New Jersey]].
+|-
+|[[Perth Amboy, New Jersey|Perth Amboy]]||rowspan=2|1673||Capital of the [[Kingdom of England|English]] [[East Jersey|Province of East Jersey]] 1673–1688.
+|-
+|[[Burlington, New Jersey|Burlington]]||Capital of the [[Kingdom of England|English]] [[West Jersey|Province of West Jersey]] 1673–1688.
+|-
+|[[Boston|Boston (MA)]]||1688||Capital of the [[Kingdom of England|English]] [[Dominion of New England|Dominion of New-England in America]] 1688–1689.
+|-
+|[[Perth Amboy, New Jersey|Perth Amboy]]||rowspan=2|1689||Capital of the [[Kingdom of England|English]] [[East Jersey|Province of East Jersey]] 1689–1702.
+|-
+|[[Burlington, New Jersey|Burlington]]||Capital of the [[Kingdom of England|English]] [[West Jersey|Province of West Jersey]] 1689–1702.
+|-
+|rowspan=3|joint capitals||1702||East Jersey and West Jersey were re-united as the [[Kingdom of England|English]] [[Province of New Jersey]] in 1702. Perth Amboy and Burlington served jointly as the capital until 1784.
+|-
+|1707||Joint capitals of the [[Kingdom of Great Britain|British]] [[Province of New Jersey]].
+|-
+|'''1776'''||Joint capitals of the [[New Jersey|State of New Jersey]].
+|-
+|'''[[Trenton, New Jersey|Trenton]]'''||1784||'''Capital of the [[New Jersey|State of New Jersey]]'''.<br />(Capital of the [[United States|United States of America]] in 1784).
+|- style="border-top: solid 2px #000"
+|rowspan=15|'''[[New Mexico]]'''<br /><small>[[History of New Mexico|Statehood in 1912]]</small>
+|[[Ohkay Owingeh, New Mexico|''San Juan de los Caballeros'']]||1598||rowspan=2|Capitals of the [[Spain|Spanish]] ''[[New Spain|Virreinato de la Nueva España]]'' province of ''[[Santa Fe de Nuevo México]]''.
+|-
+|[[Santa Fe, New Mexico#History|''La Villa Real de la Santa Fe de San Francisco de Asís'']]||1610
+|-
+|[[Taos Pueblo]]||1680||Capital of the Pueblo Republic (1680-1692).
+|-
+|[[Ciudad Juárez#History|''El Paso del Norte'' (now Ciudad Juárez, Mexico)]]||1680||Capital of the [[Spain|Spanish]] ''[[New Spain|Virreinato de la Nueva España]]'' province-in-exile of ''[[Santa Fe de Nuevo México]]'' ([[Pueblo Revolt]] 1680–1692).
+|-
+|rowspan=4|[[Santa Fe, New Mexico|''La Villa Real de la Santa Fé de San Francisco de Asís'']]||1692||Capital of the [[Spain|Spanish]] ''[[New Spain|Virreinato de la Nueva España]]'' province of ''[[Santa Fe de Nuevo México]]''.
+|-
+|1821||Capital of the [[First Mexican Empire]] province of ''[[Santa Fe de Nuevo México]]''.
+|-
+|1824||Capital of the [[First Mexican Republic]] territory of ''[[Santa Fe de Nuevo México]]''.
+|-
+|1835||Capital of the [[Centralist Republic of Mexico]] department of ''[[Santa Fe de Nuevo México]]''.
+|-
+|[[Taos Pueblo]]||1837||Capital of New Mexico during the [[Rio Arriba Rebellion]] against the [[Centralist Republic of Mexico]].
+|-
+|rowspan=6|[[Santa Fe, New Mexico|''La Villa Real de la Santa Fé de San Francisco de Asís''<br /><br />'''Santa Fe''']]||1837||Capital of the [[Centralist Republic of Mexico]] department of ''[[Santa Fe de Nuevo México]]''.
+|-
+|1846||Capital of the [[Second Federal Republic of Mexico]] territory of ''[[Santa Fe de Nuevo México]]''.
+|-
+|1846||Capital of the [[U.S. military government of New Mexico]] 1846.
+|-
+|1846||Capital of the [[U.S. provisional government of New Mexico]] 1846–1850.
+|-
+|1850||Capital of the U.S. [[New Mexico Territory|Territory of New Mexico]] 1850–1912.
+|-
+||'''1912'''||'''Capital of the [[New Mexico|State of New Mexico]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=15|'''[[New York (state)|New York]]'''<br /><small>[[History of New York (state)|Statehood in 1776]]</small>
+|rowspan=5|[[Fort Amsterdam|''Fort Amsterdam<br />Nieuw-Amsterdam''<br />New-York<br />''Nieuw-Oranje''<br />New-York]]||1625||Capital of the [[Netherlands|Dutch]] colony of ''[[New Netherland|Nieuw-Nederland]]'' (''Novum Belgium'').
+|-
+|1652||Capital of the [[Netherlands|Dutch]] province of ''[[New Netherland|Nieuw-Nederland]]''.
+|-
+|1664||Capital of the [[Kingdom of England|English]] [[Province of New York]].
+|-
+|1673||Capital of the [[Netherlands|Dutch]] military government of ''[[New Netherland|Nieuw-Nederland]]''.
+|-
+|1674||Capital of the [[Kingdom of England|English]] [[Province of New York]].
+|-
+|[[Boston|Boston (MA)]]||1688||Capital of the [[Kingdom of England|English]] [[Dominion of New England|Dominion of New-England in America]].
+|-
+|rowspan=4|[[New York City|New-York]]||1689||Capital of the [[Leisler's Rebellion|dissident government of New-York]].
+|-
+|1691||Capital of the [[Kingdom of England|English]] [[Province of New York]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Province of New York]].
+|-
+|'''1776'''||rowspan=4|Capitals of the [[New York (state)|State of New York]].
+|-
+|[[Kingston, New York|Kingston]]||1777
+|-
+|[[Hurley (town), New York|Hurley]]||1777
+|-
+|[[Poughkeepsie, New York|Poughkeepsie]]||1777
+|-
+|[[New York City|New York]]||1788||Capital of the [[New York (state)|State of New York]].<br />(Capital of the [[United States|United States of America]] 1785–1788 and 1789–1790).
+|-
+|'''[[Albany, New York|Albany]]'''||1797||'''Capital of the [[New York (state)|State of New York]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=7|'''[[North Carolina]]'''<br /><small>[[History of North Carolina|Statehood in 1776]]</small>
+|[[St. Augustine, Florida|''San Agustín'' (FL)]]||1565||Capital of the [[Spain|Spanish]] province of [[Spanish Florida|''La Florida'']].{{efn|name=Florida}}
+|-
+|rowspan=2|[[Charlestown, South Carolina|Charlestown (SC)]]{{efn|name=Charlestown|The modern spelling of 'Charleston' did not take hold until the 1780s.<ref>{{Cite podcast|last=Butler |first=Nic |date=August 9, 2019 |title=The Evolution of Charleston's Name |url=https://www.ccpl.org/charleston-time-machine/evolution-charlestons-name |access-date=July 11, 2022 |website=Charleston Time Machine |publisher=Charleston County Public Library}}</ref>}}||1670||Capital of the [[Kingdom of England|English]] [[Province of Carolina]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Province of Carolina]].
+|-
+|rowspan=2|[[New Bern, North Carolina|New Bern]]||1712||Capital of the [[Kingdom of Great Britain|British]] [[Province of North Carolina]].
+|-
+|'''1776'''||rowspan=3|'''Capitals of the [[North Carolina|State of North Carolina]]'''.
+|-
+|[[Fayetteville, North Carolina|Fayetteville]]||1789
+|-
+|'''[[Raleigh, North Carolina|Raleigh]]'''||1794
+|- style="border-top: solid 2px #000"
+|rowspan=15|'''[[North Dakota]]'''<br /><small>[[History of North Dakota|Statehood in 1889]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[History of Missouri|''Alta Louisiana'']].
+|-
+|1800||Capital of the [[France|French]] district of [[Louisiana (New France)|''la Haute-Louisiane'']].
+|-
+|1804||Capital of the [[District of Louisiana]] (under the authority of the [[Indiana Territory]]).
+|-
+|1805||Capital of the [[Louisiana Territory|Territory of Louisiana]].
+|-
+|1812||Capital of the [[Missouri Territory|Territory of Missouri]] (1812–1821).
+|-
+|[[Detroit|Detroit (MI)]]||1834||Capital of the [[Michigan Territory|Territory of Michigan]] (east of [[Missouri River]] and [[White Earth River (North Dakota)|White Earth River]] 1834–1836).
+|-
+|[[Belmont, Wisconsin|Belmont (WI)]]||1836||rowspan=2|Capitals of the [[Wisconsin Territory|Territory of Wisconsin]] (east of [[Missouri River]] and [[White Earth River (North Dakota)|White Earth River]] 1836–1838).
+|-
+|rowspan=2|[[Burlington, Iowa|Burlington (IA)]]||1837
+|-
+|1838||rowspan=2|Capitals of the [[Iowa Territory|Territory of Iowa]] (east of [[Missouri River]] and [[White Earth River (North Dakota)|White Earth River]] 1838–1846).
+|-
+|[[Iowa City, Iowa|Iowa City (IA)]]||1841
+|-
+|[[Saint Paul, Minnesota|Saint Paul (MN)]]||1849||Capital of the [[Minnesota Territory|Territory of Minnesota]] (east of [[Missouri River]] and [[White Earth River (North Dakota)|White Earth River]] 1849–1858).
+|-
+|[[Omaha, Nebraska|Omaha (NE)]]||1854||Capital of the [[Nebraska Territory|Territory of Nebraska]] (west of [[Missouri River]] or [[White Earth River (North Dakota)|White Earth River]] 1854–1861).
+|-
+|[[Yankton, South Dakota|Yankton (SD)]]||1861||rowspan=2|Capitals of the [[Dakota Territory|Territory of Dakota]].
+|-
+|rowspan=2|'''[[Bismarck, North Dakota|Bismarck]]'''||1883
+|-
+|'''1889'''||'''Capital of the [[North Dakota|State of North Dakota]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=6|'''[[Ohio]]'''<br /><small>[[History of Ohio|Statehood in 1803]]</small>
+|[[Marietta, Ohio|Marietta]]||1788||rowspan=2|Capitals of the [[Northwest Territory|Territory Northwest of the River Ohio]].
+|-
+|rowspan=2|[[Chillicothe, Ohio|Chillicothe]]||1800
+|-
+|'''1803'''||rowspan=4|'''Capitals of the [[Ohio|State of Ohio]]'''.
+|-
+|[[Zanesville, Ohio|Zanesville]]||1810
+|-
+|[[Chillicothe, Ohio|Chillicothe]]||1812
+|-
+|'''[[Columbus, Ohio|Columbus]]'''||1816
+|- style="border-top: solid 2px #000"
+|rowspan=17|'''[[Oklahoma]]'''<br /><small>[[History of Oklahoma|Statehood in 1907]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[History of Missouri|''Alta Louisiana'']].
+|-
+|1800||Capital of the [[France|French]] district of [[Louisiana (New France)|''la Haute-Louisiane'']].
+|-
+|1804||Capital of the [[District of Louisiana]] (under the authority of the [[Indiana Territory]]).
+|-
+|1805||Capital of the [[Louisiana Territory|Territory of Louisiana]].
+|-
+|1812||Capital of the [[Missouri Territory|Territory of Missouri]].
+|-
+|[[Arkansas Post|Arkansas Post (AR)]]||1819||rowspan=2|Capitals of the [[Arkansas Territory|Territory of Arkansaw]]{{efn|name=Arkansas}} (south of the [[Parallel 36°30′ north|parallel 36°30' north]] 1819–1824, southeastern Oklahoma 1824–1828).
+|-
+|[[Little Rock, Arkansas|Little Rock (AR)]]||1821
+|-
+|[[Fort Gibson, Oklahoma|Fort Gibson]]||1824||''De facto'' capital of the [[Indian Territory]].
+|-
+|[[Tahlequah, Oklahoma|Tahlequah]]||1838||Capital of the [[Cherokee Nation]].
+|-
+|[[Tuskahoma, Oklahoma|Tuskahoma]]||1838||Capital of the [[Choctaw Nation of Oklahoma|Choctaw Nation]].
+|-
+|[[Tishomingo, Oklahoma|Tishomingo]]||1855||Capital of the [[Chickasaw Nation]].
+|-
+|[[Wewoka, Oklahoma|Wewoka]]||1866||Capital of the [[Seminole|Seminole Nation]].
+|-
+|[[Okmulgee, Oklahoma|Okmulgee]]||1867||Capital of the [[Muscogee (Creek) Nation|Creek Nation]].
+|-
+|[[Pawhuska, Oklahoma|Pawhuska]]||1872||Capital of the [[Osage Nation]].
+|-
+|rowspan=2|[[Guthrie, Oklahoma|Guthrie]]||1889||Capital of the [[Oklahoma Territory|Territory of Oklahoma]].
+|-
+|'''1907'''||rowspan=2|'''Capitals of the [[Oklahoma|State of Oklahoma]]'''.
+|-
+|'''[[Oklahoma City]]'''||1910
+|- style="border-top: solid 2px #000"
+|rowspan=7|'''[[Oregon]]'''<ref>[https://sos.oregon.gov/archives/Pages/records/legislative_records_guide.aspx Oregon Legislative Assembly History]. Oregon State Archives. Accessed February 17, 2012.</ref><br /><small>[[History of Oregon|Statehood in 1859]]</small>
+|[[Champoeg, Oregon|Champoeg]]||1843||Temporary capital of the disputed [[Oregon Country]].
+|-
+|rowspan=2|[[Oregon City, Oregon|Oregon City]]||1843||Capital of the [[Provisional Government of Oregon]] in the [[Oregon Country]].<ref name=PDoOH>{{cite book
+|last=Clarke
+|first=S.A.
+|title=Pioneer Days of Oregon History
+|url=https://archive.org/details/pioneerdaysofore01clar
+|publisher=J.K. Gill Company
+|year=1905
+}}
+</ref>
+|-
+|1848||rowspan=4|Capitals of the [[Oregon Territory|Territory of Oregon]].
+|-
+|[[Salem, Oregon|Salem]]||1851
+|-
+|[[Corvallis, Oregon|Corvallis]]||1855
+|-
+|rowspan=2|'''[[Salem, Oregon|Salem]]'''||1855
+|-
+|'''1859'''||'''Capital of the [[Oregon|State of Oregon]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=6|'''[[Pennsylvania]]'''<ref>[http://www.statelibrary.state.pa.us/libraries/cwp/view.asp?a=11&Q=44089 The History of Pennsylvania's Capital]. Pennsylvania Department of Education. Accessed July 24, 2006.</ref><br /><small>[[History of Pennsylvania|Statehood in 1776]]</small>
+|''[[Fort Christina]]''||1638||Capital of the [[Sweden|Swedish]] colony of ''[[New Sweden|Nya Sverige]]''.
+|-
+|rowspan=3|[[Philadelphia]]||1682||Capital of the [[Kingdom of England|English]] [[Proprietary colony|proprietary]] [[Province of Pennsylvania|Colony of Pennsylvania]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Proprietary colony|proprietary]] [[Province of Pennsylvania|Colony of Pennsylvania]].
+|-
+|'''1776'''||Capital of the [[Pennsylvania|Commonwealth of Pennsylvania]].<br />(Capital of the [[United States|United States of America]] 1776, 1777, 1778–1783, and 1790–1800).
+|-
+|[[Lancaster, Pennsylvania|Lancaster]]||1799||Capital of the [[Pennsylvania|Commonwealth of Pennsylvania]].<br />(Capital of the [[United States|United States of America]] 1777).
+|-
+|'''[[Harrisburg, Pennsylvania|Harrisburg]]'''||1812||'''Capital of the [[Pennsylvania|Commonwealth of Pennsylvania]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=11|'''[[Rhode Island]]'''<br /><small>[[History of Rhode Island|Statehood in 1776]]</small>
+|[[Providence, Rhode Island|Providence]]||1636||Capital of the [[Kingdom of England|English]] [[History of Rhode Island|Colony of Providence]] 1636–1644.
+|-
+|rowspan=2|[[Portsmouth, Rhode Island|Portsmouth]]||1639||Capital of the [[Kingdom of England|English]] [[History of Rhode Island|Colony of Aquidneck Island]] 1639–1644.
+|-
+|1644||Capital of the [[Kingdom of England|English]] [[Colony of Rhode Island and Providence Plantations|Colony of Rhode Island]].
+|-
+|[[Providence, Rhode Island|Providence]]||1644||Capital of the [[Kingdom of England|English]] [[Colony of Rhode Island and Providence Plantations]].
+|-
+|[[Boston|Boston (MA)]]||1686||Capital of the [[Kingdom of England|English]] [[Dominion of New England|Dominion of New-England in America]].
+|-
+|rowspan=2|[[Providence, Rhode Island|Providence]]||1689||Capital of the [[Kingdom of England|English]] [[Colony of Rhode Island and Providence Plantations]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Colony of Rhode Island and Providence Plantations]].
+|-
+|five capitals||'''1776'''||From 1776 to 1853, the legislature of the [[Rhode Island|State of Rhode Island and Providence Plantations]] rotated among the county seats of the state's five counties: [[Providence, Rhode Island|Providence]], [[Newport, Rhode Island|Newport]], [[East Greenwich, Rhode Island|East Greenwich]], [[South Kingstown, Rhode Island|South Kingstown]], and [[Bristol, Rhode Island|Bristol]].
+|-
+|joint capitals||1854||From 1854 to 1899, the legislature of the [[Rhode Island|State of Rhode Island and Providence Plantations]] alternated sessions between Providence and Newport.
+|-
+|rowspan=2|'''[[Providence, Rhode Island|Providence]]'''||1900||Capital of the [[Rhode Island|State of Rhode Island and Providence Plantations]].
+|-
+|2020||'''Capital of the [[Rhode Island|State of Rhode Island]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=7|'''[[South Carolina]]'''<br /><small>[[History of South Carolina|Statehood in 1776]]</small>
+|[[Charlesfort-Santa Elena Site|''Charlesfort'' (SC)]]||1562||Capital of the [[France|French]] colony of [[French Florida|''Floride françoise'']].
+|-
+|[[St. Augustine, Florida|''San Agustín'' (FL)]]||1565||Capital of the [[Spain|Spanish]] province of [[Spanish Florida|''La Florida'']].{{efn|name=Florida}}
+|-
+|rowspan=4|[[Charlestown, South Carolina|Charlestown]]{{efn|name=Charlestown}}||1670||Capital of the [[Kingdom of England|English]] [[Province of Carolina]].
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Province of Carolina]].
+|-
+|1712||Capital of the [[Kingdom of Great Britain|British]] [[Province of South Carolina]].
+|-
+|'''1776'''||rowspan=2|'''Capitals of the [[South Carolina|State of South Carolina]]'''.
+|-
+|'''[[Columbia, South Carolina|Columbia]]'''||1786
+|- style="border-top: solid 2px #000"
+|rowspan=15|'''[[South Dakota]]'''<br /><small>[[South Dakota#History|Statehood in 1889]]</small>
+|rowspan = 5|[[St. Louis|''Saint-Louis''<br />''San Luis''<br />St. Louis (MO)]]||1765||Capital of the [[Spain|Spanish]] (though predominantly [[French language|Francophone]]) district of [[History of Missouri|''Alta Louisiana'']].
+|-
+|1800||Capital of the [[France|French]] district of [[Louisiana (New France)|''la Haute-Louisiane'']].
+|-
+|1804||Capital of the [[District of Louisiana]] (under the authority of the [[Indiana Territory]].)
+|-
+|1805||Capital of the [[Louisiana Territory|Territory of Louisiana]].
+|-
+|1812||Capital of the [[Missouri Territory|Territory of Missouri]] (1812–1821).
+|-
+|[[Detroit|Detroit (MI)]]||1834||Capital of the [[Michigan Territory|Territory of Michigan]] (east of [[Missouri River]] 1834–1836).
+|-
+|[[Belmont, Wisconsin|Belmont (WI)]]||1836||rowspan=2|Capitals of the [[Wisconsin Territory|Territory of Wisconsin]] (east of [[Missouri River]] 1836–1838).
+|-
+|rowspan=2|[[Burlington, Iowa|Burlington (IA)]]||1837
+|-
+|1838||rowspan=2|Capitals of the [[Iowa Territory|Territory of Iowa]] (east of [[Missouri River]] 1838–1846).
+|-
+|[[Iowa City, Iowa|Iowa City (IA)]]||1841
+|-
+|[[Saint Paul, Minnesota|Saint Paul (MN)]]||1849||Capital of the [[Minnesota Territory|Territory of Minnesota]] (east of [[Missouri River]] 1849–1858).
+|-
+|[[Omaha, Nebraska|Omaha (NE)]]||1854||Capital of the [[Nebraska Territory|Territory of Nebraska]] (west of [[Missouri River]] 1854–1861).
+|-
+|[[Yankton, South Dakota|Yankton]]||1861||rowspan=2|Capitals of the [[Dakota Territory|Territory of Dakota]].
+|-
+|[[Bismarck, North Dakota|Bismarck (ND)]]||1883
+|-
+|'''[[Pierre, South Dakota|Pierre]]'''||'''1889'''||'''Capital of the [[South Dakota|State of South Dakota]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=11|'''[[Tennessee]]'''<ref>[http://tennesseeencyclopedia.net/entry.php?rec=196 Capital Cities]. Tennessee Encyclopedia of History and Culture. 2002. Accessed March 12, 2006.</ref><br /><small>[[History of Tennessee|Statehood in 1796]]</small>
+|rowspan=2|[[New Bern, North Carolina|New Bern (NC)]]||1712||Capital of the [[Kingdom of Great Britain|British]] [[Province of North Carolina]].
+|-
+|1776||Capital of the [[North Carolina|State of North Carolina]].
+|-
+|[[Rocky Mount, Tennessee|Rocky Mount]]||1790||rowspan=2|Capitals of the [[Southwest Territory|Territory South of the River Ohio]].
+|-
+|rowspan=2|[[Knoxville, Tennessee|White's Fort<br />Knoxville]]||1791
+|-
+|'''1796'''||Capital of the [[Tennessee|State of Tennessee]].
+|-
+|[[Kingston, Tennessee|Kingston]]||1807||Capital of the [[Tennessee|State of Tennessee]] for one day in 1807 to fulfill treaty obligations with the [[Cherokee Nation]].
+|-
+|[[Knoxville, Tennessee|Knoxville]]||1807||rowspan=5|'''Capitals of the [[Tennessee|State of Tennessee]]'''.
+|-
+|[[Nashville, Tennessee|Nashville]]||1812
+|-
+|[[Knoxville, Tennessee|Knoxville]]||1817
+|-
+|[[Murfreesboro, Tennessee|Murfreesboro]]||1818
+|-
+|'''[[Nashville, Tennessee|Nashville]]'''||1826
+|- style="border-top: solid 2px #000"
+|rowspan=13|'''[[Texas]]'''<br /><small>[[History of Texas|Statehood in 1845]]</small>
+|[[Los Adaes|''Los Adaes'' (LA)]]||1729||rowspan=2|Capitals of the [[New Spain|Spanish]] province of [[Spanish Texas|''Tejas'']].
+|-
+|[[San Antonio|''San Antonio de Béxar'' (now San Antonio)]]||1772
+|-
+|[[Saltillo|''Saltillo'' (COA)]]||1824||rowspan=2|Capitals of the [[First Mexican Republic|Mexican]] province of [[Mexican Texas|''Coahuila y Tejas'']].
+|-
+|[[Monclova|''Monclova'' (COA)]]||1833
+|-
+|[[San Felipe, Texas|''San Felipe de Austin'']]||1835||rowspan=1|Capital of the [[Consultation (Texas)#Formation of government|Provisional Government of Texas]].
+|-
+|[[Washington-on-the-Brazos, Texas|Washington (now Washington-on-the-Brazos)]]||1836||rowspan=7|Capitals of the [[Republic of Texas]].
+|-
+|[[Galveston, Texas|Galveston]]||1836
+|-
+|[[Harrisburg, Houston|Harrisburg]]||1836
+|-
+|[[Velasco, Texas|Velasco]]||1836
+|-
+|[[West Columbia, Texas|Columbia]]||1836
+|-
+|[[Houston]]||1837
+|-
+|rowspan=2|'''[[Austin, Texas|Austin]]'''||1839
+|-
+|'''1845'''||'''Capital of the [[Texas|State of Texas]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=4|'''[[Utah]]'''<br /><small>[[History of Utah|Statehood in 1896]]</small>
+|[[Salt Lake City]]||1849||Capital of the extralegal [[State of Deseret]].
+|-
+|[[Fillmore, Utah|Fillmore]]||1850||rowspan=2|Capitals of the [[Utah Territory|Territory of Utah]].
+|-
+|rowspan=2|'''[[Salt Lake City]]'''||1858
+|-
+|'''1896'''||'''Capital of the [[Utah|State of Utah]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=5|'''[[Vermont]]'''<ref>[http://www.vermonthistory.org/links/monthist.htm Early History of Montpelier, Vermont] {{webarchive|url=https://web.archive.org/web/20050212023906/http://www.vermonthistory.org/links/monthist.htm |date=February 12, 2005}}. Vermont Historical Society. Accessed June 9, 2005; adapted from Esther Munroe Swift, Vermont Place-Names: Footprints of History, 1977, 1996, and Montpelier Heritage Group, Three Walking Tours of Montpelier, Vt., 1991.</ref><br /><small>[[History of Vermont|Statehood in 1791]]</small>
+|[[Westminster (town), Vermont|Westminster]]||1777||rowspan=2|Capitals of the [[Republic of New Connecticut]].
+|-
+|rowspan=3|[[Windsor, Vermont|Windsor]]||1777
+|-
+|1777||Capital of the [[Vermont Republic]].
+|-
+|'''1791'''||rowspan=2|'''Capitals of the [[Vermont|State of Vermont]]'''.
+|-
+|'''[[Montpelier, Vermont|Montpelier]]'''||1805
+|- style="border-top: solid 2px #000"
+|rowspan=6|'''[[Virginia]]'''<ref>[http://legis.state.va.us/cap_tours/about_our/cap_timeline.html About Our Capital] {{webarchive|url=https://web.archive.org/web/20060625024032/http://legis.state.va.us/cap_tours/about_our/cap_timeline.html |date=June 25, 2006 }}. Virginia General Assembly. Accessed July 20, 2006.</ref><br /><small>[[History of Virginia|Statehood in 1776]]</small>
+|[[St. Augustine, Florida|''San Agustín'' (FL)]]||1565||Capital of the [[Spain|Spanish]] province of [[Spanish Florida|''La Florida'']].{{efn|name=Florida}}
+|-
+|[[Jamestown, Virginia|Jamestown]]||1607|| rowspan="2" |Capitals of the [[Kingdom of England|English]] [[Colony of Virginia]].
+|-
+|rowspan=3|[[Williamsburg, Virginia|Middle Plantation<br />Williamsburg]]||1698
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Colony of Virginia]].
+|-
+|'''1776'''||Capital of the [[Virginia|Commonwealth of Virginia]].
+|-
+|'''[[Richmond, Virginia|Richmond]]'''||1780||'''Capital of the [[Virginia|Commonwealth of Virginia]]'''.<br />(Capital of the [[Confederate States of America]] 1861–1865.)<br />(A rival [[United States|pro-Union]] state government operated from [[Wheeling, West Virginia|Wheeling]] 1861–1863 and from [[Alexandria, Virginia|Alexandria]] 1863–1865).
+|- style="border-top: solid 2px #000"
+|rowspan=6|'''[[Washington (state)|Washington]]'''<ref>[http://www.ci.olympia.wa.us/information/history.asp The History of Olympia]. City of Olympia. Accessed June 9, 2005.</ref><br /><small>[[History of Washington (state)|Statehood in 1889]]</small>
+|[[Champoeg, Oregon|Champoeg (OR)]]||1843||Temporary capital of the disputed [[Oregon Country]].
+|-
+|rowspan=2|[[Oregon City, Oregon|Oregon City (OR)]]||1843||Capital of the [[Provisional Government of Oregon]] in the [[Oregon Country]].<ref name=PDoOH/>
+|-
+|1848||rowspan=2|Capitals of the [[Oregon Territory|Territory of Oregon]].
+|-
+|[[Salem, Oregon|Salem (OR)]]||1851
+|-
+|rowspan=2|'''[[Olympia, Washington|Olympia]]'''||1853||Capital of the [[Washington Territory|Territory of Washington]].
+|-
+|'''1889'''||'''Capital of the [[Washington (state)|State of Washington]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=10|'''[[West Virginia]]'''<br /><small>[[History of West Virginia|Statehood in 1863]]</small>
+|[[Jamestown, Virginia|Jamestown (VA)]]||1619||rowspan=2|Capitals of the [[Kingdom of England|English]] [[Colony of Virginia]].
+|-
+|rowspan=3|[[Williamsburg, Virginia|Middle Plantation (VA)<br />Williamsburg (VA)]]||1698
+|-
+|1707||Capital of the [[Kingdom of Great Britain|British]] [[Colony of Virginia]].
+|-
+|1776||rowspan=2|Capitals of the [[Virginia|Commonwealth of Virginia]].
+|-
+|[[Richmond, Virginia|Richmond (VA)]]||1780
+|-
+|rowspan=2|[[Wheeling, West Virginia|Wheeling]]||1861||Capital of the rival [[United States|pro-Union]] government of the [[Virginia|Commonwealth of Virginia]].
+|-
+|'''1863'''||rowspan=4|'''Capitals of the [[West Virginia|State of West Virginia]]'''.
+|-
+|[[Charleston, West Virginia|Charleston]]||1870
+|-
+|[[Wheeling, West Virginia|Wheeling]]||1875
+|-
+|'''[[Charleston, West Virginia|Charleston]]'''||1885
+|- style="border-top: solid 2px #000"
+|rowspan=8|'''[[Wisconsin]]'''<ref>Cravens, Stanley H.[http://www.legis.state.wi.us/lrb/pubs/feature/capitols2.pdf  "Capitals and Capitols in Early Wisconsin"] {{webarchive|url=https://web.archive.org/web/20060623000950/http://www.legis.state.wi.us/lrb/pubs/feature/capitols2.pdf |date=June 23, 2006 }}. [http://www.legis.state.wi.us/lrb/bb/ Wisconsin Blue Book] {{webarchive|url=https://web.archive.org/web/20060209084953/http://www.legis.state.wi.us/lrb/bb/ |date=February 9, 2006 }}, 1983–1984 edition.</ref><br /><small>[[History of Wisconsin|Statehood in 1848]]</small>
+|[[Marietta, Ohio|Marietta (OH)]]||1788||Capital of the [[Northwest Territory|Territory Northwest of the River Ohio]].
+|-
+|[[Vincennes, Indiana|Vincennes (IN)]]||1800||Capital of the [[Indiana Territory|Territory of Indiana]].
+|-
+|[[Kaskaskia, Illinois|Kaskaskia (IL)]]||1809||Capital of the [[Illinois Territory|Territory of Illinois]].
+|-
+|[[Detroit|Detroit (MI)]]||1818||Capital of the [[Michigan Territory|Territory of Michigan]].
+|-
+|[[Belmont, Wisconsin|Belmont]]||1836||rowspan=3|Capitals of the [[Wisconsin Territory|Territory of Wisconsin]].
+|-
+|[[Burlington, Iowa|Burlington (IA)]]||1837
+|-
+|rowspan=2|'''[[Madison, Wisconsin|Madison]]'''||1838
+|-
+|'''1848'''||'''Capital of the [[Wisconsin|State of Wisconsin]]'''.
+|- style="border-top: solid 2px #000"
+|rowspan=4|'''[[Wyoming]]'''<ref>Saban, Mary Thompson, [http://homepages.rootsweb.com/~sabthomp/wyoming/wysage.htm Wyoming Sage: Brief History of Wyoming]. Updated January 17, 2004. Accessed June 10, 2005.</ref><br /><small>[[Wyoming#History|Statehood in 1890]]</small>
+|[[Lewiston, Idaho|Lewiston (ID)]]||1863||Capital of the [[Idaho Territory|Territory of Idaho]].
+|-
+|[[Yankton, South Dakota|Yankton (SD)]]||1864||Capital of the [[Dakota Territory|Territory of Dakota]].
+|-
+|rowspan=2|'''[[Cheyenne, Wyoming|Cheyenne]]'''||1869||Capital of the [[Wyoming Territory|Territory of Wyoming]].
+|-
+|'''1890'''||'''Capital of the [[Wyoming|State of Wyoming]]'''.
+|-
+|}
+
+==See also==
+*[[History of the United States]]
+*[[List of largest cities of U.S. states and territories by population]]
+*[[List of state and territorial capitols in the United States]]
+*[[List of states and territories of the United States]]
+*[[Lists of capitals]]
+*[[Outline of United States history]]
+*[[Relocation of the United States Government to Trenton]] (1799)
+*[[Territorial evolution of the United States]]
+*[[Territories of the United States]]
+*[[Timeline of geopolitical changes]]
+
+== Explanatory notes ==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Christian Montes. ''American Capitals: A Historical Geography'' (University of Chicago Press; 2014) 394 pages; scholarly study of geographic and other factors that have shaped the designation of capitals in all 50 states
+
+==External links==
+{{sister project links|state capital}}
+*[http://dhr.dos.state.fl.us/flafacts/capitol.html Florida Facts - The Capitol] {{Webarchive|url=http://webarchive.loc.gov/all/20011117013347/http://dhr.dos.state.fl.us/flafacts/capitol.html |date=November 17, 2001 }}
+*[http://www.rootsweb.com/~gamacon/capitalization.htm The Capitalization of Georgia]
+*[https://web.archive.org/web/20030826143331/http://www.sec.state.la.us/museums/osc/exhibits/statehouse/stathse-bro.pdf The State Houses of Louisiana]
+*[https://web.archive.org/web/20030822030013/http://dmla.clan.lib.nv.us/docs/nsla/archives/myth/myth28.htm Las Vegas: Nevada's Next State Capital?]
+*[http://www.gencourt.state.nh.us/senate/misc/kids.html New Hampshire Senate for Kids - Capitals]
+*[http://www.tshaonline.org/handbook/online/articles/mzc01 ''Handbook of Texas Online'' – Capitals]
+*[https://web.archive.org/web/20040215004351/http://www.ls.net/~newriver/va/colcap.htm Colonial Capitals of the Dominion of Virginia]
+*[https://web.archive.org/web/20050404193328/http://historytogo.utah.gov/utcapitol.html Utah History To Go - Utah's Capitols]
+
+{{US state capitals}}
+{{USStateLists}}
+{{Location of US capital}}
+{{US State Capitols}}
+
+{{DEFAULTSORT:Capitals In The United States list of}}
+[[Category:Lists of cities in the United States]]
+[[Category:States of the United States-related lists]]
+[[Category:Lists of capital cities|United States]]
+[[Category:Lists of capital cities of country subdivisions|United States]]
+[[Category:State capitals in the United States]]
